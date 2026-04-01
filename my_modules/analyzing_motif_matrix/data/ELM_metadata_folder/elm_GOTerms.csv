@@ -1,0 +1,3045 @@
+ELM,GOTerm ID,GOTerm Title
+CLV_C14_Caspase3-7,GO:0006915,apoptosis
+CLV_C14_Caspase3-7,GO:0030154,cell differentiation
+CLV_C14_Caspase3-7,GO:0008283,cell proliferation
+CLV_C14_Caspase3-7,GO:0004197,cysteine-type endopeptidase activity
+CLV_C14_Caspase3-7,GO:0005829,cytosol
+CLV_C14_Caspase3-7,GO:0005634,nucleus
+CLV_C14_Caspase3-7,GO:0005515,protein binding
+CLV_C14_Caspase3-7,GO:0006508,proteolysis and peptidolysis
+CLV_C14_Caspase3-7,GO:0001817,regulation of cytokine production
+CLV_MEL_PAP_1,GO:0003793,defense/immunity protein activity
+CLV_MEL_PAP_1,GO:0005576,extracellular
+CLV_MEL_PAP_1,GO:0006508,proteolysis and peptidolysis
+CLV_NRD_NRD_1,GO:0009928,cell surface
+CLV_NRD_NRD_1,GO:0005576,extracellular
+CLV_NRD_NRD_1,GO:0005794,Golgi apparatus
+CLV_NRD_NRD_1,GO:0004222,metalloendopeptidase
+CLV_NRD_NRD_1,GO:0016919,nardilysin
+CLV_NRD_NRD_1,GO:0006508,proteolysis and peptidolysis
+CLV_PCSK_FUR_1,GO:0005576,extracellular
+CLV_PCSK_FUR_1,GO:0004276,furin
+CLV_PCSK_FUR_1,GO:0005794,Golgi apparatus
+CLV_PCSK_FUR_1,GO:0000139,Golgi membrane
+CLV_PCSK_FUR_1,GO:0006508,proteolysis and peptidolysis
+CLV_PCSK_KEX2_1,GO:0005576,extracellular
+CLV_PCSK_KEX2_1,GO:0005794,Golgi apparatus
+CLV_PCSK_KEX2_1,GO:0004290,kexin
+CLV_PCSK_KEX2_1,GO:0006508,proteolysis and peptidolysis
+CLV_PCSK_PC1ET2_1,GO:0005576,extracellular
+CLV_PCSK_PC1ET2_1,GO:0005794,Golgi apparatus
+CLV_PCSK_PC1ET2_1,GO:0000139,Golgi membrane
+CLV_PCSK_PC1ET2_1,GO:0004285,proprotein convertase 1
+CLV_PCSK_PC1ET2_1,GO:0004286,proprotein convertase 2
+CLV_PCSK_PC1ET2_1,GO:0006508,proteolysis and peptidolysis
+CLV_PCSK_PC7_1,GO:0005576,extracellular
+CLV_PCSK_PC7_1,GO:0005794,Golgi apparatus
+CLV_PCSK_PC7_1,GO:0000139,Golgi membrane
+CLV_PCSK_PC7_1,GO:0016808,proprotein convertase
+CLV_PCSK_PC7_1,GO:0006508,proteolysis and peptidolysis
+CLV_PCSK_SKI1_1,GO:0005783,endoplasmic reticulum
+CLV_PCSK_SKI1_1,GO:0005788,endoplasmic reticulum lumen
+CLV_PCSK_SKI1_1,GO:0005576,extracellular
+CLV_PCSK_SKI1_1,GO:0005794,Golgi apparatus
+CLV_PCSK_SKI1_1,GO:0008233,peptidase
+CLV_PCSK_SKI1_1,GO:0006508,proteolysis and peptidolysis
+CLV_PCSK_SKI1_1,GO:0004289,subtilase
+CLV_Separin_Fungi,GO:0007049,cell cycle
+CLV_Separin_Fungi,GO:0005813,centrosome
+CLV_Separin_Fungi,GO:0008234,cysteine-type peptidase activity
+CLV_Separin_Fungi,GO:0005829,cytosol
+CLV_Separin_Fungi,GO:0004175,endopeptidase activity
+CLV_Separin_Fungi,GO:0045144,meiotic sister chromatid segregation
+CLV_Separin_Fungi,GO:0000070,mitotic sister chromatid separation
+CLV_Separin_Fungi,GO:0005634,nucleus
+CLV_Separin_Fungi,GO:0005515,protein binding
+CLV_Separin_Metazoa,GO:0007049,cell cycle
+CLV_Separin_Metazoa,GO:0005813,centrosome
+CLV_Separin_Metazoa,GO:0008234,cysteine-type peptidase activity
+CLV_Separin_Metazoa,GO:0005829,cytosol
+CLV_Separin_Metazoa,GO:0004175,endopeptidase activity
+CLV_Separin_Metazoa,GO:0045144,meiotic sister chromatid segregation
+CLV_Separin_Metazoa,GO:0000070,mitotic sister chromatid separation
+CLV_Separin_Metazoa,GO:0005634,nucleus
+CLV_Separin_Metazoa,GO:0005515,protein binding
+CLV_TASPASE1,GO:0005634,nucleus
+CLV_TASPASE1,GO:0006350,transcription
+DEG_APCC_DBOX_1,GO:0000074,cell cycle control
+DEG_APCC_DBOX_1,GO:0005829,cytosol
+DEG_APCC_DBOX_1,GO:0005634,nucleus
+DEG_APCC_DBOX_1,GO:0043161,proteasomal ubiquitin-dependent protein catabolic process
+DEG_APCC_DBOX_1,GO:0019904,protein domain specific binding
+DEG_APCC_KENBOX_2,GO:0000074,cell cycle control
+DEG_APCC_KENBOX_2,GO:0005829,cytosol
+DEG_APCC_KENBOX_2,GO:0005634,nucleus
+DEG_APCC_KENBOX_2,GO:0043161,proteasomal ubiquitin-dependent protein catabolic process
+DEG_APCC_KENBOX_2,GO:0019904,protein domain specific binding
+DEG_APCC_TPR_1,GO:0051488,activation of anaphase-promoting complex activity
+DEG_APCC_TPR_1,GO:0005680,anaphase-promoting complex
+DEG_APCC_TPR_1,GO:0031145,anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process
+DEG_APCC_TPR_1,GO:0044770,cell cycle phase transition
+DEG_APCC_TPR_1,GO:0005829,cytosol
+DEG_APCC_TPR_1,GO:0005634,nucleus
+DEG_APCC_TPR_1,GO:0005515,protein binding
+DEG_APCC_TPR_1,GO:0051988,regulation of attachment of spindle microtubules to kinetochore
+DEG_APCC_TPR_1,GO:0000922,spindle pole
+DEG_APCC_TPR_1,GO:0004842,ubiquitin-protein ligase activity
+DEG_COP1_1,GO:0005829,cytosol
+DEG_COP1_1,GO:0042593,glucose homeostasis
+DEG_COP1_1,GO:0010100,negative regulation of photomorphogenesis
+DEG_COP1_1,GO:0005634,nucleus
+DEG_COP1_1,GO:0008284,positive regulation of cell proliferation
+DEG_COP1_1,GO:0032436,positive regulation of proteasomal ubiquitin-dependent protein catabolic process
+DEG_COP1_1,GO:0005515,protein binding
+DEG_COP1_1,GO:0006355,"Regulation of transcription, DNA-dependent"
+DEG_COP1_1,GO:0031625,ubiquitin protein ligase binding
+DEG_CRBN_cyclicCter_1,GO:1990000,amyloid fibril formation
+DEG_CRBN_cyclicCter_1,GO:0071407,cellular response to organic cyclic compound
+DEG_CRBN_cyclicCter_1,GO:0031464,Cul4A-RING E3 ubiquitin ligase complex
+DEG_CRBN_cyclicCter_1,GO:0005829,cytosol
+DEG_CRBN_cyclicCter_1,GO:0005886,plasma membrane
+DEG_CRBN_cyclicCter_1,GO:0005515,protein binding
+DEG_CRBN_cyclicCter_1,GO:0016567,protein ubiquitination
+DEG_CRL4_CDT2_1,GO:0005717,Chromatin
+DEG_CRL4_CDT2_1,GO:0080008,CUL4 RING ubiquitin ligase complex
+DEG_CRL4_CDT2_1,GO:0000082,G1/S transition of mitotic cell cycle
+DEG_CRL4_CDT2_1,GO:0005634,nucleus
+DEG_CRL4_CDT2_1,GO:0005515,protein binding
+DEG_CRL4_CDT2_1,GO:0000209,protein polyubiquitination
+DEG_CRL4_CDT2_1,GO:2000001,regulation of DNA damage checkpoint
+DEG_CRL4_CDT2_1,GO:0006511,ubiquitin-dependent protein catabolism
+DEG_CRL4_CDT2_1,GO:0004842,ubiquitin-protein ligase activity
+DEG_CRL4_CDT2_2,GO:0005717,Chromatin
+DEG_CRL4_CDT2_2,GO:0080008,CUL4 RING ubiquitin ligase complex
+DEG_CRL4_CDT2_2,GO:0000082,G1/S transition of mitotic cell cycle
+DEG_CRL4_CDT2_2,GO:0005634,nucleus
+DEG_CRL4_CDT2_2,GO:0005515,protein binding
+DEG_CRL4_CDT2_2,GO:0000209,protein polyubiquitination
+DEG_CRL4_CDT2_2,GO:2000001,regulation of DNA damage checkpoint
+DEG_CRL4_CDT2_2,GO:0006511,ubiquitin-dependent protein catabolism
+DEG_CRL4_CDT2_2,GO:0004842,ubiquitin-protein ligase activity
+DEG_Cend_DCAF12_1,GO:0043161,proteasomal ubiquitin-dependent protein catabolic process
+DEG_Cend_DCAF12_1,GO:0005515,protein binding
+DEG_Cend_DCAF12_1,GO:0019904,protein domain specific binding
+DEG_Cend_DCAF12_1,GO:0004842,ubiquitin-protein ligase activity
+DEG_Cend_DCAF12_1,GO:0000074,cell cycle control
+DEG_Cend_DCAF12_1,GO:0031464,Cul4A-RING E3 ubiquitin ligase complex
+DEG_Cend_DCAF12_1,GO:0005829,cytosol
+DEG_Cend_DCAF12_1,GO:0005634,nucleus
+DEG_Cend_FEM1AC_1,GO:0000074,cell cycle control
+DEG_Cend_FEM1AC_1,GO:0031462,Cul2-RING ubiquitin ligase complex
+DEG_Cend_FEM1AC_1,GO:0005829,cytosol
+DEG_Cend_FEM1AC_1,GO:0005634,nucleus
+DEG_Cend_FEM1AC_1,GO:0043161,proteasomal ubiquitin-dependent protein catabolic process
+DEG_Cend_FEM1AC_1,GO:0005515,protein binding
+DEG_Cend_FEM1AC_1,GO:0019904,protein domain specific binding
+DEG_Cend_FEM1AC_1,GO:0004842,ubiquitin-protein ligase activity
+DEG_Cend_FEM1B_2,GO:0000074,cell cycle control
+DEG_Cend_FEM1B_2,GO:0031462,Cul2-RING ubiquitin ligase complex
+DEG_Cend_FEM1B_2,GO:0005829,cytosol
+DEG_Cend_FEM1B_2,GO:0005634,nucleus
+DEG_Cend_FEM1B_2,GO:0043161,proteasomal ubiquitin-dependent protein catabolic process
+DEG_Cend_FEM1B_2,GO:0005515,protein binding
+DEG_Cend_FEM1B_2,GO:0019904,protein domain specific binding
+DEG_Cend_FEM1B_2,GO:0004842,ubiquitin-protein ligase activity
+DEG_Cend_KLHDC2_1,GO:0000074,cell cycle control
+DEG_Cend_KLHDC2_1,GO:0005829,cytosol
+DEG_Cend_KLHDC2_1,GO:1990615,Kelch-containing formin regulatory complex
+DEG_Cend_KLHDC2_1,GO:0005634,nucleus
+DEG_Cend_KLHDC2_1,GO:0043161,proteasomal ubiquitin-dependent protein catabolic process
+DEG_Cend_KLHDC2_1,GO:0005515,protein binding
+DEG_Cend_KLHDC2_1,GO:0019904,protein domain specific binding
+DEG_Cend_KLHDC2_1,GO:0001514,selenocysteine incorporation
+DEG_Cend_KLHDC2_1,GO:0004842,ubiquitin-protein ligase activity
+DEG_Cend_TRIM7_1,GO:0000074,cell cycle control
+DEG_Cend_TRIM7_1,GO:0005829,cytosol
+DEG_Cend_TRIM7_1,GO:0045087,innate immune response
+DEG_Cend_TRIM7_1,GO:0005634,nucleus
+DEG_Cend_TRIM7_1,GO:0043161,proteasomal ubiquitin-dependent protein catabolic process
+DEG_Cend_TRIM7_1,GO:0005515,protein binding
+DEG_Cend_TRIM7_1,GO:0019904,protein domain specific binding
+DEG_Cend_TRIM7_1,GO:0004842,ubiquitin-protein ligase activity
+DEG_Kelch_KLHL12_1,GO:0030135,coated vesicle
+DEG_Kelch_KLHL12_1,GO:0048208,COPII vesicle coating
+DEG_Kelch_KLHL12_1,GO:0031463,Cul3-RING ubiquitin ligase complex
+DEG_Kelch_KLHL12_1,GO:0030659,cytoplasmic vesicle membrane
+DEG_Kelch_KLHL12_1,GO:0005829,cytosol
+DEG_Kelch_KLHL12_1,GO:0043161,proteasomal ubiquitin-dependent protein catabolic process
+DEG_Kelch_KLHL12_1,GO:0006511,ubiquitin-dependent protein catabolism
+DEG_Kelch_KLHL12_1,GO:0031625,ubiquitin protein ligase binding
+DEG_Kelch_KLHL12_1,GO:0016055,Wnt receptor signaling pathway
+DEG_Kelch_KLHL3_1,GO:0005829,cytosol
+DEG_Kelch_KLHL3_1,GO:0006811,ion transport
+DEG_Kelch_KLHL3_1,GO:0043161,proteasomal ubiquitin-dependent protein catabolic process
+DEG_Kelch_KLHL3_1,GO:0019904,protein domain specific binding
+DEG_Kelch_KLHL3_1,GO:0019901,protein kinase binding
+DEG_Kelch_KLHL3_1,GO:0007243,protein kinase cascade
+DEG_Kelch_KLHL3_1,GO:0006511,ubiquitin-dependent protein catabolism
+DEG_Kelch_Keap1_1,GO:0005776,autophagic vacuole
+DEG_Kelch_Keap1_1,GO:0034599,cellular response to oxidative stress
+DEG_Kelch_Keap1_1,GO:0031463,Cul3-RING ubiquitin ligase complex
+DEG_Kelch_Keap1_1,GO:0005829,cytosol
+DEG_Kelch_Keap1_1,GO:0016236,macroautophagy
+DEG_Kelch_Keap1_1,GO:0005634,nucleus
+DEG_Kelch_Keap1_1,GO:0043161,proteasomal ubiquitin-dependent protein catabolic process
+DEG_Kelch_Keap1_1,GO:0019904,protein domain specific binding
+DEG_Kelch_Keap1_1,GO:0019901,protein kinase binding
+DEG_Kelch_Keap1_1,GO:0031396,regulation of protein ubiquitination
+DEG_Kelch_Keap1_1,GO:0006511,ubiquitin-dependent protein catabolism
+DEG_Kelch_Keap1_1,GO:0004842,ubiquitin-protein ligase activity
+DEG_Kelch_Keap1_2,GO:0005776,autophagic vacuole
+DEG_Kelch_Keap1_2,GO:0034599,cellular response to oxidative stress
+DEG_Kelch_Keap1_2,GO:0031463,Cul3-RING ubiquitin ligase complex
+DEG_Kelch_Keap1_2,GO:0005829,cytosol
+DEG_Kelch_Keap1_2,GO:0016236,macroautophagy
+DEG_Kelch_Keap1_2,GO:0005634,nucleus
+DEG_Kelch_Keap1_2,GO:0043161,proteasomal ubiquitin-dependent protein catabolic process
+DEG_Kelch_Keap1_2,GO:0019904,protein domain specific binding
+DEG_Kelch_Keap1_2,GO:0019901,protein kinase binding
+DEG_Kelch_Keap1_2,GO:0031396,regulation of protein ubiquitination
+DEG_Kelch_Keap1_2,GO:0006511,ubiquitin-dependent protein catabolism
+DEG_Kelch_Keap1_2,GO:0004842,ubiquitin-protein ligase activity
+DEG_Kelch_actinfilin_1,GO:0031463,Cul3-RING ubiquitin ligase complex
+DEG_Kelch_actinfilin_1,GO:0005829,cytosol
+DEG_Kelch_actinfilin_1,GO:0008328,ionotropic glutamate receptor complex
+DEG_Kelch_actinfilin_1,GO:0045211,postsynaptic membrane
+DEG_Kelch_actinfilin_1,GO:0043161,proteasomal ubiquitin-dependent protein catabolic process
+DEG_Kelch_actinfilin_1,GO:0019904,protein domain specific binding
+DEG_Kelch_actinfilin_1,GO:0043113,receptor clustering
+DEG_Kelch_actinfilin_1,GO:0031396,regulation of protein ubiquitination
+DEG_Kelch_actinfilin_1,GO:0007268,synaptic transmission
+DEG_Kelch_actinfilin_1,GO:0006511,ubiquitin-dependent protein catabolism
+DEG_MDM2_SWIB_1,GO:0006915,apoptosis
+DEG_MDM2_SWIB_1,GO:0007569,cell aging
+DEG_MDM2_SWIB_1,GO:0007050,cell cycle arrest
+DEG_MDM2_SWIB_1,GO:0008283,cell proliferation
+DEG_MDM2_SWIB_1,GO:0005829,cytosol
+DEG_MDM2_SWIB_1,GO:0006281,DNA repair
+DEG_MDM2_SWIB_1,GO:0097371,MDM2/MDM4 family protein binding
+DEG_MDM2_SWIB_1,GO:0005634,nucleus
+DEG_MDM2_SWIB_1,GO:0000211,protein degradation tagging activity
+DEG_MDM2_SWIB_1,GO:0061630,ubiquitin protein ligase activity
+DEG_Nend_Nbox_1,GO:0005829,cytosol
+DEG_Nend_Nbox_1,GO:0000209,protein polyubiquitination
+DEG_Nend_Nbox_1,GO:0071596,ubiquitin-dependent protein catabolic process via the N-end rule pathway
+DEG_Nend_Nbox_1,GO:0004842,ubiquitin-protein ligase activity
+DEG_Nend_UBRbox_1,GO:0005829,cytosol
+DEG_Nend_UBRbox_1,GO:0000209,protein polyubiquitination
+DEG_Nend_UBRbox_1,GO:0071596,ubiquitin-dependent protein catabolic process via the N-end rule pathway
+DEG_Nend_UBRbox_1,GO:0004842,ubiquitin-protein ligase activity
+DEG_Nend_UBRbox_2,GO:0005829,cytosol
+DEG_Nend_UBRbox_2,GO:0000209,protein polyubiquitination
+DEG_Nend_UBRbox_2,GO:0071596,ubiquitin-dependent protein catabolic process via the N-end rule pathway
+DEG_Nend_UBRbox_2,GO:0004842,ubiquitin-protein ligase activity
+DEG_Nend_UBRbox_3,GO:0005829,cytosol
+DEG_Nend_UBRbox_3,GO:0000209,protein polyubiquitination
+DEG_Nend_UBRbox_3,GO:0071596,ubiquitin-dependent protein catabolic process via the N-end rule pathway
+DEG_Nend_UBRbox_3,GO:0004842,ubiquitin-protein ligase activity
+DEG_Nend_UBRbox_4,GO:0005829,cytosol
+DEG_Nend_UBRbox_4,GO:0000209,protein polyubiquitination
+DEG_Nend_UBRbox_4,GO:0071596,ubiquitin-dependent protein catabolic process via the N-end rule pathway
+DEG_Nend_UBRbox_4,GO:0004842,ubiquitin-protein ligase activity
+DEG_ODPH_VHL_1,GO:0005829,cytosol
+DEG_ODPH_VHL_1,GO:0005634,nucleus
+DEG_ODPH_VHL_1,GO:0005515,protein binding
+DEG_ODPH_VHL_1,GO:0006355,"Regulation of transcription, DNA-dependent"
+DEG_ODPH_VHL_1,GO:0001666,Response to hypoxia
+DEG_ODPH_VHL_1,GO:0004871,signal transducer
+DEG_ODPH_VHL_1,GO:0007165,signal transduction
+DEG_SCF_COI1_1,GO:0009867,jasmonic acid mediated signaling pathway
+DEG_SCF_COI1_1,GO:0005634,nucleus
+DEG_SCF_COI1_1,GO:0005515,protein binding
+DEG_SCF_COI1_1,GO:0031396,regulation of protein ubiquitination
+DEG_SCF_COI1_1,GO:0019005,SCF ubiquitin ligase complex
+DEG_SCF_COI1_1,GO:0006511,ubiquitin-dependent protein catabolism
+DEG_SCF_COI1_1,GO:0004842,ubiquitin-protein ligase activity
+DEG_SCF_FBW7_1,GO:0005829,cytosol
+DEG_SCF_FBW7_1,GO:0005634,nucleus
+DEG_SCF_FBW7_1,GO:0005515,protein binding
+DEG_SCF_FBW7_1,GO:0031396,regulation of protein ubiquitination
+DEG_SCF_FBW7_1,GO:0004840,ubiquitin conjugating enzyme activity
+DEG_SCF_FBW7_1,GO:0006511,ubiquitin-dependent protein catabolism
+DEG_SCF_FBW7_1,GO:0004842,ubiquitin-protein ligase activity
+DEG_SCF_FBW7_2,GO:0005829,cytosol
+DEG_SCF_FBW7_2,GO:0005634,nucleus
+DEG_SCF_FBW7_2,GO:0005515,protein binding
+DEG_SCF_FBW7_2,GO:0031396,regulation of protein ubiquitination
+DEG_SCF_FBW7_2,GO:0004840,ubiquitin conjugating enzyme activity
+DEG_SCF_FBW7_2,GO:0006511,ubiquitin-dependent protein catabolism
+DEG_SCF_FBW7_2,GO:0004842,ubiquitin-protein ligase activity
+DEG_SCF_FBXO31_1,GO:0005829,cytosol
+DEG_SCF_FBXO31_1,GO:0031575,mitotic cell cycle G1/S transition checkpoint
+DEG_SCF_FBXO31_1,GO:0005634,nucleus
+DEG_SCF_FBXO31_1,GO:0005515,protein binding
+DEG_SCF_FBXO31_1,GO:0000209,protein polyubiquitination
+DEG_SCF_FBXO31_1,GO:0031396,regulation of protein ubiquitination
+DEG_SCF_FBXO31_1,GO:0019005,SCF ubiquitin ligase complex
+DEG_SCF_FBXO31_1,GO:0006511,ubiquitin-dependent protein catabolism
+DEG_SCF_FBXO31_1,GO:0004842,ubiquitin-protein ligase activity
+DEG_SCF_SKP2-CKS1_1,GO:0005829,cytosol
+DEG_SCF_SKP2-CKS1_1,GO:0031575,mitotic cell cycle G1/S transition checkpoint
+DEG_SCF_SKP2-CKS1_1,GO:0005634,nucleus
+DEG_SCF_SKP2-CKS1_1,GO:0005515,protein binding
+DEG_SCF_SKP2-CKS1_1,GO:0000209,protein polyubiquitination
+DEG_SCF_SKP2-CKS1_1,GO:0019005,SCF ubiquitin ligase complex
+DEG_SCF_SKP2-CKS1_1,GO:0006511,ubiquitin-dependent protein catabolism
+DEG_SCF_SKP2-CKS1_1,GO:0004842,ubiquitin-protein ligase activity
+DEG_SCF_TIR1_1,GO:0009734,auxin mediated signaling pathway
+DEG_SCF_TIR1_1,GO:0005634,nucleus
+DEG_SCF_TIR1_1,GO:0005515,protein binding
+DEG_SCF_TIR1_1,GO:0031396,regulation of protein ubiquitination
+DEG_SCF_TIR1_1,GO:0019005,SCF ubiquitin ligase complex
+DEG_SCF_TIR1_1,GO:0006511,ubiquitin-dependent protein catabolism
+DEG_SCF_TIR1_1,GO:0004842,ubiquitin-protein ligase activity
+DEG_SCF_TRCP1_1,GO:0051301,Cell Division
+DEG_SCF_TRCP1_1,GO:0005694,Chromosome
+DEG_SCF_TRCP1_1,GO:0005829,cytosol
+DEG_SCF_TRCP1_1,GO:0006281,DNA repair
+DEG_SCF_TRCP1_1,GO:0007094,mitotic spindle checkpoint
+DEG_SCF_TRCP1_1,GO:0005654,nucleoplasm
+DEG_SCF_TRCP1_1,GO:0005634,nucleus
+DEG_SCF_TRCP1_1,GO:0005515,protein binding
+DEG_SCF_TRCP1_1,GO:0007346,Regulation of Mitotic Cell Cycle
+DEG_SCF_TRCP1_1,GO:0031396,regulation of protein ubiquitination
+DEG_SCF_TRCP1_1,GO:0004840,ubiquitin conjugating enzyme activity
+DEG_SCF_TRCP1_1,GO:0006511,ubiquitin-dependent protein catabolism
+DEG_SCF_TRCP1_1,GO:0004842,ubiquitin-protein ligase activity
+DEG_SIAH_1,GO:0005829,cytosol
+DEG_SIAH_1,GO:0005634,nucleus
+DEG_SIAH_1,GO:0005515,protein binding
+DEG_SIAH_1,GO:0031396,regulation of protein ubiquitination
+DEG_SIAH_1,GO:0007264,small GTPase mediated signal transduction
+DEG_SIAH_1,GO:0004840,ubiquitin conjugating enzyme activity
+DEG_SIAH_1,GO:0006511,ubiquitin-dependent protein catabolism
+DEG_SIAH_1,GO:0004842,ubiquitin-protein ligase activity
+DEG_SPOP_SBC_1,GO:0031463,Cul3-RING ubiquitin ligase complex
+DEG_SPOP_SBC_1,GO:0016874,ligase activity
+DEG_SPOP_SBC_1,GO:0016607,nuclear speck
+DEG_SPOP_SBC_1,GO:0005634,nucleus
+DEG_SPOP_SBC_1,GO:0016567,protein ubiquitination
+DEG_SPOP_SBC_1,GO:0031625,ubiquitin protein ligase binding
+DOC_AGCK_PIF_1,GO:0004676,3-phosphoinositide-dependent protein kinase activity
+DOC_AGCK_PIF_1,GO:0005829,cytosol
+DOC_AGCK_PIF_1,GO:0009898,internal side of plasma membrane
+DOC_AGCK_PIF_1,GO:0006468,protein amino acid phosphorylation
+DOC_AGCK_PIF_1,GO:0005515,protein binding
+DOC_AGCK_PIF_1,GO:0004674,protein serine/threonine kinase
+DOC_AGCK_PIF_1,GO:0007165,signal transduction
+DOC_AGCK_PIF_2,GO:0004676,3-phosphoinositide-dependent protein kinase activity
+DOC_AGCK_PIF_2,GO:0005829,cytosol
+DOC_AGCK_PIF_2,GO:0009898,internal side of plasma membrane
+DOC_AGCK_PIF_2,GO:0006468,protein amino acid phosphorylation
+DOC_AGCK_PIF_2,GO:0005515,protein binding
+DOC_AGCK_PIF_2,GO:0004674,protein serine/threonine kinase
+DOC_AGCK_PIF_2,GO:0007165,signal transduction
+DOC_AGCK_PIF_3,GO:0004676,3-phosphoinositide-dependent protein kinase activity
+DOC_AGCK_PIF_3,GO:0005829,cytosol
+DOC_AGCK_PIF_3,GO:0009898,internal side of plasma membrane
+DOC_AGCK_PIF_3,GO:0006468,protein amino acid phosphorylation
+DOC_AGCK_PIF_3,GO:0005515,protein binding
+DOC_AGCK_PIF_3,GO:0004674,protein serine/threonine kinase
+DOC_AGCK_PIF_3,GO:0007165,signal transduction
+DOC_ANK_TNKS_1,GO:0001309,age-dependent telomere shortening
+DOC_ANK_TNKS_1,GO:0071532,ankyrin repeat binding
+DOC_ANK_TNKS_1,GO:0030877,beta-catenin destruction complex
+DOC_ANK_TNKS_1,GO:0000781,"Chromosome, telomeric region"
+DOC_ANK_TNKS_1,GO:0005829,cytosol
+DOC_ANK_TNKS_1,GO:0035145,exon-exon junction complex
+DOC_ANK_TNKS_1,GO:0005634,nucleus
+DOC_ANK_TNKS_1,GO:2000060,positive regulation of protein ubiquitination involved in ubiquitin-dependent protein catabolic process
+DOC_ANK_TNKS_1,GO:0005515,protein binding
+DOC_ANK_TNKS_1,GO:0070212,protein poly-ADP-ribosylation
+DOC_ANK_TNKS_1,GO:0006275,regulation of DNA replication
+DOC_ANK_TNKS_1,GO:0000922,spindle pole
+DOC_CDC14_PxL_1,GO:0051301,Cell Division
+DOC_CDC14_PxL_1,GO:0005829,cytosol
+DOC_CDC14_PxL_1,GO:0007096,exit from mitosis
+DOC_CDC14_PxL_1,GO:0071850,mitotic cell cycle arrest
+DOC_CDC14_PxL_1,GO:0005730,nucleolus
+DOC_CDC14_PxL_1,GO:0005634,nucleus
+DOC_CDC14_PxL_1,GO:0004721,protein phosphatase
+DOC_CKS1_1,GO:0007049,cell cycle
+DOC_CKS1_1,GO:0016538,cyclin-dependent protein serine/threonine kinase regulator activity
+DOC_CKS1_1,GO:0005829,cytosol
+DOC_CKS1_1,GO:0005634,nucleus
+DOC_CKS1_1,GO:0005515,protein binding
+DOC_CKS1_1,GO:0000079,regulation of CDK activity
+DOC_CYCLIN_D_Helix_1,GO:0051301,Cell Division
+DOC_CYCLIN_D_Helix_1,GO:0016538,cyclin-dependent protein serine/threonine kinase regulator activity
+DOC_CYCLIN_D_Helix_1,GO:0005829,cytosol
+DOC_CYCLIN_D_Helix_1,GO:0000082,G1/S transition of mitotic cell cycle
+DOC_CYCLIN_D_Helix_1,GO:0031571,mitotic G1 DNA damage checkpoint signaling
+DOC_CYCLIN_D_Helix_1,GO:0071157,negative regulation of cell cycle arrest
+DOC_CYCLIN_D_Helix_1,GO:0031965,nuclear membrane
+DOC_CYCLIN_D_Helix_1,GO:0005634,nucleus
+DOC_CYCLIN_D_Helix_1,GO:0019901,protein kinase binding
+DOC_CYCLIN_RevRxL_6,GO:0051301,Cell Division
+DOC_CYCLIN_RevRxL_6,GO:0016538,cyclin-dependent protein serine/threonine kinase regulator activity
+DOC_CYCLIN_RevRxL_6,GO:0005829,cytosol
+DOC_CYCLIN_RevRxL_6,GO:0005634,nucleus
+DOC_CYCLIN_RevRxL_6,GO:0006468,protein amino acid phosphorylation
+DOC_CYCLIN_RevRxL_6,GO:0019901,protein kinase binding
+DOC_CYCLIN_RevRxL_6,GO:0000321,re-entry into mitotic cell cycle after pheromone arrest
+DOC_CYCLIN_RevRxL_6,GO:0007089,start control point of mitotic cell cycle
+DOC_CYCLIN_RxL_1,GO:0015030,Cajal body
+DOC_CYCLIN_RxL_1,GO:0007049,cell cycle
+DOC_CYCLIN_RxL_1,GO:0051301,Cell Division
+DOC_CYCLIN_RxL_1,GO:0005814,centriole
+DOC_CYCLIN_RxL_1,GO:0051298,centrosome duplication
+DOC_CYCLIN_RxL_1,GO:0030332,cyclin binding activity
+DOC_CYCLIN_RxL_1,GO:0004861,cyclin-dependent protein serine/threonine kinase inhibitor activity
+DOC_CYCLIN_RxL_1,GO:0016538,cyclin-dependent protein serine/threonine kinase regulator activity
+DOC_CYCLIN_RxL_1,GO:0005829,cytosol
+DOC_CYCLIN_RxL_1,GO:0016020,membrane
+DOC_CYCLIN_RxL_1,GO:0005634,nucleus
+DOC_CYCLIN_RxL_1,GO:0045787,positive regulation of cell cycle
+DOC_CYCLIN_RxL_1,GO:0006468,protein amino acid phosphorylation
+DOC_CYCLIN_RxL_1,GO:0019901,protein kinase binding
+DOC_CYCLIN_RxL_1,GO:0000079,regulation of CDK activity
+DOC_CYCLIN_RxL_1,GO:0030528,transcription regulator
+DOC_CYCLIN_RxL_1,GO:0016032,viral life cycle
+DOC_CYCLIN_yClb1_LxF_4,GO:0051301,Cell Division
+DOC_CYCLIN_yClb1_LxF_4,GO:0016538,cyclin-dependent protein serine/threonine kinase regulator activity
+DOC_CYCLIN_yClb1_LxF_4,GO:0005829,cytosol
+DOC_CYCLIN_yClb1_LxF_4,GO:0000086,G2/M transition of mitotic cell cycle
+DOC_CYCLIN_yClb1_LxF_4,GO:0044772,mitotic cell cycle phase transition
+DOC_CYCLIN_yClb1_LxF_4,GO:0005634,nucleus
+DOC_CYCLIN_yClb1_LxF_4,GO:0006468,protein amino acid phosphorylation
+DOC_CYCLIN_yClb3_PxF_3,GO:0051301,Cell Division
+DOC_CYCLIN_yClb3_PxF_3,GO:0016538,cyclin-dependent protein serine/threonine kinase regulator activity
+DOC_CYCLIN_yClb3_PxF_3,GO:0005829,cytosol
+DOC_CYCLIN_yClb3_PxF_3,GO:0005634,nucleus
+DOC_CYCLIN_yClb3_PxF_3,GO:0006468,protein amino acid phosphorylation
+DOC_CYCLIN_yClb3_PxF_3,GO:0019901,protein kinase binding
+DOC_CYCLIN_yClb3_PxF_3,GO:0000321,re-entry into mitotic cell cycle after pheromone arrest
+DOC_CYCLIN_yClb3_PxF_3,GO:0007089,start control point of mitotic cell cycle
+DOC_CYCLIN_yClb5_NLxxxL_5,GO:0007049,cell cycle
+DOC_CYCLIN_yClb5_NLxxxL_5,GO:0030332,cyclin binding activity
+DOC_CYCLIN_yClb5_NLxxxL_5,GO:0016538,cyclin-dependent protein serine/threonine kinase regulator activity
+DOC_CYCLIN_yClb5_NLxxxL_5,GO:0005634,nucleus
+DOC_CYCLIN_yClb5_NLxxxL_5,GO:0006468,protein amino acid phosphorylation
+DOC_CYCLIN_yClb5_NLxxxL_5,GO:0000079,regulation of CDK activity
+DOC_CYCLIN_yCln2_LP_2,GO:0051301,Cell Division
+DOC_CYCLIN_yCln2_LP_2,GO:0016538,cyclin-dependent protein serine/threonine kinase regulator activity
+DOC_CYCLIN_yCln2_LP_2,GO:0005829,cytosol
+DOC_CYCLIN_yCln2_LP_2,GO:0044772,mitotic cell cycle phase transition
+DOC_CYCLIN_yCln2_LP_2,GO:0005634,nucleus
+DOC_CYCLIN_yCln2_LP_2,GO:0019901,protein kinase binding
+DOC_CYCLIN_yCln2_LP_2,GO:0000079,regulation of CDK activity
+DOC_GSK3_Axin_1,GO:0032147,activation of protein kinase activity
+DOC_GSK3_Axin_1,GO:0008013,beta-catenin binding
+DOC_GSK3_Axin_1,GO:0030877,beta-catenin destruction complex
+DOC_GSK3_Axin_1,GO:0060823,canonical Wnt signaling pathway involved in neural plate anterior/posterior pattern formation
+DOC_GSK3_Axin_1,GO:0005829,cytosol
+DOC_GSK3_Axin_1,GO:0001701,in utero embryonic development
+DOC_GSK3_Axin_1,GO:0005886,plasma membrane
+DOC_GSK3_Axin_1,GO:2000060,positive regulation of protein ubiquitination involved in ubiquitin-dependent protein catabolic process
+DOC_GSK3_Axin_1,GO:0032947,protein complex scaffold
+DOC_GSK3_Axin_1,GO:0019901,protein kinase binding
+DOC_GSK3_Axin_1,GO:0060828,regulation of canonical Wnt signaling pathway
+DOC_GSK3_Axin_1,GO:0035412,regulation of catenin import into nucleus
+DOC_GSK3_Axin_1,GO:0004871,signal transducer
+DOC_GSK3_Axin_1,GO:0090244,Wnt signaling pathway involved in somitogenesis
+DOC_MAPK_DCC_7,GO:0008283,cell proliferation
+DOC_MAPK_DCC_7,GO:0005829,cytosol
+DOC_MAPK_DCC_7,GO:0035556,intracellular signal transduction
+DOC_MAPK_DCC_7,GO:0000165,MAPKKK cascade
+DOC_MAPK_DCC_7,GO:0005634,nucleus
+DOC_MAPK_DCC_7,GO:0006468,protein amino acid phosphorylation
+DOC_MAPK_DCC_7,GO:0005515,protein binding
+DOC_MAPK_DCC_7,GO:0019901,protein kinase binding
+DOC_MAPK_DCC_7,GO:0004674,protein serine/threonine kinase
+DOC_MAPK_DCC_7,GO:0006355,"Regulation of transcription, DNA-dependent"
+DOC_MAPK_DCC_7,GO:0005667,Transcription factor complex
+DOC_MAPK_FxFP_2,GO:0005829,cytosol
+DOC_MAPK_FxFP_2,GO:0000165,MAPKKK cascade
+DOC_MAPK_FxFP_2,GO:0051019,mitogen-activated protein kinase binding
+DOC_MAPK_FxFP_2,GO:0048273,mitogen-activated protein kinase p38 binding
+DOC_MAPK_FxFP_2,GO:0005634,nucleus
+DOC_MAPK_FxFP_2,GO:0007243,protein kinase cascade
+DOC_MAPK_GRA24_9,GO:0005737,Cytoplasm
+DOC_MAPK_GRA24_9,GO:0005829,cytosol
+DOC_MAPK_GRA24_9,GO:0006955,immune response
+DOC_MAPK_GRA24_9,GO:0035556,intracellular signal transduction
+DOC_MAPK_GRA24_9,GO:0005634,nucleus
+DOC_MAPK_GRA24_9,GO:0006468,protein amino acid phosphorylation
+DOC_MAPK_GRA24_9,GO:0005515,protein binding
+DOC_MAPK_GRA24_9,GO:0043234,protein complex
+DOC_MAPK_GRA24_9,GO:0019901,protein kinase binding
+DOC_MAPK_GRA24_9,GO:0006355,"Regulation of transcription, DNA-dependent"
+DOC_MAPK_HePTP_8,GO:0008283,cell proliferation
+DOC_MAPK_HePTP_8,GO:0005829,cytosol
+DOC_MAPK_HePTP_8,GO:0035556,intracellular signal transduction
+DOC_MAPK_HePTP_8,GO:0000165,MAPKKK cascade
+DOC_MAPK_HePTP_8,GO:0016020,membrane
+DOC_MAPK_HePTP_8,GO:0005634,nucleus
+DOC_MAPK_HePTP_8,GO:0035335,peptidyl-tyrosine dephosphorylation
+DOC_MAPK_HePTP_8,GO:0006468,protein amino acid phosphorylation
+DOC_MAPK_HePTP_8,GO:0005515,protein binding
+DOC_MAPK_HePTP_8,GO:0016485,protein processing
+DOC_MAPK_HePTP_8,GO:0004674,protein serine/threonine kinase
+DOC_MAPK_HePTP_8,GO:0006355,"Regulation of transcription, DNA-dependent"
+DOC_MAPK_JIP1_4,GO:0007257,activation of JUN kinase activity
+DOC_MAPK_JIP1_4,GO:0006915,apoptosis
+DOC_MAPK_JIP1_4,GO:0030424,axon
+DOC_MAPK_JIP1_4,GO:0007010,cytoskeleton organization
+DOC_MAPK_JIP1_4,GO:0005829,cytosol
+DOC_MAPK_JIP1_4,GO:0008286,insulin receptor signaling pathway
+DOC_MAPK_JIP1_4,GO:0035556,intracellular signal transduction
+DOC_MAPK_JIP1_4,GO:0007254,JNK cascade
+DOC_MAPK_JIP1_4,GO:0004706,JUN kinase kinase kinase activity
+DOC_MAPK_JIP1_4,GO:0016301,kinase activity
+DOC_MAPK_JIP1_4,GO:0005078,MAP-kinase scaffold activity
+DOC_MAPK_JIP1_4,GO:0031435,mitogen-activated protein kinase kinase kinase binding
+DOC_MAPK_JIP1_4,GO:0007399,nervous system development
+DOC_MAPK_JIP1_4,GO:0043005,neuron projection
+DOC_MAPK_JIP1_4,GO:0005634,nucleus
+DOC_MAPK_JIP1_4,GO:0006468,protein amino acid phosphorylation
+DOC_MAPK_JIP1_4,GO:0005515,protein binding
+DOC_MAPK_JIP1_4,GO:0043234,protein complex
+DOC_MAPK_JIP1_4,GO:0032947,protein complex scaffold
+DOC_MAPK_JIP1_4,GO:0043506,regulation of JUN kinase activity
+DOC_MAPK_JIP1_4,GO:0006355,"Regulation of transcription, DNA-dependent"
+DOC_MAPK_JIP1_4,GO:0000982,"transcription factor activity, RNA polymerase II core promoter proximal region sequence-specific binding"
+DOC_MAPK_MEF2A_6,GO:0003876,AMP deaminase activity
+DOC_MAPK_MEF2A_6,GO:0072709,cellular response to sorbitol
+DOC_MAPK_MEF2A_6,GO:0005829,cytosol
+DOC_MAPK_MEF2A_6,GO:0007507,heart development
+DOC_MAPK_MEF2A_6,GO:0035556,intracellular signal transduction
+DOC_MAPK_MEF2A_6,GO:0000165,MAPKKK cascade
+DOC_MAPK_MEF2A_6,GO:0005634,nucleus
+DOC_MAPK_MEF2A_6,GO:0006468,protein amino acid phosphorylation
+DOC_MAPK_MEF2A_6,GO:0005515,protein binding
+DOC_MAPK_MEF2A_6,GO:0019901,protein kinase binding
+DOC_MAPK_MEF2A_6,GO:0004674,protein serine/threonine kinase
+DOC_MAPK_MEF2A_6,GO:0006355,"Regulation of transcription, DNA-dependent"
+DOC_MAPK_MEF2A_6,GO:0005667,Transcription factor complex
+DOC_MAPK_NFAT4_5,GO:0007257,activation of JUN kinase activity
+DOC_MAPK_NFAT4_5,GO:0006915,apoptosis
+DOC_MAPK_NFAT4_5,GO:0007010,cytoskeleton organization
+DOC_MAPK_NFAT4_5,GO:0005829,cytosol
+DOC_MAPK_NFAT4_5,GO:0008286,insulin receptor signaling pathway
+DOC_MAPK_NFAT4_5,GO:0035556,intracellular signal transduction
+DOC_MAPK_NFAT4_5,GO:0007254,JNK cascade
+DOC_MAPK_NFAT4_5,GO:0004706,JUN kinase kinase kinase activity
+DOC_MAPK_NFAT4_5,GO:0016301,kinase activity
+DOC_MAPK_NFAT4_5,GO:0004708,MAP kinase kinase activity
+DOC_MAPK_NFAT4_5,GO:0031435,mitogen-activated protein kinase kinase kinase binding
+DOC_MAPK_NFAT4_5,GO:0007399,nervous system development
+DOC_MAPK_NFAT4_5,GO:0043005,neuron projection
+DOC_MAPK_NFAT4_5,GO:0005634,nucleus
+DOC_MAPK_NFAT4_5,GO:0032874,positive regulation of stress-activated MAPK cascade
+DOC_MAPK_NFAT4_5,GO:0006468,protein amino acid phosphorylation
+DOC_MAPK_NFAT4_5,GO:0005515,protein binding
+DOC_MAPK_NFAT4_5,GO:0043234,protein complex
+DOC_MAPK_NFAT4_5,GO:0032947,protein complex scaffold
+DOC_MAPK_NFAT4_5,GO:0043506,regulation of JUN kinase activity
+DOC_MAPK_NFAT4_5,GO:0006355,"Regulation of transcription, DNA-dependent"
+DOC_MAPK_NFAT4_5,GO:0000982,"transcription factor activity, RNA polymerase II core promoter proximal region sequence-specific binding"
+DOC_MAPK_RevD_3,GO:0000187,activation of MAPK
+DOC_MAPK_RevD_3,GO:0005829,cytosol
+DOC_MAPK_RevD_3,GO:0035556,intracellular signal transduction
+DOC_MAPK_RevD_3,GO:0000165,MAPKKK cascade
+DOC_MAPK_RevD_3,GO:0051019,mitogen-activated protein kinase binding
+DOC_MAPK_RevD_3,GO:0048273,mitogen-activated protein kinase p38 binding
+DOC_MAPK_RevD_3,GO:0005634,nucleus
+DOC_MAPK_gen_1,GO:0000187,activation of MAPK
+DOC_MAPK_gen_1,GO:0005829,cytosol
+DOC_MAPK_gen_1,GO:0000165,MAPKKK cascade
+DOC_MAPK_gen_1,GO:0051019,mitogen-activated protein kinase binding
+DOC_MAPK_gen_1,GO:0048273,mitogen-activated protein kinase p38 binding
+DOC_MAPK_gen_1,GO:0005634,nucleus
+DOC_MAPK_gen_1,GO:0007243,protein kinase cascade
+DOC_MIT_MIM_1,GO:0009838,abscission
+DOC_MIT_MIM_1,GO:0051301,Cell Division
+DOC_MIT_MIM_1,GO:0005813,centrosome
+DOC_MIT_MIM_1,GO:0005829,cytosol
+DOC_MIT_MIM_1,GO:0010008,endosome membrane
+DOC_MIT_MIM_1,GO:1904903,ESCRT III complex disassembly
+DOC_MIT_MIM_1,GO:0030496,midbody
+DOC_MIT_MIM_1,GO:0090541,MIT domain binding
+DOC_MIT_MIM_1,GO:0005771,multivesicular body
+DOC_MIT_MIM_1,GO:0005635,nuclear membrane
+DOC_MIT_MIM_1,GO:0044877,protein-containing complex binding
+DOC_MIT_MIM_1,GO:0019904,protein domain specific binding
+DOC_MIT_MIM_1,GO:0039702,viral budding via host ESCRT complex
+DOC_PIKK_1,GO:0042769,"DNA damage response, detection of DNA damage"
+DOC_PIKK_1,GO:0005634,nucleus
+DOC_PIKK_1,GO:0005515,protein binding
+DOC_PP1_MyPhoNE_1,GO:0007049,cell cycle
+DOC_PP1_MyPhoNE_1,GO:0005829,cytosol
+DOC_PP1_MyPhoNE_1,GO:0006936,muscle contraction
+DOC_PP1_MyPhoNE_1,GO:0005634,nucleus
+DOC_PP1_MyPhoNE_1,GO:0005515,protein binding
+DOC_PP1_MyPhoNE_1,GO:0008157,protein phosphatase 1 binding
+DOC_PP1_MyPhoNE_1,GO:0000164,protein phosphatase type 1 complex
+DOC_PP1_RVXF_1,GO:0005488,Binding
+DOC_PP1_RVXF_1,GO:0007049,cell cycle
+DOC_PP1_RVXF_1,GO:0008151,Cell growth and/or maintenance
+DOC_PP1_RVXF_1,GO:0005829,cytosol
+DOC_PP1_RVXF_1,GO:0005977,glycogen metabolism
+DOC_PP1_RVXF_1,GO:0006936,muscle contraction
+DOC_PP1_RVXF_1,GO:0005634,nucleus
+DOC_PP1_RVXF_1,GO:0006470,protein amino acid dephosphorylation
+DOC_PP1_RVXF_1,GO:0005515,protein binding
+DOC_PP1_RVXF_1,GO:0008157,protein phosphatase 1 binding
+DOC_PP1_RVXF_1,GO:0004864,protein phosphatase inhibitor
+DOC_PP1_RVXF_1,GO:0000164,protein phosphatase type 1 complex
+DOC_PP1_RVXF_1,GO:0007165,signal transduction
+DOC_PP1_RVXF_1,GO:0005865,type 1 serine/threonine specific protein phosphatase inhibitor
+DOC_PP1_SILK_1,GO:0007049,cell cycle
+DOC_PP1_SILK_1,GO:0005829,cytosol
+DOC_PP1_SILK_1,GO:0006091,generation of precursor metabolites and energy
+DOC_PP1_SILK_1,GO:0005977,glycogen metabolism
+DOC_PP1_SILK_1,GO:0006936,muscle contraction
+DOC_PP1_SILK_1,GO:0005634,nucleus
+DOC_PP1_SILK_1,GO:0005515,protein binding
+DOC_PP1_SILK_1,GO:0008157,protein phosphatase 1 binding
+DOC_PP1_SILK_1,GO:0019888,protein phosphatase regulator activity
+DOC_PP1_SILK_1,GO:0000164,protein phosphatase type 1 complex
+DOC_PP1_SILK_1,GO:0008599,protein phosphatase type 1 regulator activity
+DOC_PP1_SILK_1,GO:0009966,regulation of signal transduction
+DOC_PP1_SILK_1,GO:0006396,RNA processing
+DOC_PP1_SILK_1,GO:0006351,"transcription, DNA-dependent"
+DOC_PP2A_B56_1,GO:0008608,attachment of spindle microtubules to kinetochore
+DOC_PP2A_B56_1,GO:0007049,cell cycle
+DOC_PP2A_B56_1,GO:0000775,"chromosome, centromeric region"
+DOC_PP2A_B56_1,GO:0007059,chromosome segregation
+DOC_PP2A_B56_1,GO:0005829,cytosol
+DOC_PP2A_B56_1,GO:0000776,kinetochore
+DOC_PP2A_B56_1,GO:0005634,nucleus
+DOC_PP2A_B56_1,GO:0035307,positive regulation of protein dephosphorylation
+DOC_PP2A_B56_1,GO:0005515,protein binding
+DOC_PP2A_B56_1,GO:0051721,protein phosphatase 2A binding
+DOC_PP2A_B56_1,GO:0051988,regulation of attachment of spindle microtubules to kinetochore
+DOC_PP2B_LxvP_1,GO:0005955,calcineurin complex
+DOC_PP2B_LxvP_1,GO:0033173,calcineurin-NFAT signaling pathway
+DOC_PP2B_LxvP_1,GO:0004723,calcium-dependent protein serine/threonine phosphatase activity
+DOC_PP2B_LxvP_1,GO:0033192,calmodulin-dependent protein phosphatase activity
+DOC_PP2B_LxvP_1,GO:0005829,cytosol
+DOC_PP2B_LxvP_1,GO:0030346,Interacting selectively and non-covalently with the enzyme protein phosphatase 2B
+DOC_PP2B_LxvP_1,GO:0005634,nucleus
+DOC_PP2B_LxvP_1,GO:0006470,protein amino acid dephosphorylation
+DOC_PP2B_LxvP_1,GO:0005515,protein binding
+DOC_PP2B_LxvP_1,GO:0032512,regulation of protein phosphatase type 2B activity
+DOC_PP2B_PxIxIT_1,GO:0005955,calcineurin complex
+DOC_PP2B_PxIxIT_1,GO:0033173,calcineurin-NFAT signaling pathway
+DOC_PP2B_PxIxIT_1,GO:0004723,calcium-dependent protein serine/threonine phosphatase activity
+DOC_PP2B_PxIxIT_1,GO:0005509,calcium ion binding
+DOC_PP2B_PxIxIT_1,GO:0033192,calmodulin-dependent protein phosphatase activity
+DOC_PP2B_PxIxIT_1,GO:0005829,cytosol
+DOC_PP2B_PxIxIT_1,GO:0042406,extrinsic to endoplasmic reticulum membrane
+DOC_PP2B_PxIxIT_1,GO:0031234,extrinsic to internal side of plasma membrane
+DOC_PP2B_PxIxIT_1,GO:0030346,Interacting selectively and non-covalently with the enzyme protein phosphatase 2B
+DOC_PP2B_PxIxIT_1,GO:0031235,intrinsic to internal side of plasma membrane
+DOC_PP2B_PxIxIT_1,GO:0005634,nucleus
+DOC_PP2B_PxIxIT_1,GO:0042277,Peptide binding
+DOC_PP2B_PxIxIT_1,GO:0006470,protein amino acid dephosphorylation
+DOC_PP2B_PxIxIT_1,GO:0032512,regulation of protein phosphatase type 2B activity
+DOC_PP4_FxxP_1,GO:0051382,kinetochore assembly
+DOC_PP4_FxxP_1,GO:0000281,mitotic cytokinesis
+DOC_PP4_FxxP_1,GO:0005654,nucleoplasm
+DOC_PP4_FxxP_1,GO:0005634,nucleus
+DOC_PP4_FxxP_1,GO:0031054,pre-miRNA processing
+DOC_PP4_FxxP_1,GO:0004721,protein phosphatase
+DOC_PP4_FxxP_1,GO:1905405,regulation of mitotic cohesin loading
+DOC_PP4_FxxP_1,GO:0006974,Response to DNA damage stimulus
+DOC_PP4_MxPP_1,GO:0051382,kinetochore assembly
+DOC_PP4_MxPP_1,GO:0000281,mitotic cytokinesis
+DOC_PP4_MxPP_1,GO:0005654,nucleoplasm
+DOC_PP4_MxPP_1,GO:0005634,nucleus
+DOC_PP4_MxPP_1,GO:0031054,pre-miRNA processing
+DOC_PP4_MxPP_1,GO:0004721,protein phosphatase
+DOC_PP4_MxPP_1,GO:1905405,regulation of mitotic cohesin loading
+DOC_PP4_MxPP_1,GO:0006974,Response to DNA damage stimulus
+DOC_PUB_PIM_1,GO:0005829,cytosol
+DOC_PUB_PIM_1,GO:0071797,LUBAC complex
+DOC_PUB_PIM_1,GO:1990108,protein linear deubiquitination
+DOC_PUB_PIM_1,GO:0016567,protein ubiquitination
+DOC_PUB_PIM_1,GO:0050727,regulation of inflammatory response
+DOC_PUB_PIM_1,GO:0010803,regulation of tumor necrosis factor-mediated signaling pathway
+DOC_PUB_PIM_1,GO:0031625,ubiquitin protein ligase binding
+DOC_RSK_DDVF_1,GO:0032147,activation of protein kinase activity
+DOC_RSK_DDVF_1,GO:0005829,cytosol
+DOC_RSK_DDVF_1,GO:0052167,perturbation of host innate immune response
+DOC_RSK_DDVF_1,GO:0005515,protein binding
+DOC_RSK_DDVF_1,GO:0006417,regulation of translation
+DOC_RSK_DDVF_1,GO:0043555,regulation of translation in response to stress
+DOC_RSK_DDVF_1,GO:0004711,ribosomal protein S6 kinase activity
+DOC_SPAK_OSR1_1,GO:0005829,cytosol
+DOC_SPAK_OSR1_1,GO:0009898,internal side of plasma membrane
+DOC_SPAK_OSR1_1,GO:0006811,ion transport
+DOC_SPAK_OSR1_1,GO:0003084,Positive regulation of systemic arterial blood pressure
+DOC_SPAK_OSR1_1,GO:0006468,protein amino acid phosphorylation
+DOC_SPAK_OSR1_1,GO:0005515,protein binding
+DOC_SPAK_OSR1_1,GO:0002028,regulation of sodium ion transport
+DOC_TBK1_STING_1,GO:0002218,activation of innate immune response
+DOC_TBK1_STING_1,GO:1990786,cellular response to dsDNA
+DOC_TBK1_STING_1,GO:0098554,cytoplasmic side of endoplasmic reticulum membrane
+DOC_TBK1_STING_1,GO:0005829,cytosol
+DOC_TBK1_STING_1,GO:0051607,defense response to virus
+DOC_TBK1_STING_1,GO:0032728,positive regulation of interferon-beta production
+DOC_TBK1_STING_1,GO:0001934,positive regulation of protein phosphorylation
+DOC_TBK1_STING_1,GO:0032481,positive regulation of type I interferon production
+DOC_TBK1_STING_1,GO:1905719,protein localization to perinuclear region of cytoplasm
+DOC_TBK1_STING_1,GO:0032479,regulation of type I interferon production
+DOC_TBK1_STING_1,GO:0007165,signal transduction
+DOC_TBK1_STING_1,GO:0060337,type I interferon signaling pathway
+DOC_USP7_MATH_1,GO:0005634,nucleus
+DOC_USP7_MATH_1,GO:0042277,Peptide binding
+DOC_USP7_MATH_1,GO:0016579,protein deubiquitination
+DOC_USP7_MATH_1,GO:0004843,ubiquitin-specific protease activity
+DOC_USP7_MATH_2,GO:0005634,nucleus
+DOC_USP7_MATH_2,GO:0042277,Peptide binding
+DOC_USP7_MATH_2,GO:0016579,protein deubiquitination
+DOC_USP7_MATH_2,GO:0004843,ubiquitin-specific protease activity
+DOC_USP7_UBL2_3,GO:0005634,nucleus
+DOC_USP7_UBL2_3,GO:0042277,Peptide binding
+DOC_USP7_UBL2_3,GO:0016579,protein deubiquitination
+DOC_USP7_UBL2_3,GO:0004843,ubiquitin-specific protease activity
+DOC_WD40_RPTOR_TOS_1,GO:0016049,cell growth
+DOC_WD40_RPTOR_TOS_1,GO:0005829,cytosol
+DOC_WD40_RPTOR_TOS_1,GO:0005515,protein binding
+DOC_WD40_RPTOR_TOS_1,GO:0006445,regulation of translation
+DOC_WW_Pin1_4,GO:0000074,cell cycle control
+DOC_WW_Pin1_4,GO:0008283,cell proliferation
+DOC_WW_Pin1_4,GO:0005829,cytosol
+DOC_WW_Pin1_4,GO:0003901,DNA-directed RNA polymerase II
+DOC_WW_Pin1_4,GO:0007091,mitotic metaphase/anaphase transition
+DOC_WW_Pin1_4,GO:0005634,nucleus
+DOC_WW_Pin1_4,GO:0003755,peptidyl-prolyl cis-trans isomerase activity
+DOC_WW_Pin1_4,GO:0007088,regulation of mitosis
+DOC_WW_Pin1_4,GO:0007089,start control point of mitotic cell cycle
+DOC_WW_Pin1_4,GO:0006366,transcription from Pol II promoter
+DOC_WW_Pin1_4,GO:0050699,WW domain binding
+LIG_14-3-3_CanoR_1,GO:0006915,apoptosis
+LIG_14-3-3_CanoR_1,GO:0008283,cell proliferation
+LIG_14-3-3_CanoR_1,GO:0006342,chromatin silencing
+LIG_14-3-3_CanoR_1,GO:0005829,cytosol
+LIG_14-3-3_CanoR_1,GO:0010467,gene expression
+LIG_14-3-3_CanoR_1,GO:0007186,G-protein coupled receptor protein signaling pathway
+LIG_14-3-3_CanoR_1,GO:0008630,induction of apoptosis by DNA damage
+LIG_14-3-3_CanoR_1,GO:0009898,internal side of plasma membrane
+LIG_14-3-3_CanoR_1,GO:0035556,intracellular signal transduction
+LIG_14-3-3_CanoR_1,GO:0006298,mismatch repair
+LIG_14-3-3_CanoR_1,GO:0005634,nucleus
+LIG_14-3-3_CanoR_1,GO:0019904,protein domain specific binding
+LIG_14-3-3_CanoR_1,GO:0051726,Regulation of cell cycle
+LIG_14-3-3_CanoR_1,GO:0006351,"transcription, DNA-dependent"
+LIG_14-3-3_ChREBP_3,GO:0035538,carbohydrate response element binding
+LIG_14-3-3_ChREBP_3,GO:0005829,cytosol
+LIG_14-3-3_ChREBP_3,GO:0055089,fatty acid homeostasis
+LIG_14-3-3_ChREBP_3,GO:0005634,nucleus
+LIG_14-3-3_ChREBP_3,GO:0005515,protein binding
+LIG_14-3-3_ChREBP_3,GO:0046983,protein dimerization activity
+LIG_14-3-3_ChREBP_3,GO:0042304,regulation of fatty acid biosynthetic process
+LIG_14-3-3_ChREBP_3,GO:0006110,regulation of glycolytic process
+LIG_14-3-3_ChREBP_3,GO:0009749,response to glucose
+LIG_14-3-3_CterR_2,GO:0006915,apoptosis
+LIG_14-3-3_CterR_2,GO:0008283,cell proliferation
+LIG_14-3-3_CterR_2,GO:0006342,chromatin silencing
+LIG_14-3-3_CterR_2,GO:0005829,cytosol
+LIG_14-3-3_CterR_2,GO:0010467,gene expression
+LIG_14-3-3_CterR_2,GO:0007186,G-protein coupled receptor protein signaling pathway
+LIG_14-3-3_CterR_2,GO:0008630,induction of apoptosis by DNA damage
+LIG_14-3-3_CterR_2,GO:0009898,internal side of plasma membrane
+LIG_14-3-3_CterR_2,GO:0035556,intracellular signal transduction
+LIG_14-3-3_CterR_2,GO:0006298,mismatch repair
+LIG_14-3-3_CterR_2,GO:0005634,nucleus
+LIG_14-3-3_CterR_2,GO:0019904,protein domain specific binding
+LIG_14-3-3_CterR_2,GO:0051726,Regulation of cell cycle
+LIG_14-3-3_CterR_2,GO:0006351,"transcription, DNA-dependent"
+LIG_ANK_PxLPxL_1,GO:0098562,cytoplasmic side of membrane
+LIG_ANK_PxLPxL_1,GO:0005829,cytosol
+LIG_ANK_PxLPxL_1,GO:0005634,nucleus
+LIG_ANK_PxLPxL_1,GO:0045944,positive regulation of transcription from RNA polymerase II promoter
+LIG_ANK_PxLPxL_1,GO:0005515,protein binding
+LIG_ANK_PxLPxL_1,GO:0031063,regulation of histone deacetylation
+LIG_ANK_PxLPxL_1,GO:0045346,regulation of MHC class II biosynthetic process
+LIG_ANK_PxLPxL_1,GO:0006355,"Regulation of transcription, DNA-dependent"
+LIG_ANK_PxLPxL_1,GO:0006357,regulation of transcription from Pol II promote
+LIG_ANK_PxLPxL_1,GO:0003712,transcription cofactor
+LIG_AP2alpha_1,GO:0045334,clathrin-coated endocytic vesicle
+LIG_AP2alpha_1,GO:0005829,cytosol
+LIG_AP2alpha_1,GO:0006897,endocytosis
+LIG_AP2alpha_1,GO:0015029,internalization receptor
+LIG_AP2alpha_1,GO:0005515,protein binding
+LIG_AP2alpha_1,GO:0006898,receptor mediated endocytosis
+LIG_AP2alpha_1,GO:0005068,transmembrane receptor protein tyrosine kinase adaptor protein
+LIG_AP2alpha_2,GO:0045334,clathrin-coated endocytic vesicle
+LIG_AP2alpha_2,GO:0005829,cytosol
+LIG_AP2alpha_2,GO:0006897,endocytosis
+LIG_AP2alpha_2,GO:0005515,protein binding
+LIG_AP2alpha_2,GO:0006898,receptor mediated endocytosis
+LIG_APCC_ABBA_1,GO:0010997,anaphase-promoting complex binding
+LIG_APCC_ABBA_1,GO:0031145,anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process
+LIG_APCC_ABBA_1,GO:0005829,cytosol
+LIG_APCC_ABBA_1,GO:1904667,negative regulation of ubiquitin protein ligase activity
+LIG_APCC_ABBA_1,GO:0005634,nucleus
+LIG_APCC_ABBA_1,GO:0031398,positive regulation of protein ubiquitination
+LIG_APCC_ABBA_1,GO:1903362,regulation of cellular protein catabolic process
+LIG_APCC_ABBA_1,GO:0007346,Regulation of Mitotic Cell Cycle
+LIG_APCC_ABBA_1,GO:0000922,spindle pole
+LIG_APCC_ABBA_1,GO:1990948,ubiquitin ligase inhibitor activity
+LIG_APCC_Cbox_1,GO:0051488,activation of anaphase-promoting complex activity
+LIG_APCC_Cbox_1,GO:0005680,anaphase-promoting complex
+LIG_APCC_Cbox_1,GO:0031145,anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process
+LIG_APCC_Cbox_1,GO:0044770,cell cycle phase transition
+LIG_APCC_Cbox_1,GO:0005829,cytosol
+LIG_APCC_Cbox_1,GO:0005634,nucleus
+LIG_APCC_Cbox_1,GO:0005515,protein binding
+LIG_APCC_Cbox_1,GO:0004842,ubiquitin-protein ligase activity
+LIG_APCC_Cbox_2,GO:0051488,activation of anaphase-promoting complex activity
+LIG_APCC_Cbox_2,GO:0005680,anaphase-promoting complex
+LIG_APCC_Cbox_2,GO:0031145,anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process
+LIG_APCC_Cbox_2,GO:0044770,cell cycle phase transition
+LIG_APCC_Cbox_2,GO:0005829,cytosol
+LIG_APCC_Cbox_2,GO:0005634,nucleus
+LIG_APCC_Cbox_2,GO:0005515,protein binding
+LIG_APCC_Cbox_2,GO:0004842,ubiquitin-protein ligase activity
+LIG_AP_GAE_1,GO:0016190,Clathrin coat
+LIG_AP_GAE_1,GO:0030130,Clathrin coat of trans-Golgi network vesicle
+LIG_AP_GAE_1,GO:0005829,cytosol
+LIG_AP_GAE_1,GO:0005769,Early endosome
+LIG_AP_GAE_1,GO:0005794,Golgi apparatus
+LIG_AP_GAE_1,GO:0006895,Golgi-endosome traffic
+LIG_AP_GAE_1,GO:0005802,Golgi trans-face
+LIG_AP_GAE_1,GO:0005515,protein binding
+LIG_AP_GAE_1,GO:0019904,protein domain specific binding
+LIG_AP_GAE_1,GO:0016192,vesicle-mediated transport
+LIG_ARL_BART_1,GO:0005929,cilium
+LIG_ARL_BART_1,GO:0005829,cytosol
+LIG_ARL_BART_1,GO:0006112,energy reserve metabolic process
+LIG_ARL_BART_1,GO:0003924,GTPase activity
+LIG_ARL_BART_1,GO:0005095,GTPase inhibitor activity
+LIG_ARL_BART_1,GO:0051457,maintenance of protein location in nucleus
+LIG_ARL_BART_1,GO:0005739,mitochondrion
+LIG_ARL_BART_1,GO:0005634,nucleus
+LIG_ARL_BART_1,GO:0042531,positive regulation of tyrosine phosphorylation of STAT protein
+LIG_ARL_BART_1,GO:0005515,protein binding
+LIG_ARL_BART_1,GO:0007264,small GTPase mediated signal transduction
+LIG_ARL_BART_1,GO:0003713,transcription co-activator
+LIG_ARL_BART_1,GO:0007021,tubulin complex assembly
+LIG_ARS2_EDGEI_1,GO:0035196,miRNA processing
+LIG_ARS2_EDGEI_1,GO:0006397,mRNA processing
+LIG_ARS2_EDGEI_1,GO:1990477,MTREC complex
+LIG_ARS2_EDGEI_1,GO:0071027,nuclear RNA surveillance
+LIG_ARS2_EDGEI_1,GO:0005634,nucleus
+LIG_ARS2_EDGEI_1,GO:0005515,protein binding
+LIG_ARS2_EDGEI_1,GO:0032991,protein-containing complex
+LIG_ARS2_EDGEI_1,GO:0019904,protein domain specific binding
+LIG_ARS2_EDGEI_1,GO:0061013,regulation of mRNA catabolic process
+LIG_ActinCP_CPI_1,GO:0007015,actin filament organization
+LIG_ActinCP_CPI_1,GO:0005856,cytoskeleton
+LIG_ActinCP_CPI_1,GO:0005829,cytosol
+LIG_ActinCP_CPI_1,GO:2000813,negative regulation of barbed-end actin filament capping
+LIG_ActinCP_CPI_1,GO:0030838,positive regulation of actin filament polymerization
+LIG_ActinCP_CPI_1,GO:0005515,protein binding
+LIG_ActinCP_CPI_1,GO:0044877,protein-containing complex binding
+LIG_ActinCP_TwfCPI_2,GO:0007015,actin filament organization
+LIG_ActinCP_TwfCPI_2,GO:0005856,cytoskeleton
+LIG_ActinCP_TwfCPI_2,GO:0005829,cytosol
+LIG_ActinCP_TwfCPI_2,GO:2000813,negative regulation of barbed-end actin filament capping
+LIG_ActinCP_TwfCPI_2,GO:0030838,positive regulation of actin filament polymerization
+LIG_ActinCP_TwfCPI_2,GO:0005515,protein binding
+LIG_ActinCP_TwfCPI_2,GO:0044877,protein-containing complex binding
+LIG_Actin_RPEL_3,GO:0003779,actin binding
+LIG_Actin_RPEL_3,GO:0005829,cytosol
+LIG_Actin_RPEL_3,GO:0042306,regulation of protein import into nucleus
+LIG_Actin_WH2_1,GO:0003779,actin binding
+LIG_Actin_WH2_1,GO:0005829,cytosol
+LIG_Actin_WH2_1,GO:0051125,regulation of actin nucleation
+LIG_Actin_WH2_1,GO:0008064,regulation of actin polymerization or depolymerization
+LIG_Actin_WH2_1,GO:0034315,regulation of Arp2/3 complex-mediated actin nucleation
+LIG_Actin_WH2_1,GO:2000812,regulation of barbed-end actin filament capping
+LIG_Actin_WH2_2,GO:0003779,actin binding
+LIG_Actin_WH2_2,GO:0005829,cytosol
+LIG_Actin_WH2_2,GO:0051125,regulation of actin nucleation
+LIG_Actin_WH2_2,GO:0008064,regulation of actin polymerization or depolymerization
+LIG_Actin_WH2_2,GO:0034315,regulation of Arp2/3 complex-mediated actin nucleation
+LIG_Actin_WH2_2,GO:2000812,regulation of barbed-end actin filament capping
+LIG_Arc_Nlobe_1,GO:0005829,cytosol
+LIG_Arc_Nlobe_1,GO:0098978,glutamatergic synapse
+LIG_Arc_Nlobe_1,GO:0060090,molecular adaptor activity
+LIG_Arc_Nlobe_1,GO:2000969,positive regulation of AMPA receptor activity
+LIG_Arc_Nlobe_1,GO:0014069,postsynaptic density
+LIG_Arc_Nlobe_1,GO:0098839,postsynaptic density membrane
+LIG_Arc_Nlobe_1,GO:0061001,regulation of dendritic spine morphogenesis
+LIG_Arc_Nlobe_1,GO:0048168,regulation of neuronal synaptic plasticity
+LIG_BH_BH3_1,GO:0048102,autophagic cell death
+LIG_BH_BH3_1,GO:0097136,Bcl-2 family protein complex
+LIG_BH_BH3_1,GO:0051400,BH domain binding
+LIG_BH_BH3_1,GO:0019725,cellular homeostasis
+LIG_BH_BH3_1,GO:0005829,cytosol
+LIG_BH_BH3_1,GO:0005789,endoplasmic reticulum membrane
+LIG_BH_BH3_1,GO:0032592,integral component of mitochondrial membrane
+LIG_BH_BH3_1,GO:0097193,intrinsic apoptotic signaling pathway
+LIG_BH_BH3_1,GO:0097345,mitochondrial outer membrane permeabilization
+LIG_BH_BH3_1,GO:0043065,positive regulation of apoptotic process
+LIG_BH_BH3_1,GO:0032464,positive regulation of protein homooligomerization
+LIG_BH_BH3_1,GO:0090200,positive regulation of release of cytochrome c from mitochondria
+LIG_BH_BH3_1,GO:0005515,protein binding
+LIG_BH_BH3_1,GO:0046982,protein heterodimerization activity
+LIG_BH_BH3_1,GO:0001844,protein insertion into mitochondrial membrane involved in apoptotic signaling pathway
+LIG_BH_BH3_1,GO:0031625,ubiquitin protein ligase binding
+LIG_BH_BH3_1,GO:0019048,Virus-host interaction
+LIG_BIR_III_1,GO:0006916,anti-apoptosis
+LIG_BIR_III_1,GO:0006915,apoptosis
+LIG_BIR_III_1,GO:0005829,cytosol
+LIG_BIR_III_1,GO:0005739,mitochondrion
+LIG_BIR_III_1,GO:0005515,protein binding
+LIG_BIR_III_1,GO:0051605,protein maturation by peptide bond cleavage
+LIG_BIR_III_1,GO:0016567,protein ubiquitination
+LIG_BIR_III_1,GO:0042981,regulation of apoptosis
+LIG_BIR_III_2,GO:0006916,anti-apoptosis
+LIG_BIR_III_2,GO:0006915,apoptosis
+LIG_BIR_III_2,GO:0005829,cytosol
+LIG_BIR_III_2,GO:0005739,mitochondrion
+LIG_BIR_III_2,GO:0005515,protein binding
+LIG_BIR_III_2,GO:0051605,protein maturation by peptide bond cleavage
+LIG_BIR_III_2,GO:0016567,protein ubiquitination
+LIG_BIR_III_2,GO:0042981,regulation of apoptosis
+LIG_BIR_III_3,GO:0006916,anti-apoptosis
+LIG_BIR_III_3,GO:0006915,apoptosis
+LIG_BIR_III_3,GO:0005829,cytosol
+LIG_BIR_III_3,GO:0005739,mitochondrion
+LIG_BIR_III_3,GO:0005515,protein binding
+LIG_BIR_III_3,GO:0051605,protein maturation by peptide bond cleavage
+LIG_BIR_III_3,GO:0016567,protein ubiquitination
+LIG_BIR_III_3,GO:0042981,regulation of apoptosis
+LIG_BIR_III_4,GO:0006916,anti-apoptosis
+LIG_BIR_III_4,GO:0006915,apoptosis
+LIG_BIR_III_4,GO:0005829,cytosol
+LIG_BIR_III_4,GO:0005739,mitochondrion
+LIG_BIR_III_4,GO:0005515,protein binding
+LIG_BIR_III_4,GO:0051605,protein maturation by peptide bond cleavage
+LIG_BIR_III_4,GO:0016567,protein ubiquitination
+LIG_BIR_III_4,GO:0042981,regulation of apoptosis
+LIG_BIR_II_1,GO:0006916,anti-apoptosis
+LIG_BIR_II_1,GO:0006915,apoptosis
+LIG_BIR_II_1,GO:0005829,cytosol
+LIG_BIR_II_1,GO:0005739,mitochondrion
+LIG_BIR_II_1,GO:0005515,protein binding
+LIG_BIR_II_1,GO:0051605,protein maturation by peptide bond cleavage
+LIG_BIR_II_1,GO:0016567,protein ubiquitination
+LIG_BIR_II_1,GO:0042981,regulation of apoptosis
+LIG_BRCT_BRCA1_1,GO:0031436,BRCA1-BARD1 complex
+LIG_BRCT_BRCA1_1,GO:0000077,DNA damage checkpoint
+LIG_BRCT_BRCA1_1,GO:0006975,DNA damage induced protein phosphorylation
+LIG_BRCT_BRCA1_1,GO:0005634,nucleus
+LIG_BRCT_BRCA1_1,GO:0019904,protein domain specific binding
+LIG_BRCT_BRCA1_2,GO:0031436,BRCA1-BARD1 complex
+LIG_BRCT_BRCA1_2,GO:0000077,DNA damage checkpoint
+LIG_BRCT_BRCA1_2,GO:0006975,DNA damage induced protein phosphorylation
+LIG_BRCT_BRCA1_2,GO:0005634,nucleus
+LIG_BRCT_BRCA1_2,GO:0019904,protein domain specific binding
+LIG_BRCT_MDC1_1,GO:0006975,DNA damage induced protein phosphorylation
+LIG_BRCT_MDC1_1,GO:0006302,Double-strand break repair
+LIG_BRCT_MDC1_1,GO:0005634,nucleus
+LIG_BRCT_MDC1_1,GO:0019904,protein domain specific binding
+LIG_CAP-Gly_1,GO:0005829,cytosol
+LIG_CAP-Gly_1,GO:0030951,establishment and/or maintenance of microtubule cytoskeleton polarity
+LIG_CAP-Gly_1,GO:0005874,microtubule
+LIG_CAP-Gly_1,GO:0007018,microtubule-based movement
+LIG_CAP-Gly_1,GO:0007017,microtubule-based process
+LIG_CAP-Gly_1,GO:0000226,microtubule cytoskeleton organization and biogenesis
+LIG_CAP-Gly_1,GO:0051010,microtubule plus-end binding
+LIG_CAP-Gly_1,GO:0031109,microtubule polymerization or depolymerization
+LIG_CAP-Gly_1,GO:0031535,plus-end directed microtubule sliding
+LIG_CAP-Gly_1,GO:0019904,protein domain specific binding
+LIG_CAP-Gly_1,GO:0032886,regulation of microtubule-based process
+LIG_CAP-Gly_2,GO:0031122,cytoplasmic microtubule organization and biogenesis
+LIG_CAP-Gly_2,GO:0005829,cytosol
+LIG_CAP-Gly_2,GO:0030951,establishment and/or maintenance of microtubule cytoskeleton polarity
+LIG_CAP-Gly_2,GO:0005874,microtubule
+LIG_CAP-Gly_2,GO:0007018,microtubule-based movement
+LIG_CAP-Gly_2,GO:0000226,microtubule cytoskeleton organization and biogenesis
+LIG_CAP-Gly_2,GO:0051010,microtubule plus-end binding
+LIG_CAP-Gly_2,GO:0031109,microtubule polymerization or depolymerization
+LIG_CAP-Gly_2,GO:0031535,plus-end directed microtubule sliding
+LIG_CAP-Gly_2,GO:0032886,regulation of microtubule-based process
+LIG_CNOT1_NIM_1,GO:0016477,cell migration
+LIG_CNOT1_NIM_1,GO:0005829,cytosol
+LIG_CNOT1_NIM_1,GO:0010631,epithelial cell migration
+LIG_CNOT1_NIM_1,GO:0017148,negative regulation of translation
+LIG_CNOT1_NIM_1,GO:0048471,perinuclear region of cytoplasm
+LIG_CNOT1_NIM_1,GO:0005515,protein binding
+LIG_CNOT1_NIM_1,GO:0006417,regulation of translation
+LIG_CNOT1_NIM_1,GO:0030371,translation repressor activity
+LIG_CORNRBOX,GO:0016481,negative regulation of transcription
+LIG_CORNRBOX,GO:0005634,nucleus
+LIG_CORNRBOX,GO:0045449,regulation of transcription
+LIG_CORNRBOX,GO:0003712,transcription cofactor
+LIG_CORNRBOX,GO:0003714,transcription co-repressor
+LIG_CORNRBOX,GO:0008134,transcription factor binding
+LIG_CSK_EPIYA_1,GO:0002250,adaptive immune response
+LIG_CSK_EPIYA_1,GO:0016477,cell migration
+LIG_CSK_EPIYA_1,GO:0005829,cytosol
+LIG_CSK_EPIYA_1,GO:0002376,immune system process
+LIG_CSK_EPIYA_1,GO:0045087,innate immune response
+LIG_CSK_EPIYA_1,GO:0009898,internal side of plasma membrane
+LIG_CSK_EPIYA_1,GO:0008285,negative regulation of cell proliferation
+LIG_CSK_EPIYA_1,GO:0033673,negative regulation of kinase activity
+LIG_CSK_EPIYA_1,GO:0050765,negative regulation of phagocytosis
+LIG_CSK_EPIYA_1,GO:0016310,phosphorylation
+LIG_CSK_EPIYA_1,GO:0006468,protein amino acid phosphorylation
+LIG_CSK_EPIYA_1,GO:0019904,protein domain specific binding
+LIG_CSK_EPIYA_1,GO:0060368,regulation of Fc receptor mediated stimulatory signaling pathway
+LIG_CSL_BTD_1,GO:0030154,cell differentiation
+LIG_CSL_BTD_1,GO:0071384,cellular response to corticosteroid stimulus
+LIG_CSL_BTD_1,GO:0000785,chromatin
+LIG_CSL_BTD_1,GO:0007275,development
+LIG_CSL_BTD_1,GO:0007219,Notch signaling pathway
+LIG_CSL_BTD_1,GO:0005634,nucleus
+LIG_CSL_BTD_1,GO:0031100,organ regeneration
+LIG_CSL_BTD_1,GO:0019904,protein domain specific binding
+LIG_CSL_BTD_1,GO:0030334,regulation of cell migration
+LIG_CSL_BTD_1,GO:0006355,"Regulation of transcription, DNA-dependent"
+LIG_CSL_BTD_1,GO:0006351,"transcription, DNA-dependent"
+LIG_CSL_BTD_1,GO:0003700,transcription factor
+LIG_CSL_BTD_1,GO:0005667,Transcription factor complex
+LIG_CaMK_CASK_1,GO:0007155,cell-adhesion
+LIG_CaMK_CASK_1,GO:0005829,cytosol
+LIG_CaMK_CASK_1,GO:0030073,insulin secretion
+LIG_CaMK_CASK_1,GO:0009898,internal side of plasma membrane
+LIG_CaMK_CASK_1,GO:0060090,molecular adaptor activity
+LIG_CaMK_CASK_1,GO:0007269,neurotransmitter secretion
+LIG_CaMK_CASK_1,GO:0005634,nucleus
+LIG_CaMK_CASK_1,GO:0005515,protein binding
+LIG_CaMK_CASK_1,GO:0032947,protein complex scaffold
+LIG_CaMK_CASK_1,GO:0042802,protein self binding
+LIG_CaMK_CASK_1,GO:0007165,signal transduction
+LIG_CaMK_CASK_1,GO:0045202,synapse
+LIG_CaM_IQ_9,GO:0005488,Binding
+LIG_CaM_IQ_9,GO:0008151,Cell growth and/or maintenance
+LIG_CaM_IQ_9,GO:0008580,cytoskeletal regulator
+LIG_CaM_IQ_9,GO:0005829,cytosol
+LIG_CaM_IQ_9,GO:0005622,intracellular
+LIG_CaM_IQ_9,GO:0003774,motor
+LIG_CaM_IQ_9,GO:0003776,muscle motor
+LIG_CaM_IQ_9,GO:0005515,protein binding
+LIG_CaM_IQ_9,GO:0007165,signal transduction
+LIG_CaM_NSCaTE_8,GO:0005954,calcium- and calmodulin-dependent protein kinase complex
+LIG_CaM_NSCaTE_8,GO:0019722,calcium-mediated signaling
+LIG_CaM_NSCaTE_8,GO:0005516,calmodulin binding
+LIG_CaM_NSCaTE_8,GO:0006874,cellular calcium ion homeostasis
+LIG_CaM_NSCaTE_8,GO:0005829,cytosol
+LIG_CaM_NSCaTE_8,GO:0005886,plasma membrane
+LIG_CaM_NSCaTE_8,GO:0005245,voltage-gated calcium channel activity
+LIG_CaM_NSCaTE_8,GO:0005891,voltage-gated calcium channel complex
+LIG_Clathr_ClatBox_1,GO:0030276,clathrin binding
+LIG_Clathr_ClatBox_1,GO:0045334,clathrin-coated endocytic vesicle
+LIG_Clathr_ClatBox_1,GO:0005856,cytoskeleton
+LIG_Clathr_ClatBox_1,GO:0005829,cytosol
+LIG_Clathr_ClatBox_1,GO:0006897,endocytosis
+LIG_Clathr_ClatBox_1,GO:0005794,Golgi apparatus
+LIG_Clathr_ClatBox_1,GO:0005802,Golgi trans-face
+LIG_Clathr_ClatBox_1,GO:0006898,receptor mediated endocytosis
+LIG_Clathr_ClatBox_2,GO:0030276,clathrin binding
+LIG_Clathr_ClatBox_2,GO:0045334,clathrin-coated endocytic vesicle
+LIG_Clathr_ClatBox_2,GO:0005856,cytoskeleton
+LIG_Clathr_ClatBox_2,GO:0005829,cytosol
+LIG_Clathr_ClatBox_2,GO:0006897,endocytosis
+LIG_Clathr_ClatBox_2,GO:0006898,receptor mediated endocytosis
+LIG_CtBP_PxDLS_1,GO:0005829,cytosol
+LIG_CtBP_PxDLS_1,GO:0016481,negative regulation of transcription
+LIG_CtBP_PxDLS_1,GO:0005634,nucleus
+LIG_CtBP_PxDLS_1,GO:0007584,response to nutrient
+LIG_CtBP_PxDLS_1,GO:0017053,transcriptional repressor complex
+LIG_CtBP_PxDLS_1,GO:0003714,transcription co-repressor
+LIG_CtBP_PxDLS_1,GO:0008134,transcription factor binding
+LIG_CtBP_PxDLS_1,GO:0030528,transcription regulator
+LIG_CtBP_RRT_2,GO:0001227,"DNA-binding transcription repressor activity, RNA polymerase II-specific"
+LIG_CtBP_RRT_2,GO:0045892,negative regulation of DNA-templated transcription
+LIG_CtBP_RRT_2,GO:0005634,nucleus
+LIG_CtBP_RRT_2,GO:0006357,regulation of transcription from Pol II promote
+LIG_CtBP_RRT_2,GO:0017053,transcriptional repressor complex
+LIG_CtBP_RRT_2,GO:0001222,transcription corepressor binding
+LIG_DCNL_PONY_1,GO:0097602,cullin family protein binding
+LIG_DCNL_PONY_1,GO:0005634,nucleus
+LIG_DCNL_PONY_1,GO:0042277,Peptide binding
+LIG_DCNL_PONY_1,GO:2000436,positive regulation of protein neddylation
+LIG_DCNL_PONY_1,GO:0000151,ubiquitin ligase complex
+LIG_DLG_GKlike_1,GO:0097113,AMPA glutamate receptor clustering
+LIG_DLG_GKlike_1,GO:0005829,cytosol
+LIG_DLG_GKlike_1,GO:0014069,postsynaptic density
+LIG_DLG_GKlike_1,GO:0005515,protein binding
+LIG_DLG_GKlike_1,GO:0044877,protein-containing complex binding
+LIG_DLG_GKlike_1,GO:0007165,signal transduction
+LIG_DLG_GKlike_1,GO:0045202,synapse
+LIG_DLG_GKlike_1,GO:0007268,synaptic transmission
+LIG_Dynein_DLC8_1,GO:0005868,cytoplasmic dynein complex
+LIG_Dynein_DLC8_1,GO:0005829,cytosol
+LIG_Dynein_DLC8_1,GO:0030286,dynein complex
+LIG_Dynein_DLC8_1,GO:0045503,dynein light chain binding
+LIG_Dynein_DLC8_1,GO:0007018,microtubule-based movement
+LIG_Dynein_DLC8_1,GO:0005515,protein binding
+LIG_EABR_CEP55_1,GO:0007049,cell cycle
+LIG_EABR_CEP55_1,GO:0051301,Cell Division
+LIG_EABR_CEP55_1,GO:0000910,cytokinesis
+LIG_EABR_CEP55_1,GO:0005856,cytoskeleton
+LIG_EABR_CEP55_1,GO:0005829,cytosol
+LIG_EABR_CEP55_1,GO:0045171,intercellular bridge
+LIG_EABR_CEP55_1,GO:0030496,midbody
+LIG_EABR_CEP55_1,GO:0005515,protein binding
+LIG_EF_ALG2_ABM_1,GO:0048306,calcium-dependent protein binding
+LIG_EF_ALG2_ABM_1,GO:0007049,cell cycle
+LIG_EF_ALG2_ABM_1,GO:0098554,cytoplasmic side of endoplasmic reticulum membrane
+LIG_EF_ALG2_ABM_1,GO:0098562,cytoplasmic side of membrane
+LIG_EF_ALG2_ABM_1,GO:0005829,cytosol
+LIG_EF_ALG2_ABM_1,GO:0000813,ESCRT I complex
+LIG_EF_ALG2_ABM_1,GO:0010009,external side of endosome  membrane
+LIG_EF_ALG2_ABM_1,GO:0006886,intracellular protein transport
+LIG_EF_ALG2_ABM_1,GO:0005634,nucleus
+LIG_EF_ALG2_ABM_1,GO:0012501,programmed cell death
+LIG_EF_ALG2_ABM_1,GO:0005515,protein binding
+LIG_EF_ALG2_ABM_1,GO:0051592,response to calcium ion
+LIG_EF_ALG2_ABM_1,GO:0007165,signal transduction
+LIG_EF_ALG2_ABM_2,GO:0048306,calcium-dependent protein binding
+LIG_EF_ALG2_ABM_2,GO:0007049,cell cycle
+LIG_EF_ALG2_ABM_2,GO:0098554,cytoplasmic side of endoplasmic reticulum membrane
+LIG_EF_ALG2_ABM_2,GO:0098562,cytoplasmic side of membrane
+LIG_EF_ALG2_ABM_2,GO:0005829,cytosol
+LIG_EF_ALG2_ABM_2,GO:0006886,intracellular protein transport
+LIG_EF_ALG2_ABM_2,GO:0005634,nucleus
+LIG_EF_ALG2_ABM_2,GO:0012501,programmed cell death
+LIG_EF_ALG2_ABM_2,GO:0005515,protein binding
+LIG_EF_ALG2_ABM_2,GO:0051592,response to calcium ion
+LIG_EF_ALG2_ABM_2,GO:0007165,signal transduction
+LIG_EH1_1,GO:0016481,negative regulation of transcription
+LIG_EH1_1,GO:0005634,nucleus
+LIG_EH1_1,GO:0003714,transcription co-repressor
+LIG_EH_1,GO:0005488,Binding
+LIG_EH_1,GO:0008151,Cell growth and/or maintenance
+LIG_EH_1,GO:0005829,cytosol
+LIG_EH_1,GO:0006897,endocytosis
+LIG_EH_1,GO:0007242,intracellular signaling cascade
+LIG_EH_1,GO:0005886,plasma membrane
+LIG_EH_1,GO:0005515,protein binding
+LIG_EH_1,GO:0019904,protein domain specific binding
+LIG_EH_1,GO:0006898,receptor mediated endocytosis
+LIG_EH_1,GO:0030100,regulation of endocytosis
+LIG_EH_1,GO:0007165,signal transduction
+LIG_EVH1_1,GO:0030041,actin filament polymerization
+LIG_EVH1_1,GO:0005488,Binding
+LIG_EVH1_1,GO:0008150,cell growth and/or maintenance
+LIG_EVH1_1,GO:0008580,cytoskeletal regulator
+LIG_EVH1_1,GO:0005829,cytosol
+LIG_EVH1_1,GO:0009898,internal side of plasma membrane
+LIG_EVH1_1,GO:0045758,positive regulation of actin polymerization and/or depolymerization
+LIG_EVH1_1,GO:0005515,protein binding
+LIG_EVH1_1,GO:0019904,protein domain specific binding
+LIG_EVH1_1,GO:0007165,signal transduction
+LIG_EVH1_2,GO:0005488,Binding
+LIG_EVH1_2,GO:0005829,cytosol
+LIG_EVH1_2,GO:0008066,glutamate receptor
+LIG_EVH1_2,GO:0009898,internal side of plasma membrane
+LIG_EVH1_2,GO:0007216,metabotropic glutamate receptor signaling pathway
+LIG_EVH1_2,GO:0005515,protein binding
+LIG_EVH1_2,GO:0019904,protein domain specific binding
+LIG_EVH1_2,GO:0005057,receptor signaling protein
+LIG_EVH1_2,GO:0004871,signal transducer
+LIG_EVH1_2,GO:0007165,signal transduction
+LIG_EVH1_3,GO:0030036,cell growth or maintenance
+LIG_EVH1_3,GO:0008580,cytoskeletal regulator
+LIG_EVH1_3,GO:0005856,cytoskeleton
+LIG_EVH1_3,GO:0005829,cytosol
+LIG_EVH1_3,GO:0019904,protein domain specific binding
+LIG_EVH1_3,GO:0007165,signal transduction
+LIG_FAT_LD_1,GO:0005488,Binding
+LIG_FAT_LD_1,GO:0007154,cell communication
+LIG_FAT_LD_1,GO:0008150,cell growth and/or maintenance
+LIG_FAT_LD_1,GO:0005829,cytosol
+LIG_FAT_LD_1,GO:0005925,focal adhesion
+LIG_FAT_LD_1,GO:0005622,intracellular
+LIG_FAT_LD_1,GO:0005886,plasma membrane
+LIG_FAT_LD_1,GO:0005515,protein binding
+LIG_FAT_LD_1,GO:0007165,signal transduction
+LIG_FERM_MyoX_1,GO:0044295,axonal growth cone
+LIG_FERM_MyoX_1,GO:0098609,cell-cell adhesion
+LIG_FERM_MyoX_1,GO:0005829,cytosol
+LIG_FERM_MyoX_1,GO:0046847,filopodium assembly
+LIG_FERM_MyoX_1,GO:0009898,internal side of plasma membrane
+LIG_FERM_MyoX_1,GO:0005042,netrin receptor activity
+LIG_FERM_MyoX_1,GO:0001764,neuron migration
+LIG_FERM_MyoX_1,GO:0004888,transmembrane signaling receptor activity
+LIG_FHA_1,GO:0000075,cell cycle checkpoint
+LIG_FHA_1,GO:0006281,DNA repair
+LIG_FHA_1,GO:0000086,G2/M transition of mitotic cell cycle
+LIG_FHA_1,GO:0005634,nucleus
+LIG_FHA_1,GO:0005515,protein binding
+LIG_FHA_1,GO:0019904,protein domain specific binding
+LIG_FHA_1,GO:0006974,Response to DNA damage stimulus
+LIG_FHA_2,GO:0000075,cell cycle checkpoint
+LIG_FHA_2,GO:0006281,DNA repair
+LIG_FHA_2,GO:0000076,DNA replication checkpoint
+LIG_FHA_2,GO:0005634,nucleus
+LIG_FHA_2,GO:0005515,protein binding
+LIG_FHA_2,GO:0019904,protein domain specific binding
+LIG_FHA_2,GO:0005657,Replication fork
+LIG_FXI_DFP_1,GO:0007596,blood coagulation
+LIG_FXI_DFP_1,GO:0007597,"blood coagulation, intrinsic pathway"
+LIG_FXI_DFP_1,GO:0048037,cofactor binding
+LIG_FXI_DFP_1,GO:0005576,extracellular
+LIG_FXI_DFP_1,GO:0031639,plasminogen activation
+LIG_FXI_DFP_1,GO:0051919,positive regulation of fibrinolysis
+LIG_FXI_DFP_1,GO:0005515,protein binding
+LIG_FZD_DVL_PDZ,GO:0032147,activation of protein kinase activity
+LIG_FZD_DVL_PDZ,GO:0030877,beta-catenin destruction complex
+LIG_FZD_DVL_PDZ,GO:0060823,canonical Wnt signaling pathway involved in neural plate anterior/posterior pattern formation
+LIG_FZD_DVL_PDZ,GO:0005829,cytosol
+LIG_FZD_DVL_PDZ,GO:2000060,positive regulation of protein ubiquitination involved in ubiquitin-dependent protein catabolic process
+LIG_FZD_DVL_PDZ,GO:0032947,protein complex scaffold
+LIG_FZD_DVL_PDZ,GO:0019901,protein kinase binding
+LIG_FZD_DVL_PDZ,GO:0035412,regulation of catenin import into nucleus
+LIG_FZD_DVL_PDZ,GO:0004871,signal transducer
+LIG_G3BP_FGDF_1,GO:0010494,cytoplasmic stress granule
+LIG_G3BP_FGDF_1,GO:0005829,cytosol
+LIG_G3BP_FGDF_1,GO:0016579,protein deubiquitination
+LIG_G3BP_FGDF_1,GO:0019904,protein domain specific binding
+LIG_G3BP_FGDF_1,GO:1903608,protein localization to cytoplasmic stress granule
+LIG_G3BP_FGDF_1,GO:0006417,regulation of translation
+LIG_G3BP_FGDF_1,GO:0034063,stress granule assembly
+LIG_G3BP_FGDF_1,GO:0019079,viral genome replication
+LIG_G3BP_FGDF_1,GO:0019034,viral replication complex
+LIG_GBD_Chelix_1,GO:0015629,actin cytoskeleton
+LIG_GBD_Chelix_1,GO:0030048,actin filament-based movement
+LIG_GBD_Chelix_1,GO:0030041,actin filament polymerization
+LIG_GBD_Chelix_1,GO:0005911,cell-cell junction
+LIG_GBD_Chelix_1,GO:0005829,cytosol
+LIG_GBD_Chelix_1,GO:0070062,extracellular exosome
+LIG_GBD_Chelix_1,GO:2000146,negative regulation of cell motility
+LIG_GBD_Chelix_1,GO:2000601,positive regulation of Arp2/3 complex-mediated actin nucleation
+LIG_GBD_Chelix_1,GO:0006461,protein complex assembly
+LIG_GBD_Chelix_1,GO:0012506,vesicle membrane
+LIG_GLEBS_BUB3_1,GO:0007049,cell cycle
+LIG_GLEBS_BUB3_1,GO:0051382,kinetochore assembly
+LIG_GLEBS_BUB3_1,GO:0007067,mitosis
+LIG_GLEBS_BUB3_1,GO:0033597,mitotic checkpoint complex
+LIG_GLEBS_BUB3_1,GO:0007094,mitotic spindle checkpoint
+LIG_GLEBS_BUB3_1,GO:0005643,Nuclear pore
+LIG_GLEBS_BUB3_1,GO:0005634,nucleus
+LIG_GLEBS_BUB3_1,GO:0005515,protein binding
+LIG_GLEBS_BUB3_1,GO:0031577,spindle checkpoint
+LIG_GSK3_LRP6_1,GO:0030877,beta-catenin destruction complex
+LIG_GSK3_LRP6_1,GO:0060070,canonical Wnt signaling pathway
+LIG_GSK3_LRP6_1,GO:0044335,canonical Wnt signaling pathway involved in neural crest cell differentiation
+LIG_GSK3_LRP6_1,GO:0044340,canonical Wnt signaling pathway involved in regulation of cell proliferation
+LIG_GSK3_LRP6_1,GO:0071936,coreceptor activity involved in Wnt signaling pathway
+LIG_GSK3_LRP6_1,GO:0005829,cytosol
+LIG_GSK3_LRP6_1,GO:0009898,internal side of plasma membrane
+LIG_GSK3_LRP6_1,GO:0019210,kinase inhibitor activity
+LIG_GSK3_LRP6_1,GO:0005041,low-density lipoprotein receptor activity
+LIG_GSK3_LRP6_1,GO:0006469,negative regulation of protein kinase activity
+LIG_GSK3_LRP6_1,GO:0001933,negative regulation of protein phosphorylation
+LIG_GSK3_LRP6_1,GO:0038013,positive regulation of Wnt signaling pathway by Wnt receptor internalization
+LIG_GSK3_LRP6_1,GO:0042813,Wnt-activated receptor activity
+LIG_GYF,GO:0005829,cytosol
+LIG_GYF,GO:0004872,receptor (2090)
+LIG_GYF,GO:0007165,signal transduction
+LIG_HCF-1_HBM_1,GO:0005634,nucleus
+LIG_HCF-1_HBM_1,GO:0008284,positive regulation of cell proliferation
+LIG_HCF-1_HBM_1,GO:0005515,protein binding
+LIG_HCF-1_HBM_1,GO:0051726,Regulation of cell cycle
+LIG_HCF-1_HBM_1,GO:0045449,regulation of transcription
+LIG_HCF-1_HBM_1,GO:0003700,transcription factor
+LIG_HCF-1_HBM_1,GO:0005667,Transcription factor complex
+LIG_HCF-1_HBM_1,GO:0019033,viral tegument
+LIG_HCF-1_HBM_1,GO:0019048,Virus-host interaction
+LIG_HOMEOBOX,GO:0009790,embryonic development
+LIG_HOMEOBOX,GO:0005634,nucleus
+LIG_HOMEOBOX,GO:0007389,pattern specification
+LIG_HOMEOBOX,GO:0030528,transcription regulator
+LIG_HP1_1,GO:0006260,DNA replication
+LIG_HP1_1,GO:0006343,establishment of heterochromatin silencing
+LIG_HP1_1,GO:0000792,heterochromatin
+LIG_HP1_1,GO:0005634,nucleus
+LIG_HP1_1,GO:0045182,transcription regulator
+LIG_IBAR_NPY_1,GO:0098562,cytoplasmic side of membrane
+LIG_IBAR_NPY_1,GO:0005829,cytosol
+LIG_IBAR_NPY_1,GO:0009405,pathogenesis
+LIG_IBAR_NPY_1,GO:0005515,protein binding
+LIG_IRF7_LxLS_2,GO:0002218,activation of innate immune response
+LIG_IRF7_LxLS_2,GO:0032473,cytoplasmic side of mitochondrial outer membrane
+LIG_IRF7_LxLS_2,GO:0005829,cytosol
+LIG_IRF7_LxLS_2,GO:0051607,defense response to virus
+LIG_IRF7_LxLS_2,GO:0010009,external side of endosome  membrane
+LIG_IRF7_LxLS_2,GO:0005634,nucleus
+LIG_IRF7_LxLS_2,GO:0032728,positive regulation of interferon-beta production
+LIG_IRF7_LxLS_2,GO:0033160,"positive regulation of protein import into nucleus, translocation"
+LIG_IRF7_LxLS_2,GO:0001934,positive regulation of protein phosphorylation
+LIG_IRF7_LxLS_2,GO:0032481,positive regulation of type I interferon production
+LIG_IRF7_LxLS_2,GO:0005515,protein binding
+LIG_IRF7_LxLS_2,GO:0042803,protein homodimerization activity
+LIG_IRF7_LxLS_2,GO:0019901,protein kinase binding
+LIG_IRF7_LxLS_2,GO:0032479,regulation of type I interferon production
+LIG_IRF7_LxLS_2,GO:0039529,RIG-I signaling pathway
+LIG_IRF7_LxLS_2,GO:0004871,signal transducer
+LIG_IRF7_LxLS_2,GO:0007165,signal transduction
+LIG_IRF7_LxLS_2,GO:0008134,transcription factor binding
+LIG_IRF7_LxLS_2,GO:0035666,TRIF-dependent toll-like receptor signaling pathway
+LIG_IRF7_LxLS_2,GO:0060337,type I interferon signaling pathway
+LIG_IRFs_LxIS_1,GO:0002218,activation of innate immune response
+LIG_IRFs_LxIS_1,GO:0071360,cellular response to exogenous dsRNA
+LIG_IRFs_LxIS_1,GO:0061507,cyclic-GMP-AMP binding
+LIG_IRFs_LxIS_1,GO:0098554,cytoplasmic side of endoplasmic reticulum membrane
+LIG_IRFs_LxIS_1,GO:0032473,cytoplasmic side of mitochondrial outer membrane
+LIG_IRFs_LxIS_1,GO:0005829,cytosol
+LIG_IRFs_LxIS_1,GO:0042742,defense response to bacterium
+LIG_IRFs_LxIS_1,GO:0051607,defense response to virus
+LIG_IRFs_LxIS_1,GO:0010009,external side of endosome  membrane
+LIG_IRFs_LxIS_1,GO:0005634,nucleus
+LIG_IRFs_LxIS_1,GO:0032728,positive regulation of interferon-beta production
+LIG_IRFs_LxIS_1,GO:0033160,"positive regulation of protein import into nucleus, translocation"
+LIG_IRFs_LxIS_1,GO:0001934,positive regulation of protein phosphorylation
+LIG_IRFs_LxIS_1,GO:0032481,positive regulation of type I interferon production
+LIG_IRFs_LxIS_1,GO:0005515,protein binding
+LIG_IRFs_LxIS_1,GO:0042803,protein homodimerization activity
+LIG_IRFs_LxIS_1,GO:0019901,protein kinase binding
+LIG_IRFs_LxIS_1,GO:0032479,regulation of type I interferon production
+LIG_IRFs_LxIS_1,GO:0032496,response to lipopolysaccharide
+LIG_IRFs_LxIS_1,GO:0039529,RIG-I signaling pathway
+LIG_IRFs_LxIS_1,GO:0004871,signal transducer
+LIG_IRFs_LxIS_1,GO:0007165,signal transduction
+LIG_IRFs_LxIS_1,GO:0008134,transcription factor binding
+LIG_IRFs_LxIS_1,GO:0035666,TRIF-dependent toll-like receptor signaling pathway
+LIG_IRFs_LxIS_1,GO:0060337,type I interferon signaling pathway
+LIG_Integrin_KxxGD_FGGC_5,GO:0007596,blood coagulation
+LIG_Integrin_KxxGD_FGGC_5,GO:0033627,cell adhesion mediated by integrin
+LIG_Integrin_KxxGD_FGGC_5,GO:0030054,cell junction
+LIG_Integrin_KxxGD_FGGC_5,GO:0009986,cell surface
+LIG_Integrin_KxxGD_FGGC_5,GO:0005125,cytokine activity
+LIG_Integrin_KxxGD_FGGC_5,GO:0009897,external side of plasma membrane
+LIG_Integrin_KxxGD_FGGC_5,GO:0005576,extracellular
+LIG_Integrin_KxxGD_FGGC_5,GO:0031012,extracellular matrix
+LIG_Integrin_KxxGD_FGGC_5,GO:0050840,extracellular matrix binding
+LIG_Integrin_KxxGD_FGGC_5,GO:0005615,extracellular space
+LIG_Integrin_KxxGD_FGGC_5,GO:0005925,focal adhesion
+LIG_Integrin_KxxGD_FGGC_5,GO:0033622,integrin activation
+LIG_Integrin_KxxGD_FGGC_5,GO:0070442,integrin alphaIIb-beta3 complex
+LIG_Integrin_KxxGD_FGGC_5,GO:0005178,integrin binding
+LIG_Integrin_KxxGD_FGGC_5,GO:0007229,integrin-mediated signaling pathway
+LIG_Integrin_KxxGD_FGGC_5,GO:0046872,metal ion binding
+LIG_Integrin_KxxGD_FGGC_5,GO:0033628,regulation of cell adhesion mediated by integrin
+LIG_Integrin_KxxGD_FGGC_5,GO:0033623,regulation of integrin activation
+LIG_Integrin_KxxGD_FGGC_5,GO:0044423,virion component
+LIG_Integrin_RGDSP_6,GO:0033627,cell adhesion mediated by integrin
+LIG_Integrin_RGDSP_6,GO:0009986,cell surface
+LIG_Integrin_RGDSP_6,GO:0009897,external side of plasma membrane
+LIG_Integrin_RGDSP_6,GO:0005576,extracellular
+LIG_Integrin_RGDSP_6,GO:0031012,extracellular matrix
+LIG_Integrin_RGDSP_6,GO:0050840,extracellular matrix binding
+LIG_Integrin_RGDSP_6,GO:0005615,extracellular space
+LIG_Integrin_RGDSP_6,GO:0001968,fibronectin binding
+LIG_Integrin_RGDSP_6,GO:0033622,integrin activation
+LIG_Integrin_RGDSP_6,GO:0034674,integrin alpha5-beta1 complex
+LIG_Integrin_RGDSP_6,GO:0034678,integrin alpha8-beta1 complex
+LIG_Integrin_RGDSP_6,GO:0070442,integrin alphaIIb-beta3 complex
+LIG_Integrin_RGDSP_6,GO:0034683,integrin alphav-beta3 complex
+LIG_Integrin_RGDSP_6,GO:0034684,integrin alphav-beta5 complex
+LIG_Integrin_RGDSP_6,GO:0034685,integrin alphav-beta6 complex
+LIG_Integrin_RGDSP_6,GO:0034686,integrin alphav-beta8 complex
+LIG_Integrin_RGDSP_6,GO:0005178,integrin binding
+LIG_Integrin_RGDSP_6,GO:0007229,integrin-mediated signaling pathway
+LIG_Integrin_RGDSP_6,GO:0046872,metal ion binding
+LIG_Integrin_RGDSP_6,GO:0033628,regulation of cell adhesion mediated by integrin
+LIG_Integrin_RGDSP_6,GO:0008360,regulation of cell shape
+LIG_Integrin_RGDSP_6,GO:0033623,regulation of integrin activation
+LIG_Integrin_RGDSP_6,GO:0046718,viral entry into host cell
+LIG_Integrin_RGDSP_6,GO:0044423,virion component
+LIG_Integrin_RGDSP_6,GO:0001618,virus receptor activity
+LIG_Integrin_RGDW_4,GO:0033627,cell adhesion mediated by integrin
+LIG_Integrin_RGDW_4,GO:0030054,cell junction
+LIG_Integrin_RGDW_4,GO:0009986,cell surface
+LIG_Integrin_RGDW_4,GO:0005125,cytokine activity
+LIG_Integrin_RGDW_4,GO:0035635,entry of bacterium into host cell
+LIG_Integrin_RGDW_4,GO:0009897,external side of plasma membrane
+LIG_Integrin_RGDW_4,GO:0005576,extracellular
+LIG_Integrin_RGDW_4,GO:0031012,extracellular matrix
+LIG_Integrin_RGDW_4,GO:0050840,extracellular matrix binding
+LIG_Integrin_RGDW_4,GO:0005615,extracellular space
+LIG_Integrin_RGDW_4,GO:0005925,focal adhesion
+LIG_Integrin_RGDW_4,GO:0033622,integrin activation
+LIG_Integrin_RGDW_4,GO:0070442,integrin alphaIIb-beta3 complex
+LIG_Integrin_RGDW_4,GO:0034683,integrin alphav-beta3 complex
+LIG_Integrin_RGDW_4,GO:0005178,integrin binding
+LIG_Integrin_RGDW_4,GO:0007229,integrin-mediated signaling pathway
+LIG_Integrin_RGDW_4,GO:0046872,metal ion binding
+LIG_Integrin_RGDW_4,GO:0033628,regulation of cell adhesion mediated by integrin
+LIG_Integrin_RGDW_4,GO:0033623,regulation of integrin activation
+LIG_Integrin_RGDW_4,GO:0046718,viral entry into host cell
+LIG_Integrin_RGDW_4,GO:0044423,virion component
+LIG_Integrin_RGD_1,GO:0007155,cell-adhesion
+LIG_Integrin_RGD_1,GO:0005194,cell adhesion molecule
+LIG_Integrin_RGD_1,GO:0005576,extracellular
+LIG_Integrin_RGD_1,GO:0008305,integrin
+LIG_Integrin_RGD_1,GO:0005178,integrin binding
+LIG_Integrin_RGD_TGFB_3,GO:0071099,alphaV-beta6 integrin-TGFbeta-3 complex
+LIG_Integrin_RGD_TGFB_3,GO:0071100,alphaV-beta8 integrin-MMP14-TGFbeta-1 complex
+LIG_Integrin_RGD_TGFB_3,GO:0033627,cell adhesion mediated by integrin
+LIG_Integrin_RGD_TGFB_3,GO:0030054,cell junction
+LIG_Integrin_RGD_TGFB_3,GO:0009986,cell surface
+LIG_Integrin_RGD_TGFB_3,GO:0005125,cytokine activity
+LIG_Integrin_RGD_TGFB_3,GO:0035635,entry of bacterium into host cell
+LIG_Integrin_RGD_TGFB_3,GO:0009897,external side of plasma membrane
+LIG_Integrin_RGD_TGFB_3,GO:0005576,extracellular
+LIG_Integrin_RGD_TGFB_3,GO:0031012,extracellular matrix
+LIG_Integrin_RGD_TGFB_3,GO:0050840,extracellular matrix binding
+LIG_Integrin_RGD_TGFB_3,GO:0005615,extracellular space
+LIG_Integrin_RGD_TGFB_3,GO:0005925,focal adhesion
+LIG_Integrin_RGD_TGFB_3,GO:0033622,integrin activation
+LIG_Integrin_RGD_TGFB_3,GO:0005178,integrin binding
+LIG_Integrin_RGD_TGFB_3,GO:0007229,integrin-mediated signaling pathway
+LIG_Integrin_RGD_TGFB_3,GO:0046872,metal ion binding
+LIG_Integrin_RGD_TGFB_3,GO:0033628,regulation of cell adhesion mediated by integrin
+LIG_Integrin_RGD_TGFB_3,GO:0033623,regulation of integrin activation
+LIG_Integrin_RGD_TGFB_3,GO:0046718,viral entry into host cell
+LIG_Integrin_RGD_TGFB_3,GO:0044423,virion component
+LIG_Integrin_RGD_TGFB_3,GO:0001618,virus receptor activity
+LIG_Integrin_collagen_1,GO:0007155,cell-adhesion
+LIG_Integrin_collagen_1,GO:0033627,cell adhesion mediated by integrin
+LIG_Integrin_collagen_1,GO:0005194,cell adhesion molecule
+LIG_Integrin_collagen_1,GO:0009986,cell surface
+LIG_Integrin_collagen_1,GO:0038065,collagen-activated signaling pathway
+LIG_Integrin_collagen_1,GO:0009897,external side of plasma membrane
+LIG_Integrin_collagen_1,GO:0005576,extracellular
+LIG_Integrin_collagen_1,GO:0031012,extracellular matrix
+LIG_Integrin_collagen_1,GO:0030198,extracellular matrix organization
+LIG_Integrin_collagen_1,GO:0005615,extracellular space
+LIG_Integrin_collagen_1,GO:0008305,integrin
+LIG_Integrin_collagen_1,GO:0033622,integrin activation
+LIG_Integrin_collagen_1,GO:0034680,integrin alpha10-beta1 complex
+LIG_Integrin_collagen_1,GO:0034681,integrin alpha11-beta1 complex
+LIG_Integrin_collagen_1,GO:0034665,integrin alpha1-beta1 complex
+LIG_Integrin_collagen_1,GO:0034666,integrin alpha2-beta1 complex
+LIG_Integrin_collagen_1,GO:0005178,integrin binding
+LIG_Integrin_collagen_1,GO:0007229,integrin-mediated signaling pathway
+LIG_Integrin_collagen_1,GO:0033628,regulation of cell adhesion mediated by integrin
+LIG_Integrin_collagen_1,GO:0033623,regulation of integrin activation
+LIG_Integrin_isoDGR_2,GO:0007155,cell-adhesion
+LIG_Integrin_isoDGR_2,GO:0005576,extracellular
+LIG_Integrin_isoDGR_2,GO:0050840,extracellular matrix binding
+LIG_Integrin_isoDGR_2,GO:0005178,integrin binding
+LIG_Integrin_isoDGR_2,GO:0005515,protein binding
+LIG_Integrin_isoDGR_2,GO:0048019,receptor antagonist activity
+LIG_Integrin_isoDGR_2,GO:0005102,receptor binding
+LIG_KEPE_1,GO:0005634,nucleus
+LIG_KEPE_1,GO:0033233,regulation of protein sumoylation
+LIG_KEPE_2,GO:0005634,nucleus
+LIG_KEPE_2,GO:0033233,regulation of protein sumoylation
+LIG_KEPE_3,GO:0005634,nucleus
+LIG_KEPE_3,GO:0033233,regulation of protein sumoylation
+LIG_KLC1_WD_1,GO:0005856,cytoskeleton
+LIG_KLC1_WD_1,GO:0005829,cytosol
+LIG_KLC1_WD_1,GO:0075519,microtubule-dependent intracellular transport of viral material
+LIG_KLC1_WD_1,GO:0072383,plus-end-directed vesicle transport along microtubule
+LIG_KLC1_WD_1,GO:0098840,protein transport along microtubule
+LIG_KLC1_WD_1,GO:0099517,synaptic vesicle transport along microtubule
+LIG_KLC1_WD_1,GO:0030911,TPR domain binding
+LIG_KLC1_Yacidic_2,GO:0072321,chaperone-mediated protein transport
+LIG_KLC1_Yacidic_2,GO:0005829,cytosol
+LIG_KLC1_Yacidic_2,GO:0019894,kinesin binding
+LIG_KLC1_Yacidic_2,GO:0005515,protein binding
+LIG_KLC1_Yacidic_2,GO:0016192,vesicle-mediated transport
+LIG_LEDGF_IBM_1,GO:0006915,apoptosis
+LIG_LEDGF_IBM_1,GO:0000785,chromatin
+LIG_LEDGF_IBM_1,GO:0003682,chromatin binding
+LIG_LEDGF_IBM_1,GO:0006325,chromatin organization
+LIG_LEDGF_IBM_1,GO:0071339,MLL1 complex
+LIG_LEDGF_IBM_1,GO:0005634,nucleus
+LIG_LEDGF_IBM_1,GO:0045893,"positive regulation of transcription, DNA-templated"
+LIG_LEDGF_IBM_1,GO:0005515,protein binding
+LIG_LEDGF_IBM_1,GO:0003713,transcription co-activator
+LIG_LEDGF_IBM_1,GO:0044826,viral genome integration into host DNA
+LIG_LIR_Apic_2,GO:0000045,autophagic vacuole assembly
+LIG_LIR_Apic_2,GO:0006914,autophagy
+LIG_LIR_Apic_2,GO:0098560,cytoplasmic side of late endosome membrane
+LIG_LIR_Apic_2,GO:0005829,cytosol
+LIG_LIR_Apic_2,GO:0005515,protein binding
+LIG_LIR_Gen_1,GO:0000045,autophagic vacuole assembly
+LIG_LIR_Gen_1,GO:0006914,autophagy
+LIG_LIR_Gen_1,GO:0098560,cytoplasmic side of late endosome membrane
+LIG_LIR_Gen_1,GO:0005829,cytosol
+LIG_LIR_Gen_1,GO:0005515,protein binding
+LIG_LIR_LC3C_4,GO:0000045,autophagic vacuole assembly
+LIG_LIR_LC3C_4,GO:0006914,autophagy
+LIG_LIR_LC3C_4,GO:0098560,cytoplasmic side of late endosome membrane
+LIG_LIR_LC3C_4,GO:0005829,cytosol
+LIG_LIR_LC3C_4,GO:0005515,protein binding
+LIG_LIR_Nem_3,GO:0000045,autophagic vacuole assembly
+LIG_LIR_Nem_3,GO:0006914,autophagy
+LIG_LIR_Nem_3,GO:0098560,cytoplasmic side of late endosome membrane
+LIG_LIR_Nem_3,GO:0005829,cytosol
+LIG_LIR_Nem_3,GO:0005515,protein binding
+LIG_LRP6_Inhibitor_1,GO:0005576,extracellular
+LIG_LRP6_Inhibitor_1,GO:1900116,extracellular negative regulation of signal transduction
+LIG_LRP6_Inhibitor_1,GO:0060323,head morphogenesis
+LIG_LRP6_Inhibitor_1,GO:0050750,low-density lipoprotein particle receptor binding
+LIG_LRP6_Inhibitor_1,GO:0030514,negative regulation of BMP signaling pathway
+LIG_LRP6_Inhibitor_1,GO:0090090,negative regulation of canonical Wnt signaling pathway
+LIG_LRP6_Inhibitor_1,GO:0030279,negative regulation of ossification
+LIG_LRP6_Inhibitor_1,GO:0048642,negative regulation of skeletal muscle tissue development
+LIG_LRP6_Inhibitor_1,GO:0005515,protein binding
+LIG_LRP6_Inhibitor_1,GO:0048019,receptor antagonist activity
+LIG_LRP6_Inhibitor_1,GO:0004871,signal transducer
+LIG_LSD1_SNAG_1,GO:0031018,endocrine pancreas development
+LIG_LSD1_SNAG_1,GO:0001837,epithelial to mesenchymal transition
+LIG_LSD1_SNAG_1,GO:0042472,inner ear morphogenesis
+LIG_LSD1_SNAG_1,GO:0045814,"negative regulation of gene expression, epigenetic"
+LIG_LSD1_SNAG_1,GO:0051572,negative regulation of histone H3-K4 methylation
+LIG_LSD1_SNAG_1,GO:0051573,negative regulation of histone H3-K9 methylation
+LIG_LSD1_SNAG_1,GO:0005634,nucleus
+LIG_LSD1_SNAG_1,GO:0005515,protein binding
+LIG_LSD1_SNAG_1,GO:0045646,regulation of erythrocyte differentiation
+LIG_LSD1_SNAG_1,GO:0006357,regulation of transcription from Pol II promote
+LIG_LSD1_SNAG_1,GO:0017053,transcriptional repressor complex
+LIG_LSD1_SNAG_1,GO:0060290,transdifferentiation
+LIG_LYPXL_L_2,GO:0005829,cytosol
+LIG_LYPXL_L_2,GO:0000813,ESCRT I complex
+LIG_LYPXL_L_2,GO:0000815,ESCRT III complex
+LIG_LYPXL_L_2,GO:0030430,host cell cytoplasm
+LIG_LYPXL_L_2,GO:0042025,host cell nucleus
+LIG_LYPXL_L_2,GO:0020002,host cell plasma membrane
+LIG_LYPXL_L_2,GO:0044419,interspecies interaction between organisms
+LIG_LYPXL_L_2,GO:0019054,Modulation by virus of host cellular process
+LIG_LYPXL_L_2,GO:0046755,non-lytic viral budding
+LIG_LYPXL_L_2,GO:0005515,protein binding
+LIG_LYPXL_L_2,GO:0019037,"Viral assembly, maturation, egress, and release"
+LIG_LYPXL_L_2,GO:0039702,viral budding via host ESCRT complex
+LIG_LYPXL_L_2,GO:0019058,viral life cycle
+LIG_LYPXL_L_2,GO:0016032,viral life cycle
+LIG_LYPXL_L_2,GO:0044423,virion component
+LIG_LYPXL_SIV_4,GO:0030430,host cell cytoplasm
+LIG_LYPXL_SIV_4,GO:0042025,host cell nucleus
+LIG_LYPXL_SIV_4,GO:0020002,host cell plasma membrane
+LIG_LYPXL_SIV_4,GO:0046755,non-lytic viral budding
+LIG_LYPXL_SIV_4,GO:0005515,protein binding
+LIG_LYPXL_SIV_4,GO:0039702,viral budding via host ESCRT complex
+LIG_LYPXL_SIV_4,GO:0019058,viral life cycle
+LIG_LYPXL_SIV_4,GO:0044423,virion component
+LIG_LYPXL_S_1,GO:0005829,cytosol
+LIG_LYPXL_S_1,GO:0000813,ESCRT I complex
+LIG_LYPXL_S_1,GO:0000815,ESCRT III complex
+LIG_LYPXL_S_1,GO:0097734,extracellular exosome biogenesis
+LIG_LYPXL_S_1,GO:0044419,interspecies interaction between organisms
+LIG_LYPXL_S_1,GO:0019054,Modulation by virus of host cellular process
+LIG_LYPXL_S_1,GO:0046755,non-lytic viral budding
+LIG_LYPXL_S_1,GO:0005515,protein binding
+LIG_LYPXL_S_1,GO:1990562,syndecan-syntenin-ALIX complex
+LIG_LYPXL_S_1,GO:0019037,"Viral assembly, maturation, egress, and release"
+LIG_LYPXL_S_1,GO:0039702,viral budding via host ESCRT complex
+LIG_LYPXL_S_1,GO:0016032,viral life cycle
+LIG_LYPXL_yS_3,GO:0005829,cytosol
+LIG_LYPXL_yS_3,GO:0005768,Endosome
+LIG_LYPXL_yS_3,GO:0005515,protein binding
+LIG_LYPXL_yS_3,GO:0036010,protein localization to endosome
+LIG_LYPXL_yS_3,GO:0016485,protein processing
+LIG_LYPXL_yS_3,GO:0009268,response to pH
+LIG_LYPXL_yS_3,GO:0010992,ubiquitin recycling
+LIG_LYPXL_yS_3,GO:0007034,vacuolar transport
+LIG_MAD2,GO:0005680,anaphase-promoting complex
+LIG_MAD2,GO:0007094,mitotic spindle checkpoint
+LIG_MAD2,GO:0005634,nucleus
+LIG_MAD2,GO:0005515,protein binding
+LIG_MLH1_MIPbox_1,GO:0006281,DNA repair
+LIG_MLH1_MIPbox_1,GO:0006298,mismatch repair
+LIG_MLH1_MIPbox_1,GO:0032389,MutLalpha complex
+LIG_MLH1_MIPbox_1,GO:0005634,nucleus
+LIG_MLH1_MIPbox_1,GO:0005515,protein binding
+LIG_MSH2_SHIPbox_1,GO:0006281,DNA repair
+LIG_MSH2_SHIPbox_1,GO:0006298,mismatch repair
+LIG_MSH2_SHIPbox_1,GO:0032301,MutSalpha complex
+LIG_MSH2_SHIPbox_1,GO:0005634,nucleus
+LIG_MSH2_SHIPbox_1,GO:0005515,protein binding
+LIG_MSH2_SHIPbox_1,GO:0032991,protein-containing complex
+LIG_MSH2_SHIPbox_1,GO:0019904,protein domain specific binding
+LIG_MTR4_AIM_1,GO:0006397,mRNA processing
+LIG_MTR4_AIM_1,GO:0071027,nuclear RNA surveillance
+LIG_MTR4_AIM_1,GO:0005634,nucleus
+LIG_MTR4_AIM_1,GO:0005515,protein binding
+LIG_MTR4_AIM_1,GO:0032991,protein-containing complex
+LIG_MTR4_AIM_1,GO:0019904,protein domain specific binding
+LIG_MTR4_AIM_1,GO:0061013,regulation of mRNA catabolic process
+LIG_MTR4_AIM_1,GO:0006401,RNA catabolic process
+LIG_MTR4_AIM_1,GO:0006364,rRNA processing
+LIG_MTR4_AIM_1,GO:0016076,snRNA catabolic process
+LIG_MTR4_AIM_1,GO:0031499,TRAMP complex
+LIG_MYND_1,GO:0005634,nucleus
+LIG_MYND_1,GO:0006350,transcription
+LIG_MYND_1,GO:0003713,transcription co-activator
+LIG_MYND_1,GO:0008134,transcription factor binding
+LIG_MYND_1,GO:0008270,zinc ion binding
+LIG_MYND_2,GO:0042826,histone deacetylase binding
+LIG_MYND_2,GO:0000122,negative regulation of transcription from RNA polymerase II promoter
+LIG_MYND_2,GO:0005634,nucleus
+LIG_MYND_2,GO:0017053,transcriptional repressor complex
+LIG_MYND_2,GO:0003714,transcription co-repressor
+LIG_MYND_2,GO:0008270,zinc ion binding
+LIG_MYND_3,GO:0070389,chaperone cofactor-dependent protein refolding
+LIG_MYND_3,GO:0005829,cytosol
+LIG_MYND_3,GO:0005634,nucleus
+LIG_MYND_3,GO:0019511,peptidyl-proline hydroxylation
+LIG_MYND_3,GO:0005515,protein binding
+LIG_MYND_3,GO:0006457,protein folding
+LIG_Menin_MBM1_1,GO:0006325,chromatin organization
+LIG_Menin_MBM1_1,GO:0051568,histone H3-K4 methylation
+LIG_Menin_MBM1_1,GO:0044665,MLL1/2 complex
+LIG_Menin_MBM1_1,GO:0000122,negative regulation of transcription from RNA polymerase II promoter
+LIG_Menin_MBM1_1,GO:0005634,nucleus
+LIG_Menin_MBM1_1,GO:0045893,"positive regulation of transcription, DNA-templated"
+LIG_Menin_MBM1_1,GO:0005515,protein binding
+LIG_Menin_MBM1_1,GO:0065003,protein-containing complex assembly
+LIG_Menin_MBM1_1,GO:0032993,protein-DNA complex
+LIG_Menin_MBM1_1,GO:0042127,regulation of cell population proliferation
+LIG_Menin_MBM1_1,GO:0071863,regulation of cell proliferation in bone marrow
+LIG_Menin_MBM1_1,GO:0017053,transcriptional repressor complex
+LIG_Menin_MBM1_1,GO:0035976,transcription factor AP-1 complex
+LIG_Menin_MBM1_1,GO:0005667,Transcription factor complex
+LIG_Menin_MBM1_1,GO:0045815,transcription initiation-coupled chromatin remodeling
+LIG_Mtr4_Air2_1,GO:0043629,ncRNA polyadenylation
+LIG_Mtr4_Air2_1,GO:0071027,nuclear RNA surveillance
+LIG_Mtr4_Air2_1,GO:0005730,nucleolus
+LIG_Mtr4_Air2_1,GO:0005634,nucleus
+LIG_Mtr4_Air2_1,GO:0005515,protein binding
+LIG_Mtr4_Air2_1,GO:0030674,"protein binding, bridging"
+LIG_Mtr4_Air2_1,GO:0043631,RNA polyadenylation
+LIG_Mtr4_Air2_1,GO:0006396,RNA processing
+LIG_Mtr4_Air2_1,GO:0071025,RNA surveillance
+LIG_Mtr4_Air2_1,GO:0031499,TRAMP complex
+LIG_Mtr4_Trf4_1,GO:0071027,nuclear RNA surveillance
+LIG_Mtr4_Trf4_1,GO:0005730,nucleolus
+LIG_Mtr4_Trf4_1,GO:0005634,nucleus
+LIG_Mtr4_Trf4_1,GO:0005515,protein binding
+LIG_Mtr4_Trf4_1,GO:0030674,"protein binding, bridging"
+LIG_Mtr4_Trf4_1,GO:0043631,RNA polyadenylation
+LIG_Mtr4_Trf4_1,GO:0071025,RNA surveillance
+LIG_Mtr4_Trf4_1,GO:0031499,TRAMP complex
+LIG_Mtr4_Trf4_2,GO:0071027,nuclear RNA surveillance
+LIG_Mtr4_Trf4_2,GO:0005730,nucleolus
+LIG_Mtr4_Trf4_2,GO:0005634,nucleus
+LIG_Mtr4_Trf4_2,GO:0005515,protein binding
+LIG_Mtr4_Trf4_2,GO:0030674,"protein binding, bridging"
+LIG_Mtr4_Trf4_2,GO:0043631,RNA polyadenylation
+LIG_Mtr4_Trf4_2,GO:0006396,RNA processing
+LIG_Mtr4_Trf4_2,GO:0071025,RNA surveillance
+LIG_Mtr4_Trf4_2,GO:0031499,TRAMP complex
+LIG_NBox_RRM_1,GO:0005634,nucleus
+LIG_NBox_RRM_1,GO:0006355,"Regulation of transcription, DNA-dependent"
+LIG_NBox_RRM_1,GO:0003723,RNA binding
+LIG_NBox_RRM_1,GO:0003700,transcription factor
+LIG_NRBOX,GO:0005634,nucleus
+LIG_NRBOX,GO:0045941,positive regulation of transcription
+LIG_NRBOX,GO:0045449,regulation of transcription
+LIG_NRBOX,GO:0003713,transcription co-activator
+LIG_NRBOX,GO:0003712,transcription cofactor
+LIG_NRBOX,GO:0008134,transcription factor binding
+LIG_NRP_CendR_1,GO:0007411,axon guidance
+LIG_NRP_CendR_1,GO:0016477,cell migration
+LIG_NRP_CendR_1,GO:0045499,chemorepellent activity
+LIG_NRP_CendR_1,GO:0009897,external side of plasma membrane
+LIG_NRP_CendR_1,GO:0005576,extracellular
+LIG_NRP_CendR_1,GO:0005615,extracellular space
+LIG_NRP_CendR_1,GO:0008083,growth factor activity
+LIG_NRP_CendR_1,GO:0008201,heparin binding
+LIG_NRP_CendR_1,GO:0038191,neuropilin binding
+LIG_NRP_CendR_1,GO:0045766,positive regulation of angiogenesis
+LIG_NRP_CendR_1,GO:0001938,positive regulation of endothelial cell proliferation
+LIG_NRP_CendR_1,GO:1901492,positive regulation of lymphangiogenesis
+LIG_NRP_CendR_1,GO:0002092,positive regulation of receptor internalization
+LIG_NRP_CendR_1,GO:0043117,positive regulation of vascular permeability
+LIG_NRP_CendR_1,GO:0005515,protein binding
+LIG_NRP_CendR_1,GO:0006898,receptor mediated endocytosis
+LIG_NRP_CendR_1,GO:0033623,regulation of integrin activation
+LIG_NRP_CendR_1,GO:0005172,vascular endothelial growth factor receptor binding
+LIG_NRP_CendR_1,GO:0038084,vascular endothelial growth factor signaling pathway
+LIG_NRP_CendR_1,GO:0038190,VEGF-activated neuropilin signaling pathway
+LIG_NRP_CendR_1,GO:0019062,virion attachment to host cell
+LIG_Nrd1CID_NIM_1,GO:0071027,nuclear RNA surveillance
+LIG_Nrd1CID_NIM_1,GO:0005730,nucleolus
+LIG_Nrd1CID_NIM_1,GO:0005654,nucleoplasm
+LIG_Nrd1CID_NIM_1,GO:0005634,nucleus
+LIG_Nrd1CID_NIM_1,GO:0004652,polynucleotide adenylyltransferase activity
+LIG_Nrd1CID_NIM_1,GO:0005515,protein binding
+LIG_Nrd1CID_NIM_1,GO:0043631,RNA polyadenylation
+LIG_Nrd1CID_NIM_1,GO:0006396,RNA processing
+LIG_Nrd1CID_NIM_1,GO:0031499,TRAMP complex
+LIG_OCRL_FandH_1,GO:0005829,cytosol
+LIG_OCRL_FandH_1,GO:0005769,Early endosome
+LIG_OCRL_FandH_1,GO:0007032,endosome organization
+LIG_OCRL_FandH_1,GO:0010009,external side of endosome  membrane
+LIG_OCRL_FandH_1,GO:0005794,Golgi apparatus
+LIG_OCRL_FandH_1,GO:0005802,Golgi trans-face
+LIG_OCRL_FandH_1,GO:0035058,nonmotile primary cilium assembly
+LIG_OCRL_FandH_1,GO:0006909,phagocytosis
+LIG_OCRL_FandH_1,GO:0005515,protein binding
+LIG_OCRL_FandH_1,GO:0001881,receptor recycling
+LIG_OCRL_FandH_1,GO:0055037,recycling endosome
+LIG_OCRL_FandH_1,GO:0090003,regulation of establishment of protein localization in plasma membrane
+LIG_OCRL_FandH_1,GO:0042147,"retrograde transport, endosome to Golgi"
+LIG_PALB2_WD40_1,GO:0033593,BRCA2-MAGE-D1 complex
+LIG_PALB2_WD40_1,GO:0003677,DNA binding
+LIG_PALB2_WD40_1,GO:0000724,double-strand break repair via homologous recombination
+LIG_PALB2_WD40_1,GO:0005634,nucleus
+LIG_PALB2_WD40_1,GO:0005515,protein binding
+LIG_PALB2_WD40_1,GO:0006974,Response to DNA damage stimulus
+LIG_PAM2_1,GO:0005829,cytosol
+LIG_PAM2_1,GO:0017148,negative regulation of translation
+LIG_PAM2_1,GO:0000288,"nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay"
+LIG_PAM2_1,GO:0045727,positive regulation of translation
+LIG_PAM2_1,GO:0019904,protein domain specific binding
+LIG_PAM2_1,GO:0016567,protein ubiquitination
+LIG_PAM2_2,GO:0005829,cytosol
+LIG_PAM2_2,GO:0017148,negative regulation of translation
+LIG_PAM2_2,GO:0000288,"nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay"
+LIG_PAM2_2,GO:0019904,protein domain specific binding
+LIG_PAM2_2,GO:0030529,ribonucleoprotein complex
+LIG_PCNA_APIM_2,GO:0103053,1-ethyladenine demethylase activity
+LIG_PCNA_APIM_2,GO:0005524,ATP binding
+LIG_PCNA_APIM_2,GO:0006307,DNA dealkylation involved in DNA repair
+LIG_PCNA_APIM_2,GO:0080111,DNA demethylation
+LIG_PCNA_APIM_2,GO:0003678,DNA helicase activity
+LIG_PCNA_APIM_2,GO:0006281,DNA repair
+LIG_PCNA_APIM_2,GO:0043596,nuclear replication fork
+LIG_PCNA_APIM_2,GO:0005654,nucleoplasm
+LIG_PCNA_APIM_2,GO:0005634,nucleus
+LIG_PCNA_PIPBox_1,GO:0003684,damaged DNA binding
+LIG_PCNA_PIPBox_1,GO:0003886,DNA (cytosine-5-)-methyltransferase
+LIG_PCNA_PIPBox_1,GO:0003887,DNA-directed DNA polymerase
+LIG_PCNA_PIPBox_1,GO:0006306,DNA methylation
+LIG_PCNA_PIPBox_1,GO:0006281,DNA repair
+LIG_PCNA_PIPBox_1,GO:0006260,DNA replication
+LIG_PCNA_PIPBox_1,GO:0043596,nuclear replication fork
+LIG_PCNA_PIPBox_1,GO:0005634,nucleus
+LIG_PCNA_TLS_4,GO:0034644,cellular response to UV
+LIG_PCNA_TLS_4,GO:0003684,damaged DNA binding
+LIG_PCNA_TLS_4,GO:0003887,DNA-directed DNA polymerase
+LIG_PCNA_TLS_4,GO:0006281,DNA repair
+LIG_PCNA_TLS_4,GO:0006260,DNA replication
+LIG_PCNA_TLS_4,GO:0042276,error-prone translesion synthesis
+LIG_PCNA_TLS_4,GO:0046872,metal ion binding
+LIG_PCNA_TLS_4,GO:0016604,nuclear body
+LIG_PCNA_TLS_4,GO:0005654,nucleoplasm
+LIG_PCNA_TLS_4,GO:0005634,nucleus
+LIG_PCNA_TLS_4,GO:0006974,Response to DNA damage stimulus
+LIG_PCNA_TLS_4,GO:0019985,translesion synthesis
+LIG_PCNA_yPIPBox_3,GO:1904162,5'-3' exodeoxyribonuclease activity involved in UV-damage excision repair
+LIG_PCNA_yPIPBox_3,GO:0017108,5'-flap endonuclease activity
+LIG_PCNA_yPIPBox_3,GO:0005524,ATP binding
+LIG_PCNA_yPIPBox_3,GO:0006284,base-excision repair
+LIG_PCNA_yPIPBox_3,GO:0003684,damaged DNA binding
+LIG_PCNA_yPIPBox_3,GO:0043625,delta DNA polymerase complex
+LIG_PCNA_yPIPBox_3,GO:0006277,DNA amplification
+LIG_PCNA_yPIPBox_3,GO:0003906,DNA-(apurinic or apyrimidinic site) endonuclease activity
+LIG_PCNA_yPIPBox_3,GO:0003677,DNA binding
+LIG_PCNA_yPIPBox_3,GO:0003689,DNA clamp loader activity
+LIG_PCNA_yPIPBox_3,GO:0008094,DNA-dependent ATPase activity
+LIG_PCNA_yPIPBox_3,GO:0003887,DNA-directed DNA polymerase
+LIG_PCNA_yPIPBox_3,GO:0003678,DNA helicase activity
+LIG_PCNA_yPIPBox_3,GO:0032135,DNA insertion or deletion binding
+LIG_PCNA_yPIPBox_3,GO:0006310,DNA recombination
+LIG_PCNA_yPIPBox_3,GO:0006281,DNA repair
+LIG_PCNA_yPIPBox_3,GO:0006260,DNA replication
+LIG_PCNA_yPIPBox_3,GO:0006335,DNA replication-dependent nucleosome assembly
+LIG_PCNA_yPIPBox_3,GO:0043137,"DNA replication, removal of RNA primer"
+LIG_PCNA_yPIPBox_3,GO:0006271,DNA strand elongation involved in DNA replication
+LIG_PCNA_yPIPBox_3,GO:1904161,DNA synthesis involved in UV-damage excision repair
+LIG_PCNA_yPIPBox_3,GO:0004520,endodeoxyribonuclease activity
+LIG_PCNA_yPIPBox_3,GO:0030983,mismatched DNA binding
+LIG_PCNA_yPIPBox_3,GO:0006298,mismatch repair
+LIG_PCNA_yPIPBox_3,GO:0032300,mismatch repair complex
+LIG_PCNA_yPIPBox_3,GO:0043596,nuclear replication fork
+LIG_PCNA_yPIPBox_3,GO:0006295,"nucleotide-excision repair, DNA incision, 3'-to lesion"
+LIG_PCNA_yPIPBox_3,GO:0005634,nucleus
+LIG_PCNA_yPIPBox_3,GO:0004844,uracil DNA N-glycosylase activity
+LIG_PDZ_Class_1,GO:0005829,cytosol
+LIG_PDZ_Class_1,GO:0009898,internal side of plasma membrane
+LIG_PDZ_Class_1,GO:0030165,pdz-domain binding
+LIG_PDZ_Class_1,GO:0005515,protein binding
+LIG_PDZ_Class_1,GO:0019904,protein domain specific binding
+LIG_PDZ_Class_1,GO:0007165,signal transduction
+LIG_PDZ_Class_2,GO:0005829,cytosol
+LIG_PDZ_Class_2,GO:0009898,internal side of plasma membrane
+LIG_PDZ_Class_2,GO:0030165,pdz-domain binding
+LIG_PDZ_Class_2,GO:0005515,protein binding
+LIG_PDZ_Class_2,GO:0019904,protein domain specific binding
+LIG_PDZ_Class_2,GO:0007165,signal transduction
+LIG_PDZ_Class_3,GO:0005829,cytosol
+LIG_PDZ_Class_3,GO:0009898,internal side of plasma membrane
+LIG_PDZ_Class_3,GO:0030165,pdz-domain binding
+LIG_PDZ_Class_3,GO:0005515,protein binding
+LIG_PDZ_Class_3,GO:0019904,protein domain specific binding
+LIG_PDZ_Class_3,GO:0007165,signal transduction
+LIG_PDZ_Wminus1_1,GO:0098609,cell-cell adhesion
+LIG_PDZ_Wminus1_1,GO:0005911,cell-cell junction
+LIG_PDZ_Wminus1_1,GO:0005829,cytosol
+LIG_PDZ_Wminus1_1,GO:0035329,hippo signaling cascade
+LIG_PDZ_Wminus1_1,GO:0009898,internal side of plasma membrane
+LIG_PDZ_Wminus1_1,GO:0030165,pdz-domain binding
+LIG_PDZ_Wminus1_1,GO:0005515,protein binding
+LIG_PDZ_Wminus1_1,GO:0019904,protein domain specific binding
+LIG_PDZ_Wminus1_1,GO:0048167,regulation of synaptic plasticity
+LIG_PDZ_Wminus1_1,GO:0007165,signal transduction
+LIG_PDZ_Wminus1_1,GO:0045202,synapse
+LIG_PDZ_Wminus1_1,GO:0070160,tight junction
+LIG_PDZ_Wminus1_1,GO:0016055,Wnt receptor signaling pathway
+LIG_PROFILIN_1,GO:0003779,actin binding
+LIG_PROFILIN_1,GO:0015629,actin cytoskeleton
+LIG_PROFILIN_1,GO:0030041,actin filament polymerization
+LIG_PROFILIN_1,GO:0007010,cytoskeleton organization
+LIG_PROFILIN_1,GO:0005829,cytosol
+LIG_PROFILIN_1,GO:0005522,profilin binding
+LIG_PROFILIN_1,GO:0051493,regulation of cytoskeleton organization
+LIG_PTAP_UEV_1,GO:0005829,cytosol
+LIG_PTAP_UEV_1,GO:0000813,ESCRT I complex
+LIG_PTAP_UEV_1,GO:0044419,interspecies interaction between organisms
+LIG_PTAP_UEV_1,GO:0046755,non-lytic viral budding
+LIG_PTAP_UEV_1,GO:0005634,nucleus
+LIG_PTAP_UEV_1,GO:0015031,protein transport
+LIG_PTAP_UEV_1,GO:0043162,ubiquitin-dependent protein breakdown via the multivesicular body pathway
+LIG_PTB_Apo_2,GO:0007155,cell-adhesion
+LIG_PTB_Apo_2,GO:0016044,cellular membrane organization
+LIG_PTB_Apo_2,GO:0016023,cytoplasmic membrane-bounded vesicle
+LIG_PTB_Apo_2,GO:0005829,cytosol
+LIG_PTB_Apo_2,GO:0008305,integrin
+LIG_PTB_Apo_2,GO:0009898,internal side of plasma membrane
+LIG_PTB_Apo_2,GO:0005515,protein binding
+LIG_PTB_Apo_2,GO:0019904,protein domain specific binding
+LIG_PTB_Apo_2,GO:0051425,PTB domain binding
+LIG_PTB_Apo_2,GO:0043235,receptor complex
+LIG_PTB_Apo_2,GO:0030334,regulation of cell migration
+LIG_PTB_Apo_2,GO:0007169,transmembrane receptor protein tyrosine kinase signalimg pathway
+LIG_PTB_Phospho_1,GO:0007155,cell-adhesion
+LIG_PTB_Phospho_1,GO:0016044,cellular membrane organization
+LIG_PTB_Phospho_1,GO:0016023,cytoplasmic membrane-bounded vesicle
+LIG_PTB_Phospho_1,GO:0005829,cytosol
+LIG_PTB_Phospho_1,GO:0008305,integrin
+LIG_PTB_Phospho_1,GO:0009898,internal side of plasma membrane
+LIG_PTB_Phospho_1,GO:0005515,protein binding
+LIG_PTB_Phospho_1,GO:0019904,protein domain specific binding
+LIG_PTB_Phospho_1,GO:0051425,PTB domain binding
+LIG_PTB_Phospho_1,GO:0043235,receptor complex
+LIG_PTB_Phospho_1,GO:0030334,regulation of cell migration
+LIG_PTB_Phospho_1,GO:0007169,transmembrane receptor protein tyrosine kinase signalimg pathway
+LIG_Pex14_1,GO:0005829,cytosol
+LIG_Pex14_1,GO:0020015,glycosome
+LIG_Pex14_1,GO:0005777,peroxisome
+LIG_Pex14_1,GO:0016558,peroxisome matrix protein import
+LIG_Pex14_1,GO:0000268,peroxisome targeting sequence binding
+LIG_Pex14_1,GO:0005052,peroxisome targeting signal-1 receptor
+LIG_Pex14_1,GO:0005515,protein binding
+LIG_Pex14_1,GO:0006625,protein-peroxisome targeting
+LIG_Pex14_2,GO:0005829,cytosol
+LIG_Pex14_2,GO:0020015,glycosome
+LIG_Pex14_2,GO:0015919,peroxisomal membrane transport
+LIG_Pex14_2,GO:0005777,peroxisome
+LIG_Pex14_2,GO:0016558,peroxisome matrix protein import
+LIG_Pex14_2,GO:0033328,peroxisome membrane targeting sequence binding
+LIG_Pex14_2,GO:0000268,peroxisome targeting sequence binding
+LIG_Pex14_2,GO:0005052,peroxisome targeting signal-1 receptor
+LIG_Pex14_2,GO:0005515,protein binding
+LIG_Pex14_2,GO:0006625,protein-peroxisome targeting
+LIG_Pex14_3,GO:0005829,cytosol
+LIG_Pex14_3,GO:0019899,enzyme binding
+LIG_Pex14_3,GO:0005622,intracellular
+LIG_Pex14_3,GO:0005777,peroxisome
+LIG_Pex14_3,GO:0016560,peroxisome receptor docking
+LIG_Pex14_3,GO:0000268,peroxisome targeting sequence binding
+LIG_Pex14_3,GO:0005052,peroxisome targeting signal-1 receptor
+LIG_Pex14_3,GO:0045046,Protein import into peroxisome membrane
+LIG_Pex14_3,GO:0047485,protein N-terminus binding
+LIG_Pex14_3,GO:0006625,protein-peroxisome targeting
+LIG_Pex14_4,GO:0005829,cytosol
+LIG_Pex14_4,GO:0019899,enzyme binding
+LIG_Pex14_4,GO:0005622,intracellular
+LIG_Pex14_4,GO:0005777,peroxisome
+LIG_Pex14_4,GO:0016560,peroxisome receptor docking
+LIG_Pex14_4,GO:0000268,peroxisome targeting sequence binding
+LIG_Pex14_4,GO:0005052,peroxisome targeting signal-1 receptor
+LIG_Pex14_4,GO:0045046,Protein import into peroxisome membrane
+LIG_Pex14_4,GO:0047485,protein N-terminus binding
+LIG_Pex14_4,GO:0006625,protein-peroxisome targeting
+LIG_Pex3_1,GO:0005829,cytosol
+LIG_Pex3_1,GO:0020015,glycosome
+LIG_Pex3_1,GO:0046860,"glycosome membrane, glycosomal membrane"
+LIG_Pex3_1,GO:0015919,peroxisomal membrane transport
+LIG_Pex3_1,GO:0005777,peroxisome
+LIG_Pex3_1,GO:0005778,"peroxisome membrane, peroxisomal membrane"
+LIG_Pex3_1,GO:0033328,peroxisome membrane targeting sequence binding
+LIG_Pex3_1,GO:0000268,peroxisome targeting sequence binding
+LIG_Pex3_1,GO:0005515,protein binding
+LIG_Pex3_1,GO:0045046,Protein import into peroxisome membrane
+LIG_Pex3_1,GO:0006625,protein-peroxisome targeting
+LIG_RBL1_LxSxE_2,GO:0070176,DRM complex
+LIG_RBL1_LxSxE_2,GO:0070314,G1 to G0 transition
+LIG_RBL1_LxSxE_2,GO:0005654,nucleoplasm
+LIG_RBL1_LxSxE_2,GO:0005634,nucleus
+LIG_RBL1_LxSxE_2,GO:0005515,protein binding
+LIG_RBL1_LxSxE_2,GO:0051726,Regulation of cell cycle
+LIG_RBL1_LxSxE_2,GO:1903450,regulation of G1 to G0 transition
+LIG_RBL1_LxSxE_2,GO:0006355,"Regulation of transcription, DNA-dependent"
+LIG_RB_LxCxE_1,GO:0008283,cell proliferation
+LIG_RB_LxCxE_1,GO:0000785,chromatin
+LIG_RB_LxCxE_1,GO:0005634,nucleus
+LIG_RB_LxCxE_1,GO:0035189,Rb-E2F complex
+LIG_RB_LxCxE_1,GO:0051726,Regulation of cell cycle
+LIG_RB_LxCxE_1,GO:0001558,regulation of cell growth
+LIG_RB_LxCxE_1,GO:0003714,transcription co-repressor
+LIG_RB_LxCxE_1,GO:0003700,transcription factor
+LIG_RB_LxCxE_1,GO:0030528,transcription regulator
+LIG_RB_LxCxE_1,GO:0140110,transcription regulator activity
+LIG_RB_LxCxE_1,GO:0016032,viral life cycle
+LIG_RB_pABgroove_1,GO:0006915,apoptosis
+LIG_RB_pABgroove_1,GO:0005634,nucleus
+LIG_RB_pABgroove_1,GO:0008284,positive regulation of cell proliferation
+LIG_RB_pABgroove_1,GO:0005515,protein binding
+LIG_RB_pABgroove_1,GO:0035189,Rb-E2F complex
+LIG_RB_pABgroove_1,GO:0051726,Regulation of cell cycle
+LIG_RB_pABgroove_1,GO:0045449,regulation of transcription
+LIG_RB_pABgroove_1,GO:0005667,Transcription factor complex
+LIG_RB_pABgroove_1,GO:0019048,Virus-host interaction
+LIG_REV1ctd_RIR_1,GO:0003684,damaged DNA binding
+LIG_REV1ctd_RIR_1,GO:0006281,DNA repair
+LIG_REV1ctd_RIR_1,GO:0005654,nucleoplasm
+LIG_REV1ctd_RIR_1,GO:0005634,nucleus
+LIG_REV1ctd_RIR_1,GO:0005515,protein binding
+LIG_REV1ctd_RIR_1,GO:0006974,Response to DNA damage stimulus
+LIG_REV1ctd_RIR_1,GO:0019985,translesion synthesis
+LIG_RPA_C_Plants,GO:0006281,DNA repair
+LIG_RPA_C_Plants,GO:0006260,DNA replication
+LIG_RPA_C_Plants,GO:0005662,DNA replication factor A complex
+LIG_RPA_C_Plants,GO:0000724,double-strand break repair via homologous recombination
+LIG_RPA_C_Plants,GO:0005654,nucleoplasm
+LIG_RPA_C_Plants,GO:0006289,nucleotide-excision repair
+LIG_RPA_C_Plants,GO:0005634,nucleus
+LIG_RPA_C_Plants,GO:0016605,PML body
+LIG_RPA_C_Plants,GO:0005515,protein binding
+LIG_RPA_C_Plants,GO:0003697,single-stranded DNA binding
+LIG_RPA_C_Plants,GO:0000723,Telomere maintenance
+LIG_RPA_C_Plants,GO:0000722,telomere maintenance via recombination
+LIG_RPA_C_Vert,GO:0006281,DNA repair
+LIG_RPA_C_Vert,GO:0006260,DNA replication
+LIG_RPA_C_Vert,GO:0005662,DNA replication factor A complex
+LIG_RPA_C_Vert,GO:0000724,double-strand break repair via homologous recombination
+LIG_RPA_C_Vert,GO:0005654,nucleoplasm
+LIG_RPA_C_Vert,GO:0006289,nucleotide-excision repair
+LIG_RPA_C_Vert,GO:0005634,nucleus
+LIG_RPA_C_Vert,GO:0016605,PML body
+LIG_RPA_C_Vert,GO:0005515,protein binding
+LIG_RPA_C_Vert,GO:0003697,single-stranded DNA binding
+LIG_RPA_C_Vert,GO:0000723,Telomere maintenance
+LIG_RPA_C_Vert,GO:0000722,telomere maintenance via recombination
+LIG_RRM_PRI_1,GO:0030530,heterogeneous nuclear ribonucleoprotein complex
+LIG_RRM_PRI_1,GO:0006376,mRNA splice site selection
+LIG_RRM_PRI_1,GO:0048025,"negative regulation of nuclear mRNA splicing, via spliceosome"
+LIG_RRM_PRI_1,GO:0005634,nucleus
+LIG_RRM_PRI_1,GO:0019904,protein domain specific binding
+LIG_Rrp6Rrp47_Mtr4_1,GO:0034459,ATP-dependent 3'-5' RNA helicase activity
+LIG_Rrp6Rrp47_Mtr4_1,GO:0005634,nucleus
+LIG_Rrp6Rrp47_Mtr4_1,GO:0055114,oxidation-reduction process
+LIG_Rrp6Rrp47_Mtr4_1,GO:0006396,RNA processing
+LIG_Rrp6Rrp47_Mtr4_1,GO:0031499,TRAMP complex
+LIG_RuBisCO_WRxxL_1,GO:0015977,carbon fixation
+LIG_RuBisCO_WRxxL_1,GO:0009507,chloroplast
+LIG_RuBisCO_WRxxL_1,GO:0009570,chloroplast stroma
+LIG_RuBisCO_WRxxL_1,GO:0070925,organelle assembly
+LIG_RuBisCO_WRxxL_1,GO:0009853,photorespiration
+LIG_RuBisCO_WRxxL_1,GO:0015979,photosynthesis
+LIG_RuBisCO_WRxxL_1,GO:0005515,protein binding
+LIG_RuBisCO_WRxxL_1,GO:0044877,protein-containing complex binding
+LIG_RuBisCO_WRxxL_1,GO:1990732,pyrenoid
+LIG_RuBisCO_WRxxL_1,GO:1902115,regulation of organelle assembly
+LIG_SH2_CRK,GO:0015629,actin cytoskeleton
+LIG_SH2_CRK,GO:0007155,cell-adhesion
+LIG_SH2_CRK,GO:0030154,cell differentiation
+LIG_SH2_CRK,GO:0007166,cell surface receptor signaling pathway
+LIG_SH2_CRK,GO:0005829,cytosol
+LIG_SH2_CRK,GO:0018108,peptidyl-tyrosine phosphorylation
+LIG_SH2_CRK,GO:0030335,positive regulation of cell migration
+LIG_SH2_CRK,GO:0005515,protein binding
+LIG_SH2_CRK,GO:0032956,regulation of actin cytoskeleton organization
+LIG_SH2_CRK,GO:0005070,SH3/SH2 adaptor protei
+LIG_SH2_CRK,GO:0007165,signal transduction
+LIG_SH2_GRB2like,GO:0008283,cell proliferation
+LIG_SH2_GRB2like,GO:0005829,cytosol
+LIG_SH2_GRB2like,GO:0005769,Early endosome
+LIG_SH2_GRB2like,GO:0070851,growth factor receptor binding
+LIG_SH2_GRB2like,GO:0018108,peptidyl-tyrosine phosphorylation
+LIG_SH2_GRB2like,GO:0008284,positive regulation of cell proliferation
+LIG_SH2_GRB2like,GO:0005515,protein binding
+LIG_SH2_GRB2like,GO:0042169,SH2-domain binding
+LIG_SH2_GRB2like,GO:0005070,SH3/SH2 adaptor protei
+LIG_SH2_GRB2like,GO:0007165,signal transduction
+LIG_SH2_GRB2like,GO:0031295,T cell costimulation
+LIG_SH2_GRB2like,GO:0050852,T cell receptor signaling pathway
+LIG_SH2_GRB2like,GO:0005069,transmembrane receptor protein tyrosine kinase docking protein
+LIG_SH2_GRB2like,GO:0007169,transmembrane receptor protein tyrosine kinase signalimg pathway
+LIG_SH2_NCK_1,GO:0015629,actin cytoskeleton
+LIG_SH2_NCK_1,GO:0075520,actin-dependent intracellular transport of virus
+LIG_SH2_NCK_1,GO:0005829,cytosol
+LIG_SH2_NCK_1,GO:0070851,growth factor receptor binding
+LIG_SH2_NCK_1,GO:0020002,host cell plasma membrane
+LIG_SH2_NCK_1,GO:0008286,insulin receptor signaling pathway
+LIG_SH2_NCK_1,GO:0009898,internal side of plasma membrane
+LIG_SH2_NCK_1,GO:0009405,pathogenesis
+LIG_SH2_NCK_1,GO:0030838,positive regulation of actin filament polymerization
+LIG_SH2_NCK_1,GO:0005515,protein binding
+LIG_SH2_NCK_1,GO:0042169,SH2-domain binding
+LIG_SH2_NCK_1,GO:0005070,SH3/SH2 adaptor protei
+LIG_SH2_NCK_1,GO:0007165,signal transduction
+LIG_SH2_NCK_1,GO:0050852,T cell receptor signaling pathway
+LIG_SH2_NCK_1,GO:0048010,vascular endothelial growth factor receptor signaling pathway
+LIG_SH2_PTP2,GO:0005829,cytosol
+LIG_SH2_PTP2,GO:0007173,EGF receptor signaling pathway
+LIG_SH2_PTP2,GO:0008286,insulin receptor signaling pathway
+LIG_SH2_PTP2,GO:0042169,SH2-domain binding
+LIG_SH2_SFK_2,GO:0005829,cytosol
+LIG_SH2_SFK_2,GO:0009898,internal side of plasma membrane
+LIG_SH2_SFK_2,GO:0005886,plasma membrane
+LIG_SH2_SFK_2,GO:0005515,protein binding
+LIG_SH2_SFK_2,GO:0007346,Regulation of Mitotic Cell Cycle
+LIG_SH2_SFK_2,GO:0042169,SH2-domain binding
+LIG_SH2_SFK_2,GO:0023052,signaling
+LIG_SH2_SFK_2,GO:0007165,signal transduction
+LIG_SH2_SFK_CTail_3,GO:0030154,cell differentiation
+LIG_SH2_SFK_CTail_3,GO:0005829,cytosol
+LIG_SH2_SFK_CTail_3,GO:0009898,internal side of plasma membrane
+LIG_SH2_SFK_CTail_3,GO:0005886,plasma membrane
+LIG_SH2_SFK_CTail_3,GO:0005515,protein binding
+LIG_SH2_SFK_CTail_3,GO:0042058,regulation of epidermal growth factor receptor signaling pathway
+LIG_SH2_SFK_CTail_3,GO:0007346,Regulation of Mitotic Cell Cycle
+LIG_SH2_SFK_CTail_3,GO:0042169,SH2-domain binding
+LIG_SH2_SFK_CTail_3,GO:0023052,signaling
+LIG_SH2_SFK_CTail_3,GO:0007165,signal transduction
+LIG_SH2_STAP1,GO:0042113,B cell activation
+LIG_SH2_STAP1,GO:0050853,B cell receptor signaling pathway
+LIG_SH2_STAP1,GO:0035556,intracellular signal transduction
+LIG_SH2_STAP1,GO:0005886,plasma membrane
+LIG_SH2_STAP1,GO:0005515,protein binding
+LIG_SH2_STAP1,GO:0042169,SH2-domain binding
+LIG_SH2_STAT3,GO:0005829,cytosol
+LIG_SH2_STAT3,GO:0042169,SH2-domain binding
+LIG_SH2_STAT5,GO:0005829,cytosol
+LIG_SH2_STAT5,GO:0042169,SH2-domain binding
+LIG_SH2_STAT6,GO:0005829,cytosol
+LIG_SH2_STAT6,GO:0042169,SH2-domain binding
+LIG_SH3_1,GO:0005488,Binding
+LIG_SH3_1,GO:0007154,cell communication
+LIG_SH3_1,GO:0008150,cell growth and/or maintenance
+LIG_SH3_1,GO:0005829,cytosol
+LIG_SH3_1,GO:0005925,focal adhesion
+LIG_SH3_1,GO:0005886,plasma membrane
+LIG_SH3_1,GO:0005515,protein binding
+LIG_SH3_1,GO:0019904,protein domain specific binding
+LIG_SH3_1,GO:0017124,SH3-domain binding
+LIG_SH3_1,GO:0007165,signal transduction
+LIG_SH3_2,GO:0005488,Binding
+LIG_SH3_2,GO:0007154,cell communication
+LIG_SH3_2,GO:0008150,cell growth and/or maintenance
+LIG_SH3_2,GO:0005829,cytosol
+LIG_SH3_2,GO:0005925,focal adhesion
+LIG_SH3_2,GO:0005886,plasma membrane
+LIG_SH3_2,GO:0005515,protein binding
+LIG_SH3_2,GO:0019904,protein domain specific binding
+LIG_SH3_2,GO:0017124,SH3-domain binding
+LIG_SH3_2,GO:0007165,signal transduction
+LIG_SH3_3,GO:0005488,Binding
+LIG_SH3_3,GO:0007154,cell communication
+LIG_SH3_3,GO:0008150,cell growth and/or maintenance
+LIG_SH3_3,GO:0005829,cytosol
+LIG_SH3_3,GO:0005925,focal adhesion
+LIG_SH3_3,GO:0005886,plasma membrane
+LIG_SH3_3,GO:0005515,protein binding
+LIG_SH3_3,GO:0019904,protein domain specific binding
+LIG_SH3_3,GO:0017124,SH3-domain binding
+LIG_SH3_3,GO:0007165,signal transduction
+LIG_SH3_4,GO:0005488,Binding
+LIG_SH3_4,GO:0007154,cell communication
+LIG_SH3_4,GO:0008150,cell growth and/or maintenance
+LIG_SH3_4,GO:0005829,cytosol
+LIG_SH3_4,GO:0005925,focal adhesion
+LIG_SH3_4,GO:0005515,protein binding
+LIG_SH3_4,GO:0019904,protein domain specific binding
+LIG_SH3_4,GO:0017124,SH3-domain binding
+LIG_SH3_4,GO:0007165,signal transduction
+LIG_SH3_CIN85_PxpxPR_1,GO:0007015,actin filament organization
+LIG_SH3_CIN85_PxpxPR_1,GO:0006915,apoptosis
+LIG_SH3_CIN85_PxpxPR_1,GO:0042113,B cell activation
+LIG_SH3_CIN85_PxpxPR_1,GO:0005856,cytoskeleton
+LIG_SH3_CIN85_PxpxPR_1,GO:0007010,cytoskeleton organization
+LIG_SH3_CIN85_PxpxPR_1,GO:0005829,cytosol
+LIG_SH3_CIN85_PxpxPR_1,GO:0006897,endocytosis
+LIG_SH3_CIN85_PxpxPR_1,GO:0044409,entry into host
+LIG_SH3_CIN85_PxpxPR_1,GO:0009898,internal side of plasma membrane
+LIG_SH3_CIN85_PxpxPR_1,GO:0098689,latency-replication decision
+LIG_SH3_CIN85_PxpxPR_1,GO:0002092,positive regulation of receptor internalization
+LIG_SH3_CIN85_PxpxPR_1,GO:0005515,protein binding
+LIG_SH3_CIN85_PxpxPR_1,GO:0031623,receptor internalization
+LIG_SH3_CIN85_PxpxPR_1,GO:0017124,SH3-domain binding
+LIG_SH3_CIN85_PxpxPR_1,GO:0042110,T cell activation
+LIG_SH3_CIN85_PxpxPR_1,GO:0019034,viral replication complex
+LIG_SH3_CIN85_PxpxPR_1,GO:0046786,viral replication complex formation and maintenance
+LIG_SH3_PxRPPK_7,GO:0005829,cytosol
+LIG_SH3_PxRPPK_7,GO:0007173,EGF receptor signaling pathway
+LIG_SH3_PxRPPK_7,GO:0008543,fibroblast growth factor receptor signaling pathway
+LIG_SH3_PxRPPK_7,GO:0008286,insulin receptor signaling pathway
+LIG_SH3_PxRPPK_7,GO:0019904,protein domain specific binding
+LIG_SH3_PxRPPK_7,GO:0035591,signaling adaptor activity
+LIG_SH3_PxRPPK_7,GO:0007165,signal transduction
+LIG_SH3_PxRPPK_7,GO:0050852,T cell receptor signaling pathway
+LIG_SH3_PxxDY_5,GO:0005488,Binding
+LIG_SH3_PxxDY_5,GO:0007154,cell communication
+LIG_SH3_PxxDY_5,GO:0008150,cell growth and/or maintenance
+LIG_SH3_PxxDY_5,GO:0098562,cytoplasmic side of membrane
+LIG_SH3_PxxDY_5,GO:0005829,cytosol
+LIG_SH3_PxxDY_5,GO:0005886,plasma membrane
+LIG_SH3_PxxDY_5,GO:0005515,protein binding
+LIG_SH3_PxxDY_5,GO:0019904,protein domain specific binding
+LIG_SH3_PxxDY_5,GO:0017124,SH3-domain binding
+LIG_SH3_PxxDY_5,GO:0007165,signal transduction
+LIG_SH3_PxxPPRxxK_8,GO:0005829,cytosol
+LIG_SH3_PxxPPRxxK_8,GO:0019904,protein domain specific binding
+LIG_SH3_PxxPPRxxK_8,GO:0035591,signaling adaptor activity
+LIG_SH3_PxxPPRxxK_8,GO:0007165,signal transduction
+LIG_SH3_PxxPPRxxK_8,GO:0050852,T cell receptor signaling pathway
+LIG_SH3_PxxxRxxKP_6,GO:0005829,cytosol
+LIG_SH3_PxxxRxxKP_6,GO:0045121,membrane raft
+LIG_SH3_PxxxRxxKP_6,GO:0019904,protein domain specific binding
+LIG_SH3_PxxxRxxKP_6,GO:0035591,signaling adaptor activity
+LIG_SH3_PxxxRxxKP_6,GO:0007165,signal transduction
+LIG_SH3_PxxxRxxKP_6,GO:0050852,T cell receptor signaling pathway
+LIG_SH3_PxxxRxxKP_6,GO:0036398,TCR signalosome
+LIG_SPRY_1,GO:0005829,cytosol
+LIG_SPRY_1,GO:0035556,intracellular signal transduction
+LIG_SPRY_1,GO:0001960,negative regulation of cytokine-mediated signaling pathway
+LIG_SPRY_1,GO:0005515,protein binding
+LIG_SPRY_1,GO:0000151,ubiquitin ligase complex
+LIG_SUFU_1,GO:0005829,cytosol
+LIG_SUFU_1,GO:0035301,Hedgehog signaling complex
+LIG_SUFU_1,GO:0045879,negative regulation of smoothened signaling pathway
+LIG_SUFU_1,GO:0005634,nucleus
+LIG_SUFU_1,GO:0072372,primary cilium
+LIG_SUFU_1,GO:0005515,protein binding
+LIG_SUMO_SIM_anti_2,GO:0016604,nuclear body
+LIG_SUMO_SIM_anti_2,GO:0005634,nucleus
+LIG_SUMO_SIM_anti_2,GO:0016605,PML body
+LIG_SUMO_SIM_anti_2,GO:0030578,PML body organization
+LIG_SUMO_SIM_anti_2,GO:0060968,regulation of gene silencing
+LIG_SUMO_SIM_anti_2,GO:0032880,regulation of protein localization
+LIG_SUMO_SIM_anti_2,GO:0033233,regulation of protein sumoylation
+LIG_SUMO_SIM_anti_2,GO:0032183,SUMO binding
+LIG_SUMO_SIM_anti_2,GO:0032184,SUMO polymer binding
+LIG_SUMO_SIM_par_1,GO:0016604,nuclear body
+LIG_SUMO_SIM_par_1,GO:0005634,nucleus
+LIG_SUMO_SIM_par_1,GO:0016605,PML body
+LIG_SUMO_SIM_par_1,GO:0030578,PML body organization
+LIG_SUMO_SIM_par_1,GO:0060968,regulation of gene silencing
+LIG_SUMO_SIM_par_1,GO:0032880,regulation of protein localization
+LIG_SUMO_SIM_par_1,GO:0033233,regulation of protein sumoylation
+LIG_SUMO_SIM_par_1,GO:0032183,SUMO binding
+LIG_SUMO_SIM_par_1,GO:0032184,SUMO polymer binding
+LIG_Sin3_1,GO:0008151,Cell growth and/or maintenance
+LIG_Sin3_1,GO:0007275,development
+LIG_Sin3_1,GO:0005634,nucleus
+LIG_Sin3_1,GO:0030528,transcription regulator
+LIG_Sin3_2,GO:0008151,Cell growth and/or maintenance
+LIG_Sin3_2,GO:0007275,development
+LIG_Sin3_2,GO:0005634,nucleus
+LIG_Sin3_2,GO:0030528,transcription regulator
+LIG_Sin3_3,GO:0008151,Cell growth and/or maintenance
+LIG_Sin3_3,GO:0007275,development
+LIG_Sin3_3,GO:0005634,nucleus
+LIG_Sin3_3,GO:0030528,transcription regulator
+LIG_SxIP_EBH_1,GO:0031122,cytoplasmic microtubule organization and biogenesis
+LIG_SxIP_EBH_1,GO:0005829,cytosol
+LIG_SxIP_EBH_1,GO:0030951,establishment and/or maintenance of microtubule cytoskeleton polarity
+LIG_SxIP_EBH_1,GO:0005874,microtubule
+LIG_SxIP_EBH_1,GO:0007018,microtubule-based movement
+LIG_SxIP_EBH_1,GO:0007017,microtubule-based process
+LIG_SxIP_EBH_1,GO:0000226,microtubule cytoskeleton organization and biogenesis
+LIG_SxIP_EBH_1,GO:0051010,microtubule plus-end binding
+LIG_SxIP_EBH_1,GO:0031109,microtubule polymerization or depolymerization
+LIG_SxIP_EBH_1,GO:0031535,plus-end directed microtubule sliding
+LIG_SxIP_EBH_1,GO:0032886,regulation of microtubule-based process
+LIG_TPR,GO:0003754,chaperone
+LIG_TPR,GO:0005829,cytosol
+LIG_TPR,GO:0003773,heat shock protein
+LIG_TPR,GO:0005634,nucleus
+LIG_TPR,GO:0006457,protein folding
+LIG_TPR,GO:0006950,Response to stress
+LIG_TRAF2like_MATH_loPxQ_2,GO:0023035,CD40 signaling pathway
+LIG_TRAF2like_MATH_loPxQ_2,GO:0071360,cellular response to exogenous dsRNA
+LIG_TRAF2like_MATH_loPxQ_2,GO:0032473,cytoplasmic side of mitochondrial outer membrane
+LIG_TRAF2like_MATH_loPxQ_2,GO:0005829,cytosol
+LIG_TRAF2like_MATH_loPxQ_2,GO:0051607,defense response to virus
+LIG_TRAF2like_MATH_loPxQ_2,GO:0009898,internal side of plasma membrane
+LIG_TRAF2like_MATH_loPxQ_2,GO:0070530,K63-linked polyubiquitin modification-dependent protein binding
+LIG_TRAF2like_MATH_loPxQ_2,GO:0043066,negative regulation of apoptotic process
+LIG_TRAF2like_MATH_loPxQ_2,GO:0043124,negative regulation of canonical NF-kappaB signal transduction
+LIG_TRAF2like_MATH_loPxQ_2,GO:0005515,protein binding
+LIG_TRAF2like_MATH_loPxQ_2,GO:0070534,protein K63-linked ubiquitination
+LIG_TRAF2like_MATH_loPxQ_2,GO:0004871,signal transducer
+LIG_TRAF2like_MATH_loPxQ_2,GO:0007165,signal transduction
+LIG_TRAF2like_MATH_loPxQ_2,GO:0005031,tumor necrosis factor-activated receptor activity
+LIG_TRAF2like_MATH_loPxQ_2,GO:0000151,ubiquitin ligase complex
+LIG_TRAF2like_MATH_shPxQ_1,GO:0023035,CD40 signaling pathway
+LIG_TRAF2like_MATH_shPxQ_1,GO:0071360,cellular response to exogenous dsRNA
+LIG_TRAF2like_MATH_shPxQ_1,GO:0032473,cytoplasmic side of mitochondrial outer membrane
+LIG_TRAF2like_MATH_shPxQ_1,GO:0005829,cytosol
+LIG_TRAF2like_MATH_shPxQ_1,GO:0051607,defense response to virus
+LIG_TRAF2like_MATH_shPxQ_1,GO:0009898,internal side of plasma membrane
+LIG_TRAF2like_MATH_shPxQ_1,GO:0070530,K63-linked polyubiquitin modification-dependent protein binding
+LIG_TRAF2like_MATH_shPxQ_1,GO:0043066,negative regulation of apoptotic process
+LIG_TRAF2like_MATH_shPxQ_1,GO:0043124,negative regulation of canonical NF-kappaB signal transduction
+LIG_TRAF2like_MATH_shPxQ_1,GO:0005515,protein binding
+LIG_TRAF2like_MATH_shPxQ_1,GO:0070534,protein K63-linked ubiquitination
+LIG_TRAF2like_MATH_shPxQ_1,GO:0004871,signal transducer
+LIG_TRAF2like_MATH_shPxQ_1,GO:0007165,signal transduction
+LIG_TRAF2like_MATH_shPxQ_1,GO:0005031,tumor necrosis factor-activated receptor activity
+LIG_TRAF2like_MATH_shPxQ_1,GO:0000151,ubiquitin ligase complex
+LIG_TRAF3_MATH_PxP_3,GO:0005829,cytosol
+LIG_TRAF3_MATH_PxP_3,GO:0009898,internal side of plasma membrane
+LIG_TRAF3_MATH_PxP_3,GO:0070530,K63-linked polyubiquitin modification-dependent protein binding
+LIG_TRAF3_MATH_PxP_3,GO:0043124,negative regulation of canonical NF-kappaB signal transduction
+LIG_TRAF3_MATH_PxP_3,GO:0030890,positive regulation of B cell proliferation
+LIG_TRAF3_MATH_PxP_3,GO:0005515,protein binding
+LIG_TRAF3_MATH_PxP_3,GO:0070534,protein K63-linked ubiquitination
+LIG_TRAF3_MATH_PxP_3,GO:0004871,signal transducer
+LIG_TRAF3_MATH_PxP_3,GO:0007165,signal transduction
+LIG_TRAF3_MATH_PxP_3,GO:0005031,tumor necrosis factor-activated receptor activity
+LIG_TRAF3_MATH_PxP_3,GO:0000151,ubiquitin ligase complex
+LIG_TRAF4_MATH_1,GO:0007596,blood coagulation
+LIG_TRAF4_MATH_1,GO:0005829,cytosol
+LIG_TRAF4_MATH_1,GO:1990779,glycoprotein Ib-IX-V complex
+LIG_TRAF4_MATH_1,GO:0005887,integral plasma membrane protein
+LIG_TRAF4_MATH_1,GO:0070530,K63-linked polyubiquitin modification-dependent protein binding
+LIG_TRAF4_MATH_1,GO:0008284,positive regulation of cell proliferation
+LIG_TRAF4_MATH_1,GO:0005515,protein binding
+LIG_TRAF4_MATH_1,GO:0004871,signal transducer
+LIG_TRAF4_MATH_1,GO:0005031,tumor necrosis factor-activated receptor activity
+LIG_TRAF6_MATH_1,GO:0019724,B cell mediated immunity
+LIG_TRAF6_MATH_1,GO:0023035,CD40 signaling pathway
+LIG_TRAF6_MATH_1,GO:0071360,cellular response to exogenous dsRNA
+LIG_TRAF6_MATH_1,GO:0098554,cytoplasmic side of endoplasmic reticulum membrane
+LIG_TRAF6_MATH_1,GO:0032473,cytoplasmic side of mitochondrial outer membrane
+LIG_TRAF6_MATH_1,GO:0005829,cytosol
+LIG_TRAF6_MATH_1,GO:0051607,defense response to virus
+LIG_TRAF6_MATH_1,GO:0046847,filopodium assembly
+LIG_TRAF6_MATH_1,GO:0009898,internal side of plasma membrane
+LIG_TRAF6_MATH_1,GO:0070530,K63-linked polyubiquitin modification-dependent protein binding
+LIG_TRAF6_MATH_1,GO:0060749,mammary gland alveolus development
+LIG_TRAF6_MATH_1,GO:0030316,osteoclast differentiation
+LIG_TRAF6_MATH_1,GO:0032728,positive regulation of interferon-beta production
+LIG_TRAF6_MATH_1,GO:0051092,positive regulation of NF-kappaB transcription factor activity
+LIG_TRAF6_MATH_1,GO:0005515,protein binding
+LIG_TRAF6_MATH_1,GO:0070534,protein K63-linked ubiquitination
+LIG_TRAF6_MATH_1,GO:0032496,response to lipopolysaccharide
+LIG_TRAF6_MATH_1,GO:0004871,signal transducer
+LIG_TRAF6_MATH_1,GO:0007165,signal transduction
+LIG_TRAF6_MATH_1,GO:0002224,toll-like receptor signaling pathway
+LIG_TRAF6_MATH_1,GO:0005031,tumor necrosis factor-activated receptor activity
+LIG_TRAF6_MATH_1,GO:0000151,ubiquitin ligase complex
+LIG_TRFH_1,GO:0000781,"Chromosome, telomeric region"
+LIG_TRFH_1,GO:0005634,nucleus
+LIG_TRFH_1,GO:0019904,protein domain specific binding
+LIG_TRFH_1,GO:0051972,regulation of telomerase activity
+LIG_TRFH_1,GO:0005696,telomere
+LIG_TRFH_1,GO:0000723,Telomere maintenance
+LIG_TYR_ITAM,GO:0005829,cytosol
+LIG_TYR_ITAM,GO:0006468,protein amino acid phosphorylation
+LIG_TYR_ITIM,GO:0005829,cytosol
+LIG_TYR_ITIM,GO:0006468,protein amino acid phosphorylation
+LIG_TYR_ITSM,GO:0005829,cytosol
+LIG_TYR_ITSM,GO:0006468,protein amino acid phosphorylation
+LIG_Trf4_IWRxY_1,GO:0006397,mRNA processing
+LIG_Trf4_IWRxY_1,GO:0071027,nuclear RNA surveillance
+LIG_Trf4_IWRxY_1,GO:0005730,nucleolus
+LIG_Trf4_IWRxY_1,GO:0005634,nucleus
+LIG_Trf4_IWRxY_1,GO:0005515,protein binding
+LIG_Trf4_IWRxY_1,GO:0032991,protein-containing complex
+LIG_Trf4_IWRxY_1,GO:0019904,protein domain specific binding
+LIG_Trf4_IWRxY_1,GO:0061013,regulation of mRNA catabolic process
+LIG_Trf4_IWRxY_1,GO:0006401,RNA catabolic process
+LIG_Trf4_IWRxY_1,GO:0006364,rRNA processing
+LIG_Trf4_IWRxY_1,GO:0016076,snRNA catabolic process
+LIG_Trf4_IWRxY_1,GO:0031499,TRAMP complex
+LIG_UBA3_1,GO:0061654,NEDD8 conjugating enzyme activity
+LIG_UBA3_1,GO:0005634,nucleus
+LIG_UBA3_1,GO:0042277,Peptide binding
+LIG_UBA3_1,GO:2000436,positive regulation of protein neddylation
+LIG_UFM1_UFIM_1,GO:0005829,cytosol
+LIG_UFM1_UFIM_1,GO:0005515,protein binding
+LIG_UFM1_UFIM_1,GO:0071569,protein ufmylation
+LIG_UFM1_UFIM_1,GO:0033146,regulation of intracellular estrogen receptor signaling pathway
+LIG_UFM1_UFIM_1,GO:0034976,response to endoplasmic reticulum stress
+LIG_UFM1_UFIM_1,GO:0008641,small protein activating enzyme activity
+LIG_UFM1_UFIM_1,GO:0071566,UFM1 activating enzyme activity
+LIG_ULM_U2AF65_1,GO:0006376,mRNA splice site selection
+LIG_ULM_U2AF65_1,GO:0000398,"nuclear mRNA splicing, via spliceosome"
+LIG_ULM_U2AF65_1,GO:0006374,nuclear mRNA splicing via U2-type spliceosome
+LIG_ULM_U2AF65_1,GO:0005634,nucleus
+LIG_ULM_U2AF65_1,GO:0019904,protein domain specific binding
+LIG_ULM_U2AF65_1,GO:0043484,regulation of RNA splicing
+LIG_ULM_U2AF65_1,GO:0000245,spliceosome assembly
+LIG_ULM_U2AF65_1,GO:0005681,spliceosome complex
+LIG_VCP_SHPBox_1,GO:0034620,cellular response to unfolded protein
+LIG_VCP_SHPBox_1,GO:0098554,cytoplasmic side of endoplasmic reticulum membrane
+LIG_VCP_SHPBox_1,GO:0005829,cytosol
+LIG_VCP_SHPBox_1,GO:0044322,endoplasmic reticulum quality control compartment
+LIG_VCP_SHPBox_1,GO:0030968,endoplasmic reticulum unfolded protein response
+LIG_VCP_SHPBox_1,GO:0036503,ERAD pathway
+LIG_VCP_SHPBox_1,GO:0070987,error-free translesion synthesis
+LIG_VCP_SHPBox_1,GO:1904211,"membrane protein proteolysis involved in retrograde protein transport, ER to cytosol"
+LIG_VCP_SHPBox_1,GO:0031333,negative regulation of protein-containing complex assembly
+LIG_VCP_SHPBox_1,GO:0005634,nucleus
+LIG_VCP_SHPBox_1,GO:1904294,positive regulation of ERAD pathway
+LIG_VCP_SHPBox_1,GO:0005515,protein binding
+LIG_VCP_SHPBox_1,GO:0106300,protein-DNA covalent cross-linking repair
+LIG_VCP_SHPBox_1,GO:0051087,protein-folding chaperone binding
+LIG_VCP_SHPBox_1,GO:1904379,protein localization to cytosolic proteasome complex involved in ERAD pathway
+LIG_VCP_SHPBox_1,GO:0000209,protein polyubiquitination
+LIG_VCP_SHPBox_1,GO:0006974,Response to DNA damage stimulus
+LIG_VCP_SHPBox_1,GO:0043130,ubiquitin binding
+LIG_VCP_SHPBox_1,GO:0030433,ubiquitin-dependent ERAD pathway
+LIG_VCP_SHPBox_1,GO:0036501,UFD1-NPL4 complex
+LIG_VCP_SHPBox_1,GO:1990730,VCP-NSFL1C complex
+LIG_VCP_VBM_3,GO:0034620,cellular response to unfolded protein
+LIG_VCP_VBM_3,GO:0098554,cytoplasmic side of endoplasmic reticulum membrane
+LIG_VCP_VBM_3,GO:0005829,cytosol
+LIG_VCP_VBM_3,GO:0044322,endoplasmic reticulum quality control compartment
+LIG_VCP_VBM_3,GO:0036503,ERAD pathway
+LIG_VCP_VBM_3,GO:0000839,Hrd1p ubiquitin ligase ERAD-L complex
+LIG_VCP_VBM_3,GO:1904211,"membrane protein proteolysis involved in retrograde protein transport, ER to cytosol"
+LIG_VCP_VBM_3,GO:0005634,nucleus
+LIG_VCP_VBM_3,GO:1904294,positive regulation of ERAD pathway
+LIG_VCP_VBM_3,GO:0005515,protein binding
+LIG_VCP_VBM_3,GO:0051087,protein-folding chaperone binding
+LIG_VCP_VBM_3,GO:1904379,protein localization to cytosolic proteasome complex involved in ERAD pathway
+LIG_VCP_VBM_3,GO:0000209,protein polyubiquitination
+LIG_VCP_VBM_3,GO:0043130,ubiquitin binding
+LIG_VCP_VBM_3,GO:0030433,ubiquitin-dependent ERAD pathway
+LIG_VCP_VIM_2,GO:0034620,cellular response to unfolded protein
+LIG_VCP_VIM_2,GO:0098554,cytoplasmic side of endoplasmic reticulum membrane
+LIG_VCP_VIM_2,GO:0005829,cytosol
+LIG_VCP_VIM_2,GO:0044322,endoplasmic reticulum quality control compartment
+LIG_VCP_VIM_2,GO:0036503,ERAD pathway
+LIG_VCP_VIM_2,GO:1904211,"membrane protein proteolysis involved in retrograde protein transport, ER to cytosol"
+LIG_VCP_VIM_2,GO:0031333,negative regulation of protein-containing complex assembly
+LIG_VCP_VIM_2,GO:0005634,nucleus
+LIG_VCP_VIM_2,GO:1904294,positive regulation of ERAD pathway
+LIG_VCP_VIM_2,GO:0005515,protein binding
+LIG_VCP_VIM_2,GO:0051087,protein-folding chaperone binding
+LIG_VCP_VIM_2,GO:1904379,protein localization to cytosolic proteasome complex involved in ERAD pathway
+LIG_VCP_VIM_2,GO:0000209,protein polyubiquitination
+LIG_VCP_VIM_2,GO:0043130,ubiquitin binding
+LIG_VCP_VIM_2,GO:0030433,ubiquitin-dependent ERAD pathway
+LIG_Vh1_VBS_1,GO:0015629,actin cytoskeleton
+LIG_Vh1_VBS_1,GO:0051015,actin filament binding
+LIG_Vh1_VBS_1,GO:0007155,cell-adhesion
+LIG_Vh1_VBS_1,GO:0005911,cell-cell junction
+LIG_Vh1_VBS_1,GO:0007043,cell-cell junction assembly
+LIG_Vh1_VBS_1,GO:0005829,cytosol
+LIG_Vh1_VBS_1,GO:0005925,focal adhesion
+LIG_Vh1_VBS_1,GO:0007229,integrin-mediated signaling pathway
+LIG_Vh1_VBS_1,GO:0009405,pathogenesis
+LIG_Vh1_VBS_1,GO:0005515,protein binding
+LIG_Vh1_VBS_1,GO:0032403,protein complex binding
+LIG_Vh1_VBS_1,GO:0017166,vinculin binding
+LIG_WD40_WDR5_VDV_1,GO:0051568,histone H3-K4 methylation
+LIG_WD40_WDR5_VDV_1,GO:0035097,histone methyltransferase complex
+LIG_WD40_WDR5_VDV_1,GO:0005634,nucleus
+LIG_WD40_WDR5_VDV_1,GO:0005515,protein binding
+LIG_WD40_WDR5_VDV_2,GO:0051568,histone H3-K4 methylation
+LIG_WD40_WDR5_VDV_2,GO:0035097,histone methyltransferase complex
+LIG_WD40_WDR5_VDV_2,GO:0005634,nucleus
+LIG_WD40_WDR5_VDV_2,GO:0005515,protein binding
+LIG_WD40_WDR5_WIN_1,GO:0051568,histone H3-K4 methylation
+LIG_WD40_WDR5_WIN_1,GO:0035097,histone methyltransferase complex
+LIG_WD40_WDR5_WIN_1,GO:0005634,nucleus
+LIG_WD40_WDR5_WIN_1,GO:0005515,protein binding
+LIG_WD40_WDR5_WIN_2,GO:0051568,histone H3-K4 methylation
+LIG_WD40_WDR5_WIN_2,GO:0035097,histone methyltransferase complex
+LIG_WD40_WDR5_WIN_2,GO:0005634,nucleus
+LIG_WD40_WDR5_WIN_2,GO:0005515,protein binding
+LIG_WD40_WDR5_WIN_3,GO:0051568,histone H3-K4 methylation
+LIG_WD40_WDR5_WIN_3,GO:0035097,histone methyltransferase complex
+LIG_WD40_WDR5_WIN_3,GO:0005634,nucleus
+LIG_WD40_WDR5_WIN_3,GO:0005515,protein binding
+LIG_WH1,GO:0015629,actin cytoskeleton
+LIG_WH1,GO:0005488,Binding
+LIG_WH1,GO:0030036,cell growth or maintenance
+LIG_WH1,GO:0006928,cell motility
+LIG_WH1,GO:0005519,cytoskeletal regulatory protein binding
+LIG_WH1,GO:0005829,cytosol
+LIG_WH1,GO:0045758,positive regulation of actin polymerization and/or depolymerization
+LIG_WH1,GO:0005515,protein binding
+LIG_WH1,GO:0019904,protein domain specific binding
+LIG_WRC_WIRS_1,GO:0003779,actin binding
+LIG_WRC_WIRS_1,GO:0015629,actin cytoskeleton
+LIG_WRC_WIRS_1,GO:0030041,actin filament polymerization
+LIG_WRC_WIRS_1,GO:0030036,cell growth or maintenance
+LIG_WRC_WIRS_1,GO:0005829,cytosol
+LIG_WRC_WIRS_1,GO:2000601,positive regulation of Arp2/3 complex-mediated actin nucleation
+LIG_WRC_WIRS_1,GO:0005515,protein binding
+LIG_WRC_WIRS_1,GO:0032991,protein-containing complex
+LIG_WRPW_1,GO:0030154,cell differentiation
+LIG_WRPW_1,GO:0016481,negative regulation of transcription
+LIG_WRPW_1,GO:0005634,nucleus
+LIG_WRPW_1,GO:0045449,regulation of transcription
+LIG_WRPW_1,GO:0003712,transcription cofactor
+LIG_WRPW_1,GO:0003714,transcription co-repressor
+LIG_WRPW_1,GO:0008134,transcription factor binding
+LIG_WRPW_2,GO:0030154,cell differentiation
+LIG_WRPW_2,GO:0016481,negative regulation of transcription
+LIG_WRPW_2,GO:0005634,nucleus
+LIG_WW_1,GO:0005488,Binding
+LIG_WW_1,GO:0007155,cell-adhesion
+LIG_WW_1,GO:0007154,cell communication
+LIG_WW_1,GO:0008150,cell growth and/or maintenance
+LIG_WW_1,GO:0005829,cytosol
+LIG_WW_1,GO:0016021,integral membrane protein
+LIG_WW_1,GO:0005887,integral plasma membrane protein
+LIG_WW_1,GO:0005886,plasma membrane
+LIG_WW_1,GO:0005515,protein binding
+LIG_WW_1,GO:0007165,signal transduction
+LIG_WW_2,GO:0005488,Binding
+LIG_WW_2,GO:0007155,cell-adhesion
+LIG_WW_2,GO:0007154,cell communication
+LIG_WW_2,GO:0008150,cell growth and/or maintenance
+LIG_WW_2,GO:0005829,cytosol
+LIG_WW_2,GO:0016021,integral membrane protein
+LIG_WW_2,GO:0005887,integral plasma membrane protein
+LIG_WW_2,GO:0005634,nucleus
+LIG_WW_2,GO:0005515,protein binding
+LIG_WW_2,GO:0007165,signal transduction
+LIG_WW_3,GO:0005488,Binding
+LIG_WW_3,GO:0007154,cell communication
+LIG_WW_3,GO:0008150,cell growth and/or maintenance
+LIG_WW_3,GO:0005829,cytosol
+LIG_WW_3,GO:0005515,protein binding
+LIG_WW_3,GO:0007165,signal transduction
+LIG_deltaCOP1_diTrp_1,GO:0035964,COPI-coated vesicle budding
+LIG_deltaCOP1_diTrp_1,GO:0030663,COPI coated vesicle membrane
+LIG_deltaCOP1_diTrp_1,GO:0030126,COPI vesicle coat
+LIG_deltaCOP1_diTrp_1,GO:0005829,cytosol
+LIG_deltaCOP1_diTrp_1,GO:0005789,endoplasmic reticulum membrane
+LIG_deltaCOP1_diTrp_1,GO:0006888,ER to Golgi transport
+LIG_deltaCOP1_diTrp_1,GO:0000139,Golgi membrane
+LIG_deltaCOP1_diTrp_1,GO:0005515,protein binding
+LIG_deltaCOP1_diTrp_1,GO:0019904,protein domain specific binding
+LIG_deltaCOP1_diTrp_1,GO:0006890,retrograde (Golgi to ER) transport
+LIG_deltaCOP1_diTrp_1,GO:0030133,transport vesicle
+LIG_deltaCOP1_diTrp_1,GO:0016192,vesicle-mediated transport
+LIG_deltaCOP1_diTrp_1,GO:0099022,vesicle tethering
+LIG_deltaCOP1_diTrp_1,GO:0099044,vesicle tethering to endoplasmic reticulum
+LIG_eIF4E_1,GO:0005829,cytosol
+LIG_eIF4E_1,GO:0005515,protein binding
+LIG_eIF4E_1,GO:0006417,regulation of translation
+LIG_eIF4E_1,GO:0003743,translation initiation factor activity
+LIG_eIF4E_2,GO:0005829,cytosol
+LIG_eIF4E_2,GO:0005515,protein binding
+LIG_eIF4E_2,GO:0006417,regulation of translation
+LIG_eIF4E_2,GO:0003743,translation initiation factor activity
+MOD_AAK1BIKe_LxxQxTG_1,GO:0035612,AP-2 adaptor complex binding
+MOD_AAK1BIKe_LxxQxTG_1,GO:0005905,coated pit
+MOD_AAK1BIKe_LxxQxTG_1,GO:0005829,cytosol
+MOD_AAK1BIKe_LxxQxTG_1,GO:0006897,endocytosis
+MOD_AAK1BIKe_LxxQxTG_1,GO:0009898,internal side of plasma membrane
+MOD_AAK1BIKe_LxxQxTG_1,GO:0005112,Notch binding
+MOD_AAK1BIKe_LxxQxTG_1,GO:0016607,nuclear speck
+MOD_AAK1BIKe_LxxQxTG_1,GO:0005634,nucleus
+MOD_AAK1BIKe_LxxQxTG_1,GO:0019208,phosphatase regulator activity
+MOD_AAK1BIKe_LxxQxTG_1,GO:0045747,positive regulation of Notch signaling pathway
+MOD_AAK1BIKe_LxxQxTG_1,GO:0006468,protein amino acid phosphorylation
+MOD_AAK1BIKe_LxxQxTG_1,GO:0004674,protein serine/threonine kinase
+MOD_AAK1BIKe_LxxQxTG_1,GO:2000369,regulation of clathrin-dependent endocytosis
+MOD_AAK1BIKe_LxxQxTG_1,GO:0045202,synapse
+MOD_ASX_betaOH_EGF,GO:0030154,cell differentiation
+MOD_ASX_betaOH_EGF,GO:0007275,development
+MOD_ASX_betaOH_EGF,GO:0005783,endoplasmic reticulum
+MOD_ASX_betaOH_EGF,GO:0005576,extracellular
+MOD_CAAXbox,GO:0005829,cytosol
+MOD_CAAXbox,GO:0018346,protein amino acid prenylation
+MOD_CAAXbox,GO:0018343,protein farnesylation
+MOD_CAAXbox,GO:0004660,protein farnesyltransferase
+MOD_CAAXbox,GO:0018344,protein geranylgeranylation
+MOD_CAAXbox,GO:0004661,protein geranylgeranyltransferase
+MOD_CAAXbox,GO:0018342,protein prenylation
+MOD_CAAXbox,GO:0008318,protein prenyltransferase
+MOD_CDC14_SPxK_1,GO:0051301,Cell Division
+MOD_CDC14_SPxK_1,GO:0005829,cytosol
+MOD_CDC14_SPxK_1,GO:0007096,exit from mitosis
+MOD_CDC14_SPxK_1,GO:0071850,mitotic cell cycle arrest
+MOD_CDC14_SPxK_1,GO:0005730,nucleolus
+MOD_CDC14_SPxK_1,GO:0005634,nucleus
+MOD_CDC14_SPxK_1,GO:0004721,protein phosphatase
+MOD_CDK_SPK_2,GO:0006915,apoptosis
+MOD_CDK_SPK_2,GO:0060070,canonical Wnt signaling pathway
+MOD_CDK_SPK_2,GO:0004693,cyclin-dependent protein kinase activity
+MOD_CDK_SPK_2,GO:0000308,cycloplasmic cyclin-dependent protein kinase holoenzyme complex
+MOD_CDK_SPK_2,GO:0005829,cytosol
+MOD_CDK_SPK_2,GO:0006260,DNA replication
+MOD_CDK_SPK_2,GO:0000082,G1/S transition of mitotic cell cycle
+MOD_CDK_SPK_2,GO:0000086,G2/M transition of mitotic cell cycle
+MOD_CDK_SPK_2,GO:0005874,microtubule
+MOD_CDK_SPK_2,GO:0008017,microtubule binding
+MOD_CDK_SPK_2,GO:0007079,mitotic chromosome movement towards spindle pole
+MOD_CDK_SPK_2,GO:0005634,nucleus
+MOD_CDK_SPK_2,GO:0000808,origin recognition complex
+MOD_CDK_SPK_2,GO:0071158,positive regulation of cell cycle arrest
+MOD_CDK_SPK_2,GO:0019901,protein kinase binding
+MOD_CDK_SPK_2,GO:0004722,protein serine/threonine phosphatase activity
+MOD_CDK_SPK_2,GO:0000079,regulation of CDK activity
+MOD_CDK_SPK_2,GO:0051726,Regulation of cell cycle
+MOD_CDK_SPK_2,GO:0006282,regulation of DNA repair
+MOD_CDK_SPK_2,GO:0005819,spindle
+MOD_CDK_SPK_2,GO:0008134,transcription factor binding
+MOD_CDK_SPxK_1,GO:0004693,cyclin-dependent protein kinase activity
+MOD_CDK_SPxK_1,GO:0000308,cycloplasmic cyclin-dependent protein kinase holoenzyme complex
+MOD_CDK_SPxK_1,GO:0005829,cytosol
+MOD_CDK_SPxK_1,GO:0005634,nucleus
+MOD_CDK_SPxxK_3,GO:0006915,apoptosis
+MOD_CDK_SPxxK_3,GO:0060070,canonical Wnt signaling pathway
+MOD_CDK_SPxxK_3,GO:0004693,cyclin-dependent protein kinase activity
+MOD_CDK_SPxxK_3,GO:0000308,cycloplasmic cyclin-dependent protein kinase holoenzyme complex
+MOD_CDK_SPxxK_3,GO:0005829,cytosol
+MOD_CDK_SPxxK_3,GO:0006260,DNA replication
+MOD_CDK_SPxxK_3,GO:0000082,G1/S transition of mitotic cell cycle
+MOD_CDK_SPxxK_3,GO:0000086,G2/M transition of mitotic cell cycle
+MOD_CDK_SPxxK_3,GO:0005874,microtubule
+MOD_CDK_SPxxK_3,GO:0008017,microtubule binding
+MOD_CDK_SPxxK_3,GO:0007079,mitotic chromosome movement towards spindle pole
+MOD_CDK_SPxxK_3,GO:0005634,nucleus
+MOD_CDK_SPxxK_3,GO:0000808,origin recognition complex
+MOD_CDK_SPxxK_3,GO:0071158,positive regulation of cell cycle arrest
+MOD_CDK_SPxxK_3,GO:0019901,protein kinase binding
+MOD_CDK_SPxxK_3,GO:0004722,protein serine/threonine phosphatase activity
+MOD_CDK_SPxxK_3,GO:0000079,regulation of CDK activity
+MOD_CDK_SPxxK_3,GO:0051726,Regulation of cell cycle
+MOD_CDK_SPxxK_3,GO:0006282,regulation of DNA repair
+MOD_CDK_SPxxK_3,GO:0005819,spindle
+MOD_CDK_SPxxK_3,GO:0008134,transcription factor binding
+MOD_CK1_1,GO:0004681,casein kinase I
+MOD_CK1_1,GO:0005829,cytosol
+MOD_CK1_1,GO:0005634,nucleus
+MOD_CK2_1,GO:0005829,cytosol
+MOD_CK2_1,GO:0005634,nucleus
+MOD_CK2_1,GO:0004672,protein kinase
+MOD_CK2_1,GO:0004682,protein kinase CK2
+MOD_CK2_1,GO:0005956,protein kinase CK2 complex
+MOD_CK2_1,GO:0042752,regulation of circadian rhythm
+MOD_CK2_1,GO:0009411,response to UV
+MOD_CK2_1,GO:0016055,Wnt receptor signaling pathway
+MOD_CMANNOS,GO:0005576,extracellular
+MOD_Cter_Amidation,GO:0005576,extracellular
+MOD_Cter_Amidation,GO:0018033,protein C-terminal amidation
+MOD_Cter_Amidation,GO:0006464,protein modification
+MOD_Cter_Amidation,GO:0030141,secretory granule
+MOD_DYRK1A_RPxSP_1,GO:0030424,axon
+MOD_DYRK1A_RPxSP_1,GO:0007623,circadian rhythm
+MOD_DYRK1A_RPxSP_1,GO:0008092,cytoskeletal protein binding
+MOD_DYRK1A_RPxSP_1,GO:0005829,cytosol
+MOD_DYRK1A_RPxSP_1,GO:0030425,dendrite
+MOD_DYRK1A_RPxSP_1,GO:0043518,"negative regulation of DNA damage response, signal transduction by p53 class mediator"
+MOD_DYRK1A_RPxSP_1,GO:0031115,negative regulation of microtubule polymerization
+MOD_DYRK1A_RPxSP_1,GO:0048025,"negative regulation of nuclear mRNA splicing, via spliceosome"
+MOD_DYRK1A_RPxSP_1,GO:0007399,nervous system development
+MOD_DYRK1A_RPxSP_1,GO:0005883,neurofilament
+MOD_DYRK1A_RPxSP_1,GO:0004715,non-membrane spanning tyrosine kinase
+MOD_DYRK1A_RPxSP_1,GO:0016607,nuclear speck
+MOD_DYRK1A_RPxSP_1,GO:0005634,nucleus
+MOD_DYRK1A_RPxSP_1,GO:0036289,peptidyl-serine autophosphorylation
+MOD_DYRK1A_RPxSP_1,GO:0018105,peptidyl-serine phosphorylation
+MOD_DYRK1A_RPxSP_1,GO:0018107,peptidyl-threonine phosphorylation
+MOD_DYRK1A_RPxSP_1,GO:0038083,peptidyl-tyrosine autophosphorylation
+MOD_DYRK1A_RPxSP_1,GO:0033120,positive regulation of RNA splicing
+MOD_DYRK1A_RPxSP_1,GO:0045893,"positive regulation of transcription, DNA-templated"
+MOD_DYRK1A_RPxSP_1,GO:0006468,protein amino acid phosphorylation
+MOD_DYRK1A_RPxSP_1,GO:0004674,protein serine/threonine kinase
+MOD_DYRK1A_RPxSP_1,GO:0004713,protein tyrosine kinase
+MOD_DYRK1A_RPxSP_1,GO:1990904,ribonucleoprotein complex
+MOD_DYRK1A_RPxSP_1,GO:0048156,tau protein binding
+MOD_DYRK1A_RPxSP_1,GO:0050321,tau-protein kinase activity
+MOD_GSK3_1,GO:0005829,cytosol
+MOD_GSK3_1,GO:0005634,nucleus
+MOD_GSK3_1,GO:0006468,protein amino acid phosphorylation
+MOD_GSK3_1,GO:0004674,protein serine/threonine kinase
+MOD_GlcNHglycan,GO:0005576,extracellular
+MOD_GlcNHglycan,GO:0006024,glycosaminoglycan biosynthesis
+MOD_GlcNHglycan,GO:0005794,Golgi apparatus
+MOD_GlcNHglycan,GO:0030210,heparin biosynthesis
+MOD_GlcNHglycan,GO:0030158,peptide O-xylosyltransferase
+MOD_GlcNHglycan,GO:0042285,xylosyltransferase
+MOD_LATS_1,GO:0006915,apoptosis
+MOD_LATS_1,GO:0008283,cell proliferation
+MOD_LATS_1,GO:0051220,cytoplasmic sequestering of protein
+MOD_LATS_1,GO:0005829,cytosol
+MOD_LATS_1,GO:0035329,hippo signaling cascade
+MOD_LATS_1,GO:0016310,phosphorylation
+MOD_LATS_1,GO:0010718,positive regulation of epithelial to mesenchymal transition
+MOD_LATS_1,GO:0072089,stem cell proliferation
+MOD_LOK_YxT_1,GO:0030036,cell growth or maintenance
+MOD_LOK_YxT_1,GO:0005829,cytosol
+MOD_LOK_YxT_1,GO:0009898,internal side of plasma membrane
+MOD_LOK_YxT_1,GO:0006468,protein amino acid phosphorylation
+MOD_LOK_YxT_1,GO:0004674,protein serine/threonine kinase
+MOD_LOK_YxT_1,GO:0008360,regulation of cell shape
+MOD_LOK_YxT_1,GO:2000401,regulation of lymphocyte migration
+MOD_N-GLC_1,GO:0005783,endoplasmic reticulum
+MOD_N-GLC_1,GO:0005576,extracellular
+MOD_N-GLC_1,GO:0005794,Golgi apparatus
+MOD_N-GLC_1,GO:0006487,N-linked glycosylation
+MOD_N-GLC_1,GO:0018279,N-linked glycosylation via asparagine
+MOD_N-GLC_1,GO:0016740,transferase
+MOD_N-GLC_1,GO:0016757,"transferase, transferring glycosyl groups"
+MOD_N-GLC_2,GO:0005783,endoplasmic reticulum
+MOD_N-GLC_2,GO:0005576,extracellular
+MOD_N-GLC_2,GO:0005794,Golgi apparatus
+MOD_N-GLC_2,GO:0006487,N-linked glycosylation
+MOD_N-GLC_2,GO:0018279,N-linked glycosylation via asparagine
+MOD_N-GLC_2,GO:0016740,transferase
+MOD_N-GLC_2,GO:0016757,"transferase, transferring glycosyl groups"
+MOD_NEK2_1,GO:0008608,attachment of spindle microtubules to kinetochore
+MOD_NEK2_1,GO:0007049,cell cycle
+MOD_NEK2_1,GO:0051301,Cell Division
+MOD_NEK2_1,GO:0005814,centriole
+MOD_NEK2_1,GO:0005813,centrosome
+MOD_NEK2_1,GO:0000942,condensed nuclear chromosome outer kinetochore
+MOD_NEK2_1,GO:0005829,cytosol
+MOD_NEK2_1,GO:0000776,kinetochore
+MOD_NEK2_1,GO:0008017,microtubule binding
+MOD_NEK2_1,GO:0007019,microtubule depolymerization
+MOD_NEK2_1,GO:0005815,microtubule organizing center
+MOD_NEK2_1,GO:0007052,mitotic spindle organization
+MOD_NEK2_1,GO:0031262,Ndc80 complex
+MOD_NEK2_1,GO:1903126,negative regulation of centriole-centriole cohesion
+MOD_NEK2_1,GO:1902018,negative regulation of cilium assembly
+MOD_NEK2_1,GO:0005634,nucleus
+MOD_NEK2_1,GO:0051984,positive regulation of chromosome segregation
+MOD_NEK2_1,GO:0090267,positive regulation of mitotic cell cycle spindle assembly checkpoint
+MOD_NEK2_1,GO:0046777,protein autophosphorylation
+MOD_NEK2_1,GO:0019901,protein kinase binding
+MOD_NEK2_1,GO:0004674,protein serine/threonine kinase
+MOD_NEK2_1,GO:0004722,protein serine/threonine phosphatase activity
+MOD_NEK2_1,GO:0046602,regulation of mitotic centrosome separation
+MOD_NEK2_2,GO:0008608,attachment of spindle microtubules to kinetochore
+MOD_NEK2_2,GO:0007049,cell cycle
+MOD_NEK2_2,GO:0051301,Cell Division
+MOD_NEK2_2,GO:0005814,centriole
+MOD_NEK2_2,GO:0005813,centrosome
+MOD_NEK2_2,GO:0000942,condensed nuclear chromosome outer kinetochore
+MOD_NEK2_2,GO:0005829,cytosol
+MOD_NEK2_2,GO:0000776,kinetochore
+MOD_NEK2_2,GO:0008017,microtubule binding
+MOD_NEK2_2,GO:0007019,microtubule depolymerization
+MOD_NEK2_2,GO:0005815,microtubule organizing center
+MOD_NEK2_2,GO:0007052,mitotic spindle organization
+MOD_NEK2_2,GO:0031262,Ndc80 complex
+MOD_NEK2_2,GO:1903126,negative regulation of centriole-centriole cohesion
+MOD_NEK2_2,GO:1902018,negative regulation of cilium assembly
+MOD_NEK2_2,GO:0005634,nucleus
+MOD_NEK2_2,GO:0051984,positive regulation of chromosome segregation
+MOD_NEK2_2,GO:0090267,positive regulation of mitotic cell cycle spindle assembly checkpoint
+MOD_NEK2_2,GO:0046777,protein autophosphorylation
+MOD_NEK2_2,GO:0019901,protein kinase binding
+MOD_NEK2_2,GO:0004674,protein serine/threonine kinase
+MOD_NEK2_2,GO:0004722,protein serine/threonine phosphatase activity
+MOD_NEK2_2,GO:0046602,regulation of mitotic centrosome separation
+MOD_NMyristoyl,GO:0046658,anchored to plasma membrane
+MOD_NMyristoyl,GO:0005829,cytosol
+MOD_NMyristoyl,GO:0004379,glycyl-peptide N-tetradecanoyltransferase
+MOD_NMyristoyl,GO:0019107,myristoyltransferase
+MOD_NMyristoyl,GO:0018008,N-terminal peptidyl-glycine N-myristoylation
+MOD_NMyristoyl,GO:0006499,N-terminal protein myristoylation
+MOD_NMyristoyl,GO:0018030,peptidyl-lysine N6-myristoyltransferase
+MOD_NMyristoyl,GO:0018377,protein myristoylation
+MOD_OFUCOSY,GO:0005576,extracellular
+MOD_OGLYCOS,GO:0005576,extracellular
+MOD_PIKK_1,GO:0005829,cytosol
+MOD_PIKK_1,GO:0000077,DNA damage checkpoint
+MOD_PIKK_1,GO:0006975,DNA damage induced protein phosphorylation
+MOD_PIKK_1,GO:0005634,nucleus
+MOD_PIKK_1,GO:0004674,protein serine/threonine kinase
+MOD_PIKK_1,GO:0016447,somatic recombination of antibody genes
+MOD_PKA_1,GO:0005952,cAMP-dependent protein kinase complex
+MOD_PKA_1,GO:0019933,cAMP-mediated signalling
+MOD_PKA_1,GO:0005829,cytosol
+MOD_PKA_1,GO:0005634,nucleus
+MOD_PKA_1,GO:0010737,protein kinase A signaling cascade
+MOD_PKA_2,GO:0005952,cAMP-dependent protein kinase complex
+MOD_PKA_2,GO:0005829,cytosol
+MOD_PKA_2,GO:0005634,nucleus
+MOD_PKA_2,GO:0010737,protein kinase A signaling cascade
+MOD_PKB_1,GO:0005829,cytosol
+MOD_PKB_1,GO:0005634,nucleus
+MOD_PK_1,GO:0005829,cytosol
+MOD_PK_1,GO:0004689,phosphorylase kinase
+MOD_PRMT_GGRGG_1,GO:0005829,cytosol
+MOD_PRMT_GGRGG_1,GO:0032259,methylation
+MOD_PRMT_GGRGG_1,GO:0005634,nucleus
+MOD_PRMT_GGRGG_1,GO:0005515,protein binding
+MOD_PRMT_GGRGG_1,GO:0008104,protein localization
+MOD_PRMT_GGRGG_1,GO:0006606,protein-nucleus import
+MOD_PRMT_GGRGG_1,GO:0003723,RNA binding
+MOD_PRMT_GGRGG_1,GO:0006396,RNA processing
+MOD_PRMT_GGRGG_1,GO:0003697,single-stranded DNA binding
+MOD_PRMT_GGRGG_1,GO:0005681,spliceosome complex
+MOD_PRMT_GGRGG_1,GO:0016032,viral life cycle
+MOD_Plk_1,GO:0055059,asymmetric neuroblast division
+MOD_Plk_1,GO:0051301,Cell Division
+MOD_Plk_1,GO:0097149,centralspindlin complex
+MOD_Plk_1,GO:0007099,centriole replication
+MOD_Plk_1,GO:0007098,centrosome cycle
+MOD_Plk_1,GO:0003682,chromatin binding
+MOD_Plk_1,GO:0032154,cleavage furrow
+MOD_Plk_1,GO:0000910,cytokinesis
+MOD_Plk_1,GO:0005829,cytosol
+MOD_Plk_1,GO:0000086,G2/M transition of mitotic cell cycle
+MOD_Plk_1,GO:0043015,gamma-tubulin binding
+MOD_Plk_1,GO:0000930,gamma-tubulin complex
+MOD_Plk_1,GO:0000776,kinetochore
+MOD_Plk_1,GO:0000226,microtubule cytoskeleton organization and biogenesis
+MOD_Plk_1,GO:0005815,microtubule organizing center
+MOD_Plk_1,GO:0030496,midbody
+MOD_Plk_1,GO:0007076,mitotic chromosome condensation
+MOD_Plk_1,GO:0007080,mitotic metaphase plate congression
+MOD_Plk_1,GO:0007064,mitotic sister chromatid cohesion
+MOD_Plk_1,GO:0051256,mitotic spindle midzone assembly
+MOD_Plk_1,GO:0000799,nuclear condensin complex
+MOD_Plk_1,GO:0005654,nucleoplasm
+MOD_Plk_1,GO:0005634,nucleus
+MOD_Plk_1,GO:0016310,phosphorylation
+MOD_Plk_1,GO:0030674,"protein binding, bridging"
+MOD_Plk_1,GO:0019901,protein kinase binding
+MOD_Plk_1,GO:0051726,Regulation of cell cycle
+MOD_Plk_1,GO:0005819,spindle
+MOD_Plk_1,GO:0051233,spindle midzone
+MOD_Plk_2-3,GO:0005814,centriole
+MOD_Plk_2-3,GO:0007099,centriole replication
+MOD_Plk_2-3,GO:0005813,centrosome
+MOD_Plk_2-3,GO:0005829,cytosol
+MOD_Plk_2-3,GO:0006260,DNA replication
+MOD_Plk_2-3,GO:0090166,Golgi disassembly
+MOD_Plk_2-3,GO:0005730,nucleolus
+MOD_Plk_2-3,GO:0005634,nucleus
+MOD_Plk_2-3,GO:0016310,phosphorylation
+MOD_Plk_2-3,GO:0043065,positive regulation of apoptotic process
+MOD_Plk_2-3,GO:0005515,protein binding
+MOD_Plk_2-3,GO:1902806,regulation of cell cycle G1/S phase transition
+MOD_Plk_2-3,GO:0048168,regulation of neuronal synaptic plasticity
+MOD_Plk_2-3,GO:0001666,Response to hypoxia
+MOD_Plk_2-3,GO:0031146,SCF-dependent proteasomal ubiquitin-dependent protein catabolic process
+MOD_Plk_2-3,GO:0019005,SCF ubiquitin ligase complex
+MOD_Plk_4,GO:0034451,centriolar satellite
+MOD_Plk_4,GO:0005814,centriole
+MOD_Plk_4,GO:0007099,centriole replication
+MOD_Plk_4,GO:0051298,centrosome duplication
+MOD_Plk_4,GO:0060271,cilium morphogenesis
+MOD_Plk_4,GO:0032154,cleavage furrow
+MOD_Plk_4,GO:0005829,cytosol
+MOD_Plk_4,GO:0008274,gamma-tubulin ring complex
+MOD_Plk_4,GO:0007020,microtubule nucleation
+MOD_Plk_4,GO:0090307,mitotic spindle assembly
+MOD_Plk_4,GO:0005634,nucleus
+MOD_Plk_4,GO:0000242,pericentriolar material
+MOD_Plk_4,GO:0016310,phosphorylation
+MOD_Plk_4,GO:0005515,protein binding
+MOD_Plk_4,GO:0030674,"protein binding, bridging"
+MOD_Plk_4,GO:0019901,protein kinase binding
+MOD_Plk_4,GO:0071539,protein localization to centrosome
+MOD_Plk_4,GO:0031146,SCF-dependent proteasomal ubiquitin-dependent protein catabolic process
+MOD_Plk_4,GO:0019005,SCF ubiquitin ligase complex
+MOD_ProDKin_1,GO:0005829,cytosol
+MOD_ProDKin_1,GO:0004707,MAP kinase activity
+MOD_ProDKin_1,GO:0005634,nucleus
+MOD_ProDKin_1,GO:0006468,protein amino acid phosphorylation
+MOD_ProDKin_1,GO:0007165,signal transduction
+MOD_SPalmitoyl_2,GO:0046658,anchored to plasma membrane
+MOD_SPalmitoyl_2,GO:0005829,cytosol
+MOD_SPalmitoyl_2,GO:0018345,protein palmitoylation
+MOD_SPalmitoyl_4,GO:0046658,anchored to plasma membrane
+MOD_SPalmitoyl_4,GO:0005829,cytosol
+MOD_SPalmitoyl_4,GO:0018345,protein palmitoylation
+MOD_SUMO_for_1,GO:0016481,negative regulation of transcription
+MOD_SUMO_for_1,GO:0005634,nucleus
+MOD_SUMO_for_1,GO:0016605,PML body
+MOD_SUMO_for_1,GO:0006606,protein-nucleus import
+MOD_SUMO_for_1,GO:0016925,protein sumoylation
+MOD_SUMO_for_1,GO:0010468,regulation of gene expression
+MOD_SUMO_for_1,GO:0019940,SUMO-dependent protein catabolism
+MOD_SUMO_for_1,GO:0016927,sumoylation
+MOD_SUMO_rev_2,GO:0005634,nucleus
+MOD_SUMO_rev_2,GO:0016605,PML body
+MOD_SUMO_rev_2,GO:0016926,protein desumoylation
+MOD_SUMO_rev_2,GO:0006606,protein-nucleus import
+MOD_SUMO_rev_2,GO:0016925,protein sumoylation
+MOD_SUMO_rev_2,GO:0010468,regulation of gene expression
+MOD_SUMO_rev_2,GO:0032183,SUMO binding
+MOD_SUMO_rev_2,GO:0019789,SUMO transferase activity
+MOD_TYR_CSK,GO:0005829,cytosol
+MOD_TYR_CSK,GO:0006468,protein amino acid phosphorylation
+MOD_TYR_CSK,GO:0004713,protein tyrosine kinase
+MOD_TYR_DYR,GO:0005829,cytosol
+MOD_TYR_DYR,GO:0018018,peptidyl-tyrosine phosphorylation
+MOD_TYR_DYR,GO:0004689,phosphorylase kinase
+MOD_TYR_DYR,GO:0006468,protein amino acid phosphorylation
+MOD_TYR_DYR,GO:0004674,protein serine/threonine kinase
+MOD_WntLipid,GO:0005783,endoplasmic reticulum
+MOD_WntLipid,GO:0005576,extracellular
+MOD_WntLipid,GO:0016409,palmitoyltransferase activity
+MOD_WntLipid,GO:0016055,Wnt receptor signaling pathway
+TRG_AP2beta_CARGO_1,GO:0005829,cytosol
+TRG_AP2beta_CARGO_1,GO:0006897,endocytosis
+TRG_AP2beta_CARGO_1,GO:0031313,extrinsic to endosome membrane
+TRG_AP2beta_CARGO_1,GO:0005515,protein binding
+TRG_AP2beta_CARGO_1,GO:0008277,regulation of G-protein coupled receptor protein signaling pathway
+TRG_AP2beta_CARGO_1,GO:0032803,regulation of low-density lipoprotein receptor catabolic process
+TRG_AP2beta_CARGO_1,GO:0048259,regulation of receptor-mediated endocytosis
+TRG_Cilium_Arf4_1,GO:0005929,cilium
+TRG_Cilium_Arf4_1,GO:0060271,cilium morphogenesis
+TRG_Cilium_Arf4_1,GO:0005829,cytosol
+TRG_Cilium_Arf4_1,GO:0070319,Golgi to plasma membrane transport vesicle
+TRG_Cilium_Arf4_1,GO:0005802,Golgi trans-face
+TRG_Cilium_Arf4_1,GO:0048194,Golgi vesicle budding
+TRG_Cilium_Arf4_1,GO:0042073,intraflagellar transport
+TRG_Cilium_Arf4_1,GO:0005886,plasma membrane
+TRG_Cilium_Arf4_1,GO:0005515,protein binding
+TRG_Cilium_Arf4_1,GO:0031267,small GTPase binding
+TRG_Cilium_Arf4_1,GO:0012510,trans-Golgi network transport vesicle membrane
+TRG_Cilium_RVxP_2,GO:0005929,cilium
+TRG_Cilium_RVxP_2,GO:0060271,cilium morphogenesis
+TRG_Cilium_RVxP_2,GO:0005829,cytosol
+TRG_Cilium_RVxP_2,GO:0042073,intraflagellar transport
+TRG_Cilium_RVxP_2,GO:0005515,protein binding
+TRG_DiLeu_BaEn_1,GO:0098562,cytoplasmic side of membrane
+TRG_DiLeu_BaEn_1,GO:0005829,cytosol
+TRG_DiLeu_BaEn_1,GO:0051234,establishment of localization
+TRG_DiLeu_BaEn_1,GO:0006811,ion transport
+TRG_DiLeu_BaEn_1,GO:0051179,localization
+TRG_DiLeu_BaEn_1,GO:0006996,organelle organization
+TRG_DiLeu_BaEn_1,GO:0005886,plasma membrane
+TRG_DiLeu_BaEn_1,GO:0005515,protein binding
+TRG_DiLeu_BaEn_1,GO:0065008,regulation of biological quality
+TRG_DiLeu_BaEn_1,GO:0022857,transmembrane transporter activity
+TRG_DiLeu_BaEn_1,GO:0006810,transport
+TRG_DiLeu_BaEn_1,GO:0005215,transporter activity
+TRG_DiLeu_BaEn_2,GO:0098562,cytoplasmic side of membrane
+TRG_DiLeu_BaEn_2,GO:0005829,cytosol
+TRG_DiLeu_BaEn_2,GO:0051234,establishment of localization
+TRG_DiLeu_BaEn_2,GO:0006811,ion transport
+TRG_DiLeu_BaEn_2,GO:0051179,localization
+TRG_DiLeu_BaEn_2,GO:0006996,organelle organization
+TRG_DiLeu_BaEn_2,GO:0005886,plasma membrane
+TRG_DiLeu_BaEn_2,GO:0005515,protein binding
+TRG_DiLeu_BaEn_2,GO:0065008,regulation of biological quality
+TRG_DiLeu_BaEn_2,GO:0022857,transmembrane transporter activity
+TRG_DiLeu_BaEn_2,GO:0006810,transport
+TRG_DiLeu_BaEn_2,GO:0005215,transporter activity
+TRG_DiLeu_BaEn_3,GO:0098562,cytoplasmic side of membrane
+TRG_DiLeu_BaEn_3,GO:0005829,cytosol
+TRG_DiLeu_BaEn_3,GO:0051234,establishment of localization
+TRG_DiLeu_BaEn_3,GO:0006811,ion transport
+TRG_DiLeu_BaEn_3,GO:0051179,localization
+TRG_DiLeu_BaEn_3,GO:0006996,organelle organization
+TRG_DiLeu_BaEn_3,GO:0005886,plasma membrane
+TRG_DiLeu_BaEn_3,GO:0005515,protein binding
+TRG_DiLeu_BaEn_3,GO:0065008,regulation of biological quality
+TRG_DiLeu_BaEn_3,GO:0022857,transmembrane transporter activity
+TRG_DiLeu_BaEn_3,GO:0006810,transport
+TRG_DiLeu_BaEn_3,GO:0005215,transporter activity
+TRG_DiLeu_BaEn_4,GO:0098562,cytoplasmic side of membrane
+TRG_DiLeu_BaEn_4,GO:0005829,cytosol
+TRG_DiLeu_BaEn_4,GO:0051234,establishment of localization
+TRG_DiLeu_BaEn_4,GO:0006811,ion transport
+TRG_DiLeu_BaEn_4,GO:0051179,localization
+TRG_DiLeu_BaEn_4,GO:0006996,organelle organization
+TRG_DiLeu_BaEn_4,GO:0005886,plasma membrane
+TRG_DiLeu_BaEn_4,GO:0005515,protein binding
+TRG_DiLeu_BaEn_4,GO:0065008,regulation of biological quality
+TRG_DiLeu_BaEn_4,GO:0022857,transmembrane transporter activity
+TRG_DiLeu_BaEn_4,GO:0006810,transport
+TRG_DiLeu_BaEn_4,GO:0005215,transporter activity
+TRG_DiLeu_BaLyEn_6,GO:0098562,cytoplasmic side of membrane
+TRG_DiLeu_BaLyEn_6,GO:0005829,cytosol
+TRG_DiLeu_BaLyEn_6,GO:0051234,establishment of localization
+TRG_DiLeu_BaLyEn_6,GO:0006811,ion transport
+TRG_DiLeu_BaLyEn_6,GO:0051179,localization
+TRG_DiLeu_BaLyEn_6,GO:0006996,organelle organization
+TRG_DiLeu_BaLyEn_6,GO:0005886,plasma membrane
+TRG_DiLeu_BaLyEn_6,GO:0005515,protein binding
+TRG_DiLeu_BaLyEn_6,GO:0065008,regulation of biological quality
+TRG_DiLeu_BaLyEn_6,GO:0022857,transmembrane transporter activity
+TRG_DiLeu_BaLyEn_6,GO:0006810,transport
+TRG_DiLeu_BaLyEn_6,GO:0005215,transporter activity
+TRG_DiLeu_LyEn_5,GO:0098562,cytoplasmic side of membrane
+TRG_DiLeu_LyEn_5,GO:0005829,cytosol
+TRG_DiLeu_LyEn_5,GO:0051234,establishment of localization
+TRG_DiLeu_LyEn_5,GO:0006811,ion transport
+TRG_DiLeu_LyEn_5,GO:0051179,localization
+TRG_DiLeu_LyEn_5,GO:0006996,organelle organization
+TRG_DiLeu_LyEn_5,GO:0005886,plasma membrane
+TRG_DiLeu_LyEn_5,GO:0005515,protein binding
+TRG_DiLeu_LyEn_5,GO:0065008,regulation of biological quality
+TRG_DiLeu_LyEn_5,GO:0022857,transmembrane transporter activity
+TRG_DiLeu_LyEn_5,GO:0006810,transport
+TRG_DiLeu_LyEn_5,GO:0005215,transporter activity
+TRG_ENDOCYTIC_2,GO:0045334,clathrin-coated endocytic vesicle
+TRG_ENDOCYTIC_2,GO:0005829,cytosol
+TRG_ENDOCYTIC_2,GO:0006897,endocytosis
+TRG_ENDOCYTIC_2,GO:0015029,internalization receptor
+TRG_ENDOCYTIC_2,GO:0005886,plasma membrane
+TRG_ENDOCYTIC_2,GO:0006898,receptor mediated endocytosis
+TRG_ENDOCYTIC_2,GO:0005068,transmembrane receptor protein tyrosine kinase adaptor protein
+TRG_ER_FFAT_1,GO:0005829,cytosol
+TRG_ER_FFAT_1,GO:0042406,extrinsic to endoplasmic reticulum membrane
+TRG_ER_FFAT_1,GO:0031316,extrinsic to nuclear outer membrane
+TRG_ER_FFAT_1,GO:0031902,late endosome membrane
+TRG_ER_FFAT_1,GO:0044232,organelle membrane contact site
+TRG_ER_FFAT_1,GO:0005886,plasma membrane
+TRG_ER_FFAT_1,GO:0005515,protein binding
+TRG_ER_FFAT_1,GO:0045047,protein-ER targeting
+TRG_ER_FFAT_2,GO:0005829,cytosol
+TRG_ER_FFAT_2,GO:0042406,extrinsic to endoplasmic reticulum membrane
+TRG_ER_FFAT_2,GO:0031902,late endosome membrane
+TRG_ER_FFAT_2,GO:0044232,organelle membrane contact site
+TRG_ER_FFAT_2,GO:0005886,plasma membrane
+TRG_ER_FFAT_2,GO:0005515,protein binding
+TRG_ER_FFAT_2,GO:0045047,protein-ER targeting
+TRG_ER_KDEL_1,GO:0005783,endoplasmic reticulum
+TRG_ER_KDEL_1,GO:0016022,endoplasmic reticulum cisterna
+TRG_ER_KDEL_1,GO:0005788,endoplasmic reticulum lumen
+TRG_ER_KDEL_1,GO:0005794,Golgi apparatus
+TRG_ER_KDEL_1,GO:0005796,Golgi lumen
+TRG_ER_KDEL_1,GO:0006621,protein-ER retention
+TRG_ER_KDEL_1,GO:0045047,protein-ER targeting
+TRG_ER_KDEL_1,GO:0006605,protein targeting
+TRG_ER_KDEL_1,GO:0005102,receptor binding
+TRG_ER_KDEL_1,GO:0006890,retrograde (Golgi to ER) transport
+TRG_ER_KDEL_1,GO:0005791,rough endoplasmic reticulum
+TRG_ER_diArg_1,GO:0005829,cytosol
+TRG_ER_diArg_1,GO:0016022,endoplasmic reticulum cisterna
+TRG_ER_diArg_1,GO:0005789,endoplasmic reticulum membrane
+TRG_ER_diArg_1,GO:0030176,"endoplasmic reticulum membrane, integral protein"
+TRG_ER_diArg_1,GO:0012507,ER-Golgi transport vesicle membrane
+TRG_ER_diArg_1,GO:0012508,Golgi-ER transport vesicle membrane
+TRG_ER_diArg_1,GO:0005554,molecular function unknown
+TRG_ER_diArg_1,GO:0006621,protein-ER retention
+TRG_ER_diArg_1,GO:0045047,protein-ER targeting
+TRG_ER_diArg_1,GO:0006605,protein targeting
+TRG_ER_diArg_1,GO:0006890,retrograde (Golgi to ER) transport
+TRG_ER_diArg_1,GO:0005791,rough endoplasmic reticulum
+TRG_ER_diLys_1,GO:0030663,COPI coated vesicle membrane
+TRG_ER_diLys_1,GO:0005829,cytosol
+TRG_ER_diLys_1,GO:0005783,endoplasmic reticulum
+TRG_ER_diLys_1,GO:0016022,endoplasmic reticulum cisterna
+TRG_ER_diLys_1,GO:0005789,endoplasmic reticulum membrane
+TRG_ER_diLys_1,GO:0030176,"endoplasmic reticulum membrane, integral protein"
+TRG_ER_diLys_1,GO:0012507,ER-Golgi transport vesicle membrane
+TRG_ER_diLys_1,GO:0012508,Golgi-ER transport vesicle membrane
+TRG_ER_diLys_1,GO:0006886,intracellular protein transport
+TRG_ER_diLys_1,GO:0005515,protein binding
+TRG_ER_diLys_1,GO:0006621,protein-ER retention
+TRG_ER_diLys_1,GO:0045047,protein-ER targeting
+TRG_ER_diLys_1,GO:0006605,protein targeting
+TRG_ER_diLys_1,GO:0006890,retrograde (Golgi to ER) transport
+TRG_ER_diLys_1,GO:0005791,rough endoplasmic reticulum
+TRG_ER_diLys_1,GO:0045045,secretory pathway
+TRG_ER_diLys_1,GO:0016192,vesicle-mediated transport
+TRG_Golgi_diPhe_1,GO:0030664,COPII-coated vesicle membrane
+TRG_Golgi_diPhe_1,GO:0005829,cytosol
+TRG_Golgi_diPhe_1,GO:0005783,endoplasmic reticulum
+TRG_Golgi_diPhe_1,GO:0030176,"endoplasmic reticulum membrane, integral protein"
+TRG_Golgi_diPhe_1,GO:0012507,ER-Golgi transport vesicle membrane
+TRG_Golgi_diPhe_1,GO:0006888,ER to Golgi transport
+TRG_Golgi_diPhe_1,GO:0005794,Golgi apparatus
+TRG_Golgi_diPhe_1,GO:0005801,Golgi cis-face
+TRG_Golgi_diPhe_1,GO:0005515,protein binding
+TRG_Golgi_diPhe_1,GO:0000042,protein-Golgi targeting
+TRG_Golgi_diPhe_1,GO:0006605,protein targeting
+TRG_Golgi_diPhe_1,GO:0045045,secretory pathway
+TRG_Golgi_diPhe_1,GO:0016192,vesicle-mediated transport
+TRG_LysEnd_GGAAcLL_1,GO:0005829,cytosol
+TRG_LysEnd_GGAAcLL_1,GO:0005887,integral plasma membrane protein
+TRG_LysEnd_GGAAcLL_1,GO:0006886,intracellular protein transport
+TRG_LysEnd_GGAAcLL_1,GO:0005886,plasma membrane
+TRG_LysEnd_GGAAcLL_1,GO:0005515,protein binding
+TRG_LysEnd_GGAAcLL_1,GO:0006605,protein targeting
+TRG_LysEnd_GGAAcLL_2,GO:0005829,cytosol
+TRG_LysEnd_GGAAcLL_2,GO:0006886,intracellular protein transport
+TRG_LysEnd_GGAAcLL_2,GO:0005515,protein binding
+TRG_LysEnd_GGAAcLL_2,GO:0042802,protein self binding
+TRG_LysEnd_GGAAcLL_2,GO:0006605,protein targeting
+TRG_NES_CRM1_1,GO:0005829,cytosol
+TRG_NES_CRM1_1,GO:0051168,nuclear export
+TRG_NES_CRM1_1,GO:0006913,nucleocytoplasmic transport
+TRG_NES_CRM1_1,GO:0005634,nucleus
+TRG_NES_CRM1_1,GO:0005515,protein binding
+TRG_NES_CRM1_1,GO:0006611,protein export from nucleus
+TRG_NESrev_CRM1_2,GO:0005829,cytosol
+TRG_NESrev_CRM1_2,GO:0051168,nuclear export
+TRG_NESrev_CRM1_2,GO:0006913,nucleocytoplasmic transport
+TRG_NESrev_CRM1_2,GO:0005634,nucleus
+TRG_NESrev_CRM1_2,GO:0005515,protein binding
+TRG_NESrev_CRM1_2,GO:0006611,protein export from nucleus
+TRG_NLS_Bipartite_1,GO:0006607,NLS-bearing substrate import into nucleus
+TRG_NLS_Bipartite_1,GO:0042564,NLS-dependent protein nuclear import complex
+TRG_NLS_Bipartite_1,GO:0008139,nuclear localization sequence binding
+TRG_NLS_Bipartite_1,GO:0005643,Nuclear pore
+TRG_NLS_Bipartite_1,GO:0006913,nucleocytoplasmic transport
+TRG_NLS_Bipartite_1,GO:0005634,nucleus
+TRG_NLS_Bipartite_1,GO:0005515,protein binding
+TRG_NLS_Bipartite_1,GO:0006606,protein-nucleus import
+TRG_NLS_MonoCore_2,GO:0006607,NLS-bearing substrate import into nucleus
+TRG_NLS_MonoCore_2,GO:0042564,NLS-dependent protein nuclear import complex
+TRG_NLS_MonoCore_2,GO:0008139,nuclear localization sequence binding
+TRG_NLS_MonoCore_2,GO:0005643,Nuclear pore
+TRG_NLS_MonoCore_2,GO:0006913,nucleocytoplasmic transport
+TRG_NLS_MonoCore_2,GO:0005634,nucleus
+TRG_NLS_MonoCore_2,GO:0005515,protein binding
+TRG_NLS_MonoCore_2,GO:0006606,protein-nucleus import
+TRG_NLS_MonoExtC_3,GO:0006607,NLS-bearing substrate import into nucleus
+TRG_NLS_MonoExtC_3,GO:0042564,NLS-dependent protein nuclear import complex
+TRG_NLS_MonoExtC_3,GO:0008139,nuclear localization sequence binding
+TRG_NLS_MonoExtC_3,GO:0005643,Nuclear pore
+TRG_NLS_MonoExtC_3,GO:0006913,nucleocytoplasmic transport
+TRG_NLS_MonoExtC_3,GO:0005634,nucleus
+TRG_NLS_MonoExtC_3,GO:0005515,protein binding
+TRG_NLS_MonoExtC_3,GO:0006606,protein-nucleus import
+TRG_NLS_MonoExtN_4,GO:0006607,NLS-bearing substrate import into nucleus
+TRG_NLS_MonoExtN_4,GO:0042564,NLS-dependent protein nuclear import complex
+TRG_NLS_MonoExtN_4,GO:0008139,nuclear localization sequence binding
+TRG_NLS_MonoExtN_4,GO:0005643,Nuclear pore
+TRG_NLS_MonoExtN_4,GO:0006913,nucleocytoplasmic transport
+TRG_NLS_MonoExtN_4,GO:0005634,nucleus
+TRG_NLS_MonoExtN_4,GO:0005515,protein binding
+TRG_NLS_MonoExtN_4,GO:0006606,protein-nucleus import
+TRG_Oom_RxLR_1,GO:0005783,endoplasmic reticulum
+TRG_Oom_RxLR_1,GO:0005788,endoplasmic reticulum lumen
+TRG_Oom_RxLR_1,GO:0005576,extracellular
+TRG_Oom_RxLR_1,GO:0085035,haustorium
+TRG_Oom_RxLR_1,GO:0030430,host cell cytoplasm
+TRG_Oom_RxLR_1,GO:0020002,host cell plasma membrane
+TRG_Oom_RxLR_1,GO:0051851,modulation by host of symbiont process
+TRG_Oom_RxLR_1,GO:0008320,protein transmembrane transporter activity
+TRG_Oom_RxLR_1,GO:0030581,symbiont intracellular protein transport in host
+TRG_PTS1,GO:0005829,cytosol
+TRG_PTS1,GO:0005782,peroxisomal matrix
+TRG_PTS1,GO:0005777,peroxisome
+TRG_PTS1,GO:0016558,peroxisome matrix protein import
+TRG_PTS1,GO:0005052,peroxisome targeting signal-1 receptor
+TRG_PTS1,GO:0006625,protein-peroxisome targeting
+TRG_PTS2,GO:0005829,cytosol
+TRG_PTS2,GO:0005782,peroxisomal matrix
+TRG_PTS2,GO:0005777,peroxisome
+TRG_PTS2,GO:0016558,peroxisome matrix protein import
+TRG_PTS2,GO:0005053,peroxisome targeting signal-2 receptor
+TRG_PTS2,GO:0006625,protein-peroxisome targeting
+TRG_Pf-PMV_PEXEL_1,GO:0070001,aspartic-type peptidase activity
+TRG_Pf-PMV_PEXEL_1,GO:0005783,endoplasmic reticulum
+TRG_Pf-PMV_PEXEL_1,GO:0005576,extracellular
+TRG_Pf-PMV_PEXEL_1,GO:0030430,host cell cytoplasm
+TRG_Pf-PMV_PEXEL_1,GO:0039662,host cell outer membrane
+TRG_Pf-PMV_PEXEL_1,GO:0044003,modification by symbiont of host morphology or physiology
+TRG_Pf-PMV_PEXEL_1,GO:0140221,pathogen-containing vacuole membrane
+TRG_Pf-PMV_PEXEL_1,GO:0009405,pathogenesis
+TRG_Pf-PMV_PEXEL_1,GO:0008320,protein transmembrane transporter activity
+TRG_Pf-PMV_PEXEL_1,GO:0030581,symbiont intracellular protein transport in host
