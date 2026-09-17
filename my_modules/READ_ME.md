@@ -1,0 +1,158 @@
+## ELM Motif Query
+
+This module scans protein FASTA files for **Short Linear Motifs (SLiMs)** using the **ELM database** and `gget`. ELM motif results can optionally be filtered based on predicted protein disorder using **IUPred3**, with additional filtering for predicted disordered binding regions using **ANCHOR2**.
+
+### Input
+
+Place single- or multi-record FASTA files in:
+
+```text id="kgd0qi"
+my_modules/ELM_motif_query/input_folder
+```
+
+The script processes all files ending in `.fasta` within the input folder and analyzes each FASTA record individually.
+
+### Running the Script
+
+#### Get all ELM results
+
+Run the script without additional arguments:
+
+```bash id="ks9w8d"
+python my_modules/ELM_motif_query/modules/ELM_motif_query_automation_filtering.py
+```
+
+For each sequence, `gget.elm` searches for ELM motifs and produces:
+
+```text id="f9bjr1"
+<sequence>_elm_ortholog_results.csv
+<sequence>_elm_motif_results.csv
+```
+
+The **ortholog results** contain ELM information identified through related proteins, while the **motif results** contain all regex-based ELM motif matches identified within the sequence.
+
+#### Filter motifs using IUPred3
+
+Add `--filter` to classify and filter ELM motifs based on **IUPred3-predicted protein disorder**:
+
+```bash id="k65cqx"
+python my_modules/ELM_motif_query/modules/ELM_motif_query_automation_filtering.py --filter
+```
+
+IUPred3 assigns a disorder score to each amino acid. Using a threshold of **0.5**, each ELM motif is classified as:
+
+* `disordered` — all residues in the motif have IUPred3 scores > 0.5
+* `ordered` — all residues in the motif have IUPred3 scores < 0.5
+* `inbetween` — the motif is not entirely within either category
+
+This produces:
+
+```text id="olwyzl"
+<sequence>_elm_motif_results_labeled.csv
+<sequence>_elm_motif_results_disordered.csv
+```
+
+The `labeled` file contains all ELM regex motif results with an additional `IUPred` classification. The `disordered` file contains only motifs classified as entirely disordered.
+
+The ELM ortholog results are also saved independently of motif filtering.
+
+### IUPred3 Options
+
+The IUPred3 analysis can be modified using the following arguments:
+
+* **`-i`, `--iupred_type`** — Selects the IUPred3 prediction mode: `long` or `short`. Default: `long`.
+* **`-s`, `--smoothing`** — Selects the smoothing applied to IUPred3 scores: `none`, `medium`, or `strong`. Default: `medium`.
+* **`-a`, `--anchor2`** — Runs **ANCHOR2** and applies an additional filter to motifs already classified as disordered.
+
+For example:
+
+```bash id="i13dwj"
+python my_modules/ELM_motif_query/modules/ELM_motif_query_automation_filtering.py --filter -i short -s strong
+```
+
+### ANCHOR2 Filtering
+
+ANCHOR2 can be enabled in addition to IUPred3 filtering using:
+
+```bash id="2bq6h3"
+python my_modules/ELM_motif_query/modules/ELM_motif_query_automation_filtering.py --filter -a
+```
+
+ANCHOR2 is applied only to motifs that have already been classified as entirely `disordered` by IUPred3. A motif is classified as:
+
+* `positive` — all residues within the motif have ANCHOR2 scores > 0.5
+* `negative` — one or more residues within the motif do not have ANCHOR2 scores > 0.5
+
+When ANCHOR2 is enabled, the `disordered` output includes an additional `ANCHOR2` column, and an additional file is generated:
+
+```text id="jzm1yn"
+<sequence>_elm_motif_results_anchor2.csv
+```
+
+This file contains only motifs that are both **entirely disordered according to IUPred3** and **entirely ANCHOR2-positive**.
+
+IUPred3 and ANCHOR2 options can be combined:
+
+```bash id="0g4r1q"
+python my_modules/ELM_motif_query/modules/ELM_motif_query_automation_filtering.py --filter -i short -s strong -a
+```
+
+### Output
+
+All results are written to:
+
+```text id="c3f8jv"
+my_modules/ELM_motif_query/output_folder
+```
+
+The output folder is created automatically if it does not already exist.
+
+## Motif Matrix
+
+The `motif_matrix.py` script can be used after running the ELM motif query to compare motif presence across multiple sequences. It creates a version of each result file containing only one entry per unique `ELMIdentifier`, then generates a matrix where `1` indicates that a motif is present in a sequence and `0` indicates that it is absent.
+
+Run:
+
+```bash
+python my_modules/ELM_motif_query/modules/motif_matrix.py -n <matrix_name>
+```
+
+The `-n` / `--name` argument is required and determines the output matrix name. By default, the script uses the `labeled` ELM results.
+
+To instead create a matrix from filtered results, use `-t` / `--type`:
+
+```bash
+python my_modules/ELM_motif_query/modules/motif_matrix.py -n <matrix_name> -t disordered
+```
+
+Available types are `labeled` (default), `disordered`, and `anchor2`.
+
+The matrix is saved in `my_modules/ELM_motif_query/output_folder` as:
+
+```text
+<matrix_name>_<type>_motif_matrix.csv
+```
+
+## Motif Conservation
+
+The `motif_conservation.py` script uses the **motif matrix generated by `motif_matrix.py` as its input** to calculate the percentage of sequences containing each motif. It groups motifs by their ELM class prefix and generates plots showing motif conservation across the sequence set.
+
+If there is only one file ending in `_motif_matrix.csv` in `my_modules/ELM_motif_query/output_folder`, run:
+
+```bash
+python my_modules/analyzing_motif_matrix/modules/motif_conservation.py
+```
+
+The script will automatically use that motif matrix as its input.
+
+If there are multiple motif matrices in the output folder, or you want to analyze a matrix at a different path, specify the desired matrix using `-i` / `--input`:
+
+```bash
+python my_modules/analyzing_motif_matrix/modules/motif_conservation.py -i <path_to_motif_matrix.csv>
+```
+
+For each ELM motif, the script calculates the percentage of sequences in the matrix in which that motif is present. Separate plots are generated for each ELM motif class and saved in:
+
+```text
+my_modules/ELM_motif_query/output_folder
+```
